@@ -1,73 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>通鉴日谈</title>
-    <link>https://topsuper01.github.io/tongjian-podcast</link>
-    <description>每天五分钟，用古人的故事讲今天的道理。沿资治通鉴原文时间线，逐集讲述两千年前的权谋、战争与人性。</description>
+    <link>https://topsuper01.github.io/tongjian-podcast/</link>
     <language>zh-cn</language>
-    <itunes:author>通鉴日谈</itunes:author>
-    <itunes:summary>每天五分钟，用古人的故事讲今天的道理。沿资治通鉴原文时间线，逐集讲述两千年前的权谋、战争与人性。</itunes:summary>
-    <itunes:image href="https://topsuper01.github.io/tongjian-podcast/cover/通鉴日谈-podcast-cover.jpg" />
-    <itunes:category text="History" />
-    <itunes:explicit>false</itunes:explicit>
+    <copyright>© 2026 通鉴日谈</copyright>
+    <description>每天用古人的故事讲今天的道理。沿着资治通鉴原文时间线，两位主播带你穿越千年，看帝王将相的成败得失，悟今天的职场与人生。</description>
+    <lastBuildDate>Sun, 14 Jun 2026 14:58:48 GMT</lastBuildDate>
+    <ns0:author>通鉴日谈</ns0:author>
+    <ns0:summary>每天用古人的故事讲今天的道理。沿着资治通鉴原文时间线，两位主播带你穿越千年，看帝王将相的成败得失，悟今天的职场与人生。</ns0:summary>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:type>episodic</ns0:type>
+    <ns0:owner>
+      <ns0:name>通鉴日谈</ns0:name>
+      <ns0:email>tongjian@podcast.com</ns0:email>
+    </ns0:owner>
+    <ns0:image>
+      <ns0:href>https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/podcast-cover.jpg</ns0:href>
+    </ns0:image>
+    <ns0:category text="History"/>
     <item>
-      <title>通鉴日谈001 - 三家分晋：规则从内部崩塌最危险</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈001-三家分晋-规则从内部崩塌最危险.mp3</link>
-      <description>👑 十一个字引发的千古之骂
+      <title>通鉴日谈通鉴日谈001：三家分晋-规则从内部崩塌最危险</title>
+      <description># 通鉴日谈001 - 三家分晋：规则从内部崩塌最危险
+👑 十一个字引发的千古之骂
 全书第一句"初命晋大夫魏斯、赵籍、韩虔为诸侯"，司马光却用上千字痛批。为什么？因为周天子亲手承认了以下犯上的合法性——你不是被打败的，是你自己盖章的。
 🗡️ 五优一缺的智伯为何惨死
 晋国最强家族智伯，长得帅、骑射好、才艺全、口才好、性格果断，但有一个致命缺点——不仁。他用五个优点压制别人，在宴会上公开羞辱韩康子，狂言"谁敢兴之"。结果被他最看不起的人联手灭了。
 💡今日启示：规则从内部崩塌最危险——管理者自己开口子，别人就心安理得地跟进。才能超过品德就是小人，小人得势必遭反噬。
 下期预告：智伯的家臣豫让，为了报仇毁容吞炭，两次刺杀赵襄子——他选的不是最聪明的路，而是最不可逆的路。</description>
-      <ns1:encoded># 通鉴日谈001 - 三家分晋
-
-战国开篇，三家分晋——周天子正式承认赵、魏、韩为诸侯，礼崩乐坏的序幕就此拉开……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈001-三家分晋-规则从内部崩塌最危险.mp3" length="3569415" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈001-三家分晋-规则从内部崩塌最危险.mp3</guid>
-      <pubDate>Fri, 01 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈001 - 三家分晋：规则从内部崩塌最危险
+👑 十一个字引发的千古之骂
+全书第一句"初命晋大夫魏斯、赵籍、韩虔为诸侯"，司马光却用上千字痛批。为什么？因为周天子亲手承认了以下犯上的合法性——你不是被打败的，是你自己盖章的。
+🗡️ 五优一缺的智伯为何惨死
+晋国最强家族智伯，长得帅、骑射好、才艺全、口才好、性格果断，但有一个致命缺点——不仁。他用五个优点压制别人，在宴会上公开羞辱韩康子，狂言"谁敢兴之"。结果被他最看不起的人联手灭了。
+💡今日启示：规则从内部崩塌最危险——管理者自己开口子，别人就心安理得地跟进。才能超过品德就是小人，小人得势必遭反噬。
+下期预告：智伯的家臣豫让，为了报仇毁容吞炭，两次刺杀赵襄子——他选的不是最聪明的路，而是最不可逆的路。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈001-三家分晋-规则从内部崩塌最危险.mp3" length="3569415" type="audio/mpeg"/>
+      <ns0:duration>03:43</ns0:duration>
+      <pubDate>Fri, 01 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>1</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈002 - 豫让报仇：忠诚是对等的</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈002-豫让报仇-忠诚是对等的.mp3</link>
-      <description>🗡️ 两次刺杀，两次失败
+    <item>
+      <title>通鉴日谈通鉴日谈002：豫让报仇-忠诚是对等的</title>
+      <description># 通鉴日谈002 - 豫让报仇：忠诚是对等的
+🗡️ 两次刺杀，两次失败
 智伯被灭后，家臣豫让不肯翻篇。第一次伪装混进赵襄子宫里修厕所，赵襄子"心动"被抓，却被放了。第二次更狠——全身涂漆长满癞疮，吞炭毁嗓，连妻子都认不出他。朋友劝他假装投靠更容易接近，他拒绝：那叫怀二心，我选最难的路，要让天下怀二心的人羞愧。
 ⚔️ 你给我什么待遇，我给你什么忠诚
 赵襄子问他：你以前也侍奉范氏中行氏，他们被灭你怎么不报仇？豫让的回答千古传诵："众人遇臣，众人报之；国士遇臣，国士报之。"忠诚不是无条件的，它是对等交换。
 💡今日启示：忠诚是对等的——你给别人什么尊重，就得到什么忠诚。真正的忠不是选最聪明的路，是选最不可逆的路。
 下期预告：如果你是领导，怎么让别人心甘情愿为你卖命？魏文侯用五条领导力密码给出了答案。</description>
-      <ns1:encoded># 通鉴日谈002 - 豫让报仇
-
-士为知己者死——豫让漆身吞炭，两次行刺赵襄子，留下千古名言……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈002-豫让报仇-忠诚是对等的.mp3" length="3838581" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈002-豫让报仇-忠诚是对等的.mp3</guid>
-      <pubDate>Sat, 02 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈002 - 豫让报仇：忠诚是对等的
+🗡️ 两次刺杀，两次失败
+智伯被灭后，家臣豫让不肯翻篇。第一次伪装混进赵襄子宫里修厕所，赵襄子"心动"被抓，却被放了。第二次更狠——全身涂漆长满癞疮，吞炭毁嗓，连妻子都认不出他。朋友劝他假装投靠更容易接近，他拒绝：那叫怀二心，我选最难的路，要让天下怀二心的人羞愧。
+⚔️ 你给我什么待遇，我给你什么忠诚
+赵襄子问他：你以前也侍奉范氏中行氏，他们被灭你怎么不报仇？豫让的回答千古传诵："众人遇臣，众人报之；国士遇臣，国士报之。"忠诚不是无条件的，它是对等交换。
+💡今日启示：忠诚是对等的——你给别人什么尊重，就得到什么忠诚。真正的忠不是选最聪明的路，是选最不可逆的路。
+下期预告：如果你是领导，怎么让别人心甘情愿为你卖命？魏文侯用五条领导力密码给出了答案。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈002-豫让报仇-忠诚是对等的.mp3" length="3838581" type="audio/mpeg"/>
+      <ns0:duration>03:59</ns0:duration>
+      <pubDate>Sat, 02 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>2</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈003 - 魏文侯的领导力密码</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈003-魏文侯的领导力密码.mp3</link>
-      <description>🎯 尊贤、守信、中立、纳谏、识人
+    <item>
+      <title>通鉴日谈通鉴日谈003：魏文侯的领导力密码</title>
+      <description># 通鉴日谈003 - 魏文侯的领导力密码
+🎯 尊贤、守信、中立、纳谏、识人
 三家分晋后魏国第一任掌门人，司马光几乎用整卷篇幅展示他的领导力：尊贤——每次路过隐士茅屋必俯身行礼；守信——冒雨赴一个管猎场小官的约定；中立——韩赵借兵互打，两边都拒绝，结果两边都来朝拜；纳谏——臣子当面怼他，反而请回当上宾；识人——"识人五法"至今面试还在用。
 👂 耳朵太灵，对人的判断就迟钝了
 魏文侯听出编钟音准有偏差，田子方笑了：当领导的该关心乐官称不称职，不是自己去听音准。微观管理的千年警告。
 💡今日启示：领导力不是一套技巧，而是五个习惯——尊重人才、守住信用、保持中立、接受批评、善于识人。每一条都有具体的故事支撑，不是空道理。
 下期预告：一个军事天才，赢了所有战争，却输了所有人生——吴起的悲剧从杀妻求将开始。</description>
-      <ns1:encoded># 通鉴日谈003 - 魏文侯的领导力密码
-
-魏文侯用人不疑、从谏如流，打造战国第一强国……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈003-魏文侯的领导力密码.mp3" length="4278692" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈003-魏文侯的领导力密码.mp3</guid>
-      <pubDate>Sun, 03 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>4:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈003 - 魏文侯的领导力密码
+🎯 尊贤、守信、中立、纳谏、识人
+三家分晋后魏国第一任掌门人，司马光几乎用整卷篇幅展示他的领导力：尊贤——每次路过隐士茅屋必俯身行礼；守信——冒雨赴一个管猎场小官的约定；中立——韩赵借兵互打，两边都拒绝，结果两边都来朝拜；纳谏——臣子当面怼他，反而请回当上宾；识人——"识人五法"至今面试还在用。
+👂 耳朵太灵，对人的判断就迟钝了
+魏文侯听出编钟音准有偏差，田子方笑了：当领导的该关心乐官称不称职，不是自己去听音准。微观管理的千年警告。
+💡今日启示：领导力不是一套技巧，而是五个习惯——尊重人才、守住信用、保持中立、接受批评、善于识人。每一条都有具体的故事支撑，不是空道理。
+下期预告：一个军事天才，赢了所有战争，却输了所有人生——吴起的悲剧从杀妻求将开始。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈003-魏文侯的领导力密码.mp3" length="4278692" type="audio/mpeg"/>
+      <ns0:duration>04:27</ns0:duration>
+      <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>3</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈004 - 吴起：天才的代价</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈004-吴起-天才的代价.mp3</link>
-      <description>💀 杀妻求将，赢了仗被排挤
+    <item>
+      <title>通鉴日谈通鉴日谈004：吴起-天才的代价</title>
+      <description># 通鉴日谈004 - 吴起：天才的代价
+💀 杀妻求将，赢了仗被排挤
 齐国攻鲁，鲁国想让吴起当将军，但他妻子是齐国人。吴起做了一个震惊所有人的决定——杀妻表忠心。赢了仗，却被人翻出老底：母亲死了不奔丧、杀妻求将，四个字"残忍薄行"。鲁国待不住了，跑去魏国。
 🖤 将军亲自吸脓，士兵母亲哭了
 吴起对士兵极好，亲自用嘴给士兵吸脓。士兵母亲听说后哭了——当年吴公也给她丈夫吸过脓，她丈夫感激得战死了。这位母亲看透了：吴起的"爱"是一种控制术，你欠了他的情，就得用命去还。
@@ -75,55 +99,72 @@
 楚悼王死后贵族叛乱围攻吴起，他跑到王尸旁伏下——叛乱者射杀他，箭也射中了王尸。按楚法伤王尸灭族，新王诛杀七十多家。吴起用死拉了一大批人陪葬，但自己还是死了。
 💡今日启示：才能让你上场，但不能保证你下场。每一步都得罪人，每一个靠山都先你而去，每一次改革都树敌太多——光有才能够不够？吴起的答案很残酷。
 下期预告：齐威王用"煮人"解决了一个所有领导者都遇到的问题——你怎么知道底下人有没有骗你？</description>
-      <ns1:encoded># 通鉴日谈004 - 吴起：天才的代价
-
-军事天才吴起，杀妻求将、所向披靡，却始终不被信任……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈004-吴起-天才的代价.mp3" length="4063861" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈004-吴起-天才的代价.mp3</guid>
-      <pubDate>Mon, 04 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>4:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈004 - 吴起：天才的代价
+💀 杀妻求将，赢了仗被排挤
+齐国攻鲁，鲁国想让吴起当将军，但他妻子是齐国人。吴起做了一个震惊所有人的决定——杀妻表忠心。赢了仗，却被人翻出老底：母亲死了不奔丧、杀妻求将，四个字"残忍薄行"。鲁国待不住了，跑去魏国。
+🖤 将军亲自吸脓，士兵母亲哭了
+吴起对士兵极好，亲自用嘴给士兵吸脓。士兵母亲听说后哭了——当年吴公也给她丈夫吸过脓，她丈夫感激得战死了。这位母亲看透了：吴起的"爱"是一种控制术，你欠了他的情，就得用命去还。
+🔥 临死还在算计
+楚悼王死后贵族叛乱围攻吴起，他跑到王尸旁伏下——叛乱者射杀他，箭也射中了王尸。按楚法伤王尸灭族，新王诛杀七十多家。吴起用死拉了一大批人陪葬，但自己还是死了。
+💡今日启示：才能让你上场，但不能保证你下场。每一步都得罪人，每一个靠山都先你而去，每一次改革都树敌太多——光有才能够不够？吴起的答案很残酷。
+下期预告：齐威王用"煮人"解决了一个所有领导者都遇到的问题——你怎么知道底下人有没有骗你？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈004-吴起-天才的代价.mp3" length="4063861" type="audio/mpeg"/>
+      <ns0:duration>04:13</ns0:duration>
+      <pubDate>Mon, 04 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>4</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈005 - 齐威王：煮人与煮言</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈005-齐威王-煮人与煮言.mp3</link>
-      <description>🔥 说好话的煮了，说坏话的封了
+    <item>
+      <title>通鉴日谈通鉴日谈005：齐威王-煮人与煮言</title>
+      <description># 通鉴日谈005 - 齐威王：煮人与煮言
+🔥 说好话的煮了，说坏话的封了
 身边人天天说即墨大夫坏话、夸阿城大夫。齐威王没有信多数，派人暗访——即墨田野开辟百姓富足，阿城田野荒芜百姓贫馁。为什么？即墨大夫不贿赂身边人，阿城大夫花钱打点。齐威王封即墨大夫万家，煮了阿城大夫和帮他说好话的人。
 👁️ 九年不管事，突然杀伐果断
 齐威王即位后荒了九年，诸侯欺负齐国他不管。那九年他不是在玩，是在看。看清楚了谁在真干谁在演戏，一出手就是杀招。他还做了一件别人都不做的事——去朝见已经微弱到没人理的周天子，天下因此更认为他贤明。
 💡今日启示：领导者最大的危险不是有人骗你，而是身边人形成信息垄断。齐威王的厉害不在于煮人，在于绕过信息封锁亲自去看——别只听汇报，去看现场。
 下期预告：卫侯身边也全是说好话的人，但子思三次劝谏，他一次都没听进去。当所有人对你说好话，谁来告诉你真相？</description>
-      <ns1:encoded># 通鉴日谈005 - 齐威王：煮人与煮言
-
-齐威王即墨和阿大夫的故事——谁是真话，谁是马屁？一煮见分晓……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈005-齐威王-煮人与煮言.mp3" length="2860556" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈005-齐威王-煮人与煮言.mp3</guid>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>2:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈005 - 齐威王：煮人与煮言
+🔥 说好话的煮了，说坏话的封了
+身边人天天说即墨大夫坏话、夸阿城大夫。齐威王没有信多数，派人暗访——即墨田野开辟百姓富足，阿城田野荒芜百姓贫馁。为什么？即墨大夫不贿赂身边人，阿城大夫花钱打点。齐威王封即墨大夫万家，煮了阿城大夫和帮他说好话的人。
+👁️ 九年不管事，突然杀伐果断
+齐威王即位后荒了九年，诸侯欺负齐国他不管。那九年他不是在玩，是在看。看清楚了谁在真干谁在演戏，一出手就是杀招。他还做了一件别人都不做的事——去朝见已经微弱到没人理的周天子，天下因此更认为他贤明。
+💡今日启示：领导者最大的危险不是有人骗你，而是身边人形成信息垄断。齐威王的厉害不在于煮人，在于绕过信息封锁亲自去看——别只听汇报，去看现场。
+下期预告：卫侯身边也全是说好话的人，但子思三次劝谏，他一次都没听进去。当所有人对你说好话，谁来告诉你真相？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈005-齐威王-煮人与煮言.mp3" length="2860556" type="audio/mpeg"/>
+      <ns0:duration>02:58</ns0:duration>
+      <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>5</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈006 - 子思三谏卫侯：当所有人对你说好话</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈006-子思三谏卫侯-当所有人对你说好话.mp3</link>
-      <description>🥚 两个鸡蛋不用一员大将
+    <item>
+      <title>通鉴日谈通鉴日谈006：子思三谏卫侯-当所有人对你说好话</title>
+      <description># 通鉴日谈006 - 子思三谏卫侯：当所有人对你说好话
+🥚 两个鸡蛋不用一员大将
 子思推荐苟变，说他能带五百乘兵。卫侯说：我知道他能打，但他以前当小吏吃了百姓两个鸡蛋，不用。子思反驳：用人如用木，粗大的树有几尺朽烂，好木匠也不整棵扔掉。战国之世，为两个鸡蛋放弃大将？
 🔒 信息茧房的古代版
 卫侯说了一个明显错误的决策，群臣异口同声叫好。子思直接骂"君不君臣不臣"——领导自己觉得对，别人就不敢提意见；只听赞同等于排斥不同意见，何况赞同的还可能是错的。不辨是非只喜欢被夸，是最暗的；不讲道理只求讨好，是最谄的。
 💡今日启示：齐威王和卫侯，同样被信息包围，一个冲破了，一个困在里面。差别在于——一个信自己的眼睛，一个信别人的嘴。上暗下谄，老百姓不会跟你走。
 下期预告：三家分晋是猛然一击，田氏代齐则是温水煮青蛙——用一个家族近三百年的耐心，蚕食掉一个六百年的国家。</description>
-      <ns1:encoded># 通鉴日谈006 - 子思三谏卫侯
-
-子思三次进谏卫侯，句句切中要害，卫侯却充耳不闻……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈006-子思三谏卫侯-当所有人对你说好话.mp3" length="3654261" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈006-子思三谏卫侯-当所有人对你说好话.mp3</guid>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈006 - 子思三谏卫侯：当所有人对你说好话
+🥚 两个鸡蛋不用一员大将
+子思推荐苟变，说他能带五百乘兵。卫侯说：我知道他能打，但他以前当小吏吃了百姓两个鸡蛋，不用。子思反驳：用人如用木，粗大的树有几尺朽烂，好木匠也不整棵扔掉。战国之世，为两个鸡蛋放弃大将？
+🔒 信息茧房的古代版
+卫侯说了一个明显错误的决策，群臣异口同声叫好。子思直接骂"君不君臣不臣"——领导自己觉得对，别人就不敢提意见；只听赞同等于排斥不同意见，何况赞同的还可能是错的。不辨是非只喜欢被夸，是最暗的；不讲道理只求讨好，是最谄的。
+💡今日启示：齐威王和卫侯，同样被信息包围，一个冲破了，一个困在里面。差别在于——一个信自己的眼睛，一个信别人的嘴。上暗下谄，老百姓不会跟你走。
+下期预告：三家分晋是猛然一击，田氏代齐则是温水煮青蛙——用一个家族近三百年的耐心，蚕食掉一个六百年的国家。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈006-子思三谏卫侯-当所有人对你说好话.mp3" length="3654261" type="audio/mpeg"/>
+      <ns0:duration>03:48</ns0:duration>
+      <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>6</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈007 - 田氏代齐：三百年蚕食一个国家</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈007-田氏代齐-三百年蚕食一个国家.mp3</link>
-      <description>🌾 大斗借出，小斗收回
+    <item>
+      <title>通鉴日谈通鉴日谈007：田氏代齐-三百年蚕食一个国家</title>
+      <description># 通鉴日谈007 - 田氏代齐：三百年蚕食一个国家
+🌾 大斗借出，小斗收回
 田家从流亡者田完开始，真正崛起靠田常——大斗借粮给百姓，小斗收回来，老百姓觉得田家慷慨，齐国归心于田氏。晏婴看出危险："齐国之政其卒归于田氏矣。"但齐国国君没有行动。
 🗡️ 杀国君、封自己、请天子认证
 田常杀了齐简公立傀儡，把齐国大半土地封给自己。之后每一代都在蚕食但从不急躁——田盘、田白、田和，到田和这代终于成熟：把齐康公迁到海上，请魏文侯帮忙向周天子请封。公元前386年，田和正式成为诸侯。路径和三家分晋几乎相同，只是用了近三百年。
@@ -131,19 +172,26 @@
 齐康公死后无子，田氏彻底并吞齐国。姜姓齐国从太公开国六百多年，司马光只写了一句平淡的话："齐康公薨，无子，田氏遂并齐而有之。"没有一个字感叹，但这句平淡比任何感叹都沉重。
 💡今日启示：比起暴力篡位，渐进蚕食更可怕——每一步都有人觉得还不到底线，等到底线到了，已经没有反抗的力量。和001呼应：规则从内部崩塌最危险。
 下期预告：同样是改革，商鞅和吴起走了不同的路。商鞅的第一步——徙木立信，用一根木头告诉全秦国：政府说话算话。</description>
-      <ns1:encoded># 通鉴日谈007 - 田氏代齐
-
-田氏用了一百多年，从小小工正到取代姜姓齐国——耐心才是最狠的杀招……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈007-田氏代齐-三百年蚕食一个国家.mp3" length="3915485" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈007-田氏代齐-三百年蚕食一个国家.mp3</guid>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>4:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈007 - 田氏代齐：三百年蚕食一个国家
+🌾 大斗借出，小斗收回
+田家从流亡者田完开始，真正崛起靠田常——大斗借粮给百姓，小斗收回来，老百姓觉得田家慷慨，齐国归心于田氏。晏婴看出危险："齐国之政其卒归于田氏矣。"但齐国国君没有行动。
+🗡️ 杀国君、封自己、请天子认证
+田常杀了齐简公立傀儡，把齐国大半土地封给自己。之后每一代都在蚕食但从不急躁——田盘、田白、田和，到田和这代终于成熟：把齐康公迁到海上，请魏文侯帮忙向周天子请封。公元前386年，田和正式成为诸侯。路径和三家分晋几乎相同，只是用了近三百年。
+💀 六百年的国家，连一声都没发出来
+齐康公死后无子，田氏彻底并吞齐国。姜姓齐国从太公开国六百多年，司马光只写了一句平淡的话："齐康公薨，无子，田氏遂并齐而有之。"没有一个字感叹，但这句平淡比任何感叹都沉重。
+💡今日启示：比起暴力篡位，渐进蚕食更可怕——每一步都有人觉得还不到底线，等到底线到了，已经没有反抗的力量。和001呼应：规则从内部崩塌最危险。
+下期预告：同样是改革，商鞅和吴起走了不同的路。商鞅的第一步——徙木立信，用一根木头告诉全秦国：政府说话算话。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈007-田氏代齐-三百年蚕食一个国家.mp3" length="3915485" type="audio/mpeg"/>
+      <ns0:duration>04:04</ns0:duration>
+      <pubDate>Thu, 07 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>7</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈008 - 商鞅变法：徙木立信</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈008-商鞅变法-徙木立信.mp3</link>
-      <description>🪵 一根木头，五十金
+    <item>
+      <title>通鉴日谈通鉴日谈008：商鞅变法-徙木立信</title>
+      <description># 通鉴日谈008 - 商鞅变法：徙木立信
+🪵 一根木头，五十金
 商鞅在国都南门立了一根三丈长的木头，说搬到北门赏十金，没人动。加到五十金，终于有人搬了，当场给钱。目的不是搬木头，是告诉全秦国：政府说话算话。信用是变法的根基，没有信用法令再好也没人信。
 🗣️ 三次面试才说到点子上
 商鞅见秦孝公，前两次讲帝道王道，秦孝公直打瞌睡。第三次讲霸道——如何富国强兵称霸天下，秦孝公膝盖不知不觉往前挪，这就是"移席"。公叔痤临终推荐商鞅，说"不用就杀"，魏惠王两头都没听，商鞅这才去了秦国。
@@ -151,19 +199,26 @@
 新法推行，太子犯法了——法律能不能管到太子？商鞅说"法之不行自上犯之"，太子不能施刑，就割了太傅公子虔的鼻子、刺了公孙贾的面。全国震动，从此没人敢犯法。吴起靠一个人支持，悼王死他就完了；商鞅把法立得够深，让法本身有了惯性。
 💡今日启示：信用是变法的根基——魏文侯冒雨赴约和商鞅徙木立信，逻辑一样：先建立信用，再推行变革。法越深，惯性越大，人亡法存。
 下期预告：一场写进所有军事教材的战役——围魏救赵，孙膑与庞涓的同门宿命对决。</description>
-      <ns1:encoded># 通鉴日谈008 - 商鞅变法：徙木立信
-
-一根木头，五十金——商鞅用最简单的方式建立了政府信用……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈008-商鞅变法-徙木立信.mp3" length="3461999" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈008-商鞅变法-徙木立信.mp3</guid>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈008 - 商鞅变法：徙木立信
+🪵 一根木头，五十金
+商鞅在国都南门立了一根三丈长的木头，说搬到北门赏十金，没人动。加到五十金，终于有人搬了，当场给钱。目的不是搬木头，是告诉全秦国：政府说话算话。信用是变法的根基，没有信用法令再好也没人信。
+🗣️ 三次面试才说到点子上
+商鞅见秦孝公，前两次讲帝道王道，秦孝公直打瞌睡。第三次讲霸道——如何富国强兵称霸天下，秦孝公膝盖不知不觉往前挪，这就是"移席"。公叔痤临终推荐商鞅，说"不用就杀"，魏惠王两头都没听，商鞅这才去了秦国。
+⚔️ 太子犯法，割师傅的鼻子
+新法推行，太子犯法了——法律能不能管到太子？商鞅说"法之不行自上犯之"，太子不能施刑，就割了太傅公子虔的鼻子、刺了公孙贾的面。全国震动，从此没人敢犯法。吴起靠一个人支持，悼王死他就完了；商鞅把法立得够深，让法本身有了惯性。
+💡今日启示：信用是变法的根基——魏文侯冒雨赴约和商鞅徙木立信，逻辑一样：先建立信用，再推行变革。法越深，惯性越大，人亡法存。
+下期预告：一场写进所有军事教材的战役——围魏救赵，孙膑与庞涓的同门宿命对决。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈008-商鞅变法-徙木立信.mp3" length="3461999" type="audio/mpeg"/>
+      <ns0:duration>03:36</ns0:duration>
+      <pubDate>Fri, 08 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>8</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈009 - 围魏救赵：孙膑与庞涓</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈009-围魏救赵-孙膑与庞涓.mp3</link>
-      <description>⚔️ 同门相残，膝盖骨被挖
+    <item>
+      <title>通鉴日谈通鉴日谈009：围魏救赵-孙膑与庞涓</title>
+      <description># 通鉴日谈009 - 围魏救赵：孙膑与庞涓
+⚔️ 同门相残，膝盖骨被挖
 庞涓和孙膑是同门，庞涓先下山在魏国做将军，知道孙膑比自己强，就把他骗到魏国诬陷，挖掉膝盖骨刺字——膑刑，孙膑这个名字就是这么来的。孙膑装疯卖傻，被齐国使者偷带回齐。
 🎯 不去邯郸，打大梁
 魏国围赵国邯郸，赵向齐求救。孙膑说不去邯郸——魏国精锐在外，国内空虚，直接打魏国都城大梁，魏军必然回救，邯郸之围自解。还要加一步：先派少量兵力攻襄陵故意示弱，庞涓一看齐军不过如此，轻装急行军往回赶——一头扎进桂陵伏兵圈。
@@ -171,19 +226,26 @@
 十三年后马陵之战，孙膑用减灶计假装士兵大量逃亡，引庞涓追击。庞涓夜追，看到树上刻字点火一看，万箭齐发，自杀而亡。从膑刑到减灶，孙膑的复仇花了十几年，每一步精准。
 💡今日启示：围魏救赵的核心智慧——解开乱绳不能用力扯，解决矛盾要攻其所必救。孙膑把心理战、运动战、伏击战融为一体，每一步都算到了对手的反应。
 下期预告：商鞅变法成功了，但他自己的结局比庞涓还惨——被自己的法困住，出逃时客栈都不收留。</description>
-      <ns1:encoded># 通鉴日谈009 - 围魏救赵：孙膑与庞涓
-
-孙膑减灶诱敌，马陵道万箭齐发——同门师兄弟的终极对决……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈009-围魏救赵-孙膑与庞涓.mp3" length="3403485" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈009-围魏救赵-孙膑与庞涓.mp3</guid>
-      <pubDate>Sat, 09 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈009 - 围魏救赵：孙膑与庞涓
+⚔️ 同门相残，膝盖骨被挖
+庞涓和孙膑是同门，庞涓先下山在魏国做将军，知道孙膑比自己强，就把他骗到魏国诬陷，挖掉膝盖骨刺字——膑刑，孙膑这个名字就是这么来的。孙膑装疯卖傻，被齐国使者偷带回齐。
+🎯 不去邯郸，打大梁
+魏国围赵国邯郸，赵向齐求救。孙膑说不去邯郸——魏国精锐在外，国内空虚，直接打魏国都城大梁，魏军必然回救，邯郸之围自解。还要加一步：先派少量兵力攻襄陵故意示弱，庞涓一看齐军不过如此，轻装急行军往回赶——一头扎进桂陵伏兵圈。
+💀 "庞涓死此树下"
+十三年后马陵之战，孙膑用减灶计假装士兵大量逃亡，引庞涓追击。庞涓夜追，看到树上刻字点火一看，万箭齐发，自杀而亡。从膑刑到减灶，孙膑的复仇花了十几年，每一步精准。
+💡今日启示：围魏救赵的核心智慧——解开乱绳不能用力扯，解决矛盾要攻其所必救。孙膑把心理战、运动战、伏击战融为一体，每一步都算到了对手的反应。
+下期预告：商鞅变法成功了，但他自己的结局比庞涓还惨——被自己的法困住，出逃时客栈都不收留。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈009-围魏救赵-孙膑与庞涓.mp3" length="3403485" type="audio/mpeg"/>
+      <ns0:duration>03:32</ns0:duration>
+      <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>9</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈010 - 商鞅之死：作法自毙</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈010-商鞅之死-作法自毙.mp3</link>
-      <description>🚪 客栈都不收留
+    <item>
+      <title>通鉴日谈通鉴日谈010：商鞅之死-作法自毙</title>
+      <description># 通鉴日谈010 - 商鞅之死：作法自毙
+🚪 客栈都不收留
 秦孝公死后，被割鼻子的公子虔告发商鞅谋反。商鞅出逃想住客栈，老板说"商君之法，收留无身份证者连坐"。商鞅长叹："为法之敝一至此哉！"——自己挖的坑自己掉进去了，这就是"作法自毙"的由来。
 ⚔️ 杀了人，留着法
 商鞅走投无路回封地组织抵抗，兵败被杀，车裂灭族。但秦惠文王杀了商鞅，却没有废商鞅的法。什伍连坐改变了基层治理，军功爵制改变了晋升通道，这些已嵌入秦国机器，拆不掉了。吴起人亡政息，商鞅人亡法存。
@@ -191,19 +253,26 @@
 司马光写"商君虽死，秦法未败"——六个字既是事实也是感慨。变法者很难善终：你动了太多人利益，靠山只有一个人，那人一死仇恨全找上门。法能不能活取决于法够不够深，人能不能活取决于得罪人够不够少。这两个目标，是矛盾的。
 💡今日启示：商鞅的悲剧揭示了一个改革者的悖论——法越彻底越能存活，但推行越彻底得罪人越多。人亡法存，到底是赢还是输？取决于你怎么定义"赢"。
 下期预告：战国最著名的纵横家——苏秦，从全家看不起的穷书生到佩六国相印，靠一张嘴完成逆袭。</description>
-      <ns1:encoded># 通鉴日谈010 - 商鞅之死：作法自毙
-
-商鞅逃亡途中想住店，店主说商君之法无证不纳——自己定的法，困住了自己……</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈010-商鞅之死-作法自毙.mp3" length="3551861" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈010-商鞅之死-作法自毙.mp3</guid>
-      <pubDate>Sun, 10 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>3:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈010 - 商鞅之死：作法自毙
+🚪 客栈都不收留
+秦孝公死后，被割鼻子的公子虔告发商鞅谋反。商鞅出逃想住客栈，老板说"商君之法，收留无身份证者连坐"。商鞅长叹："为法之敝一至此哉！"——自己挖的坑自己掉进去了，这就是"作法自毙"的由来。
+⚔️ 杀了人，留着法
+商鞅走投无路回封地组织抵抗，兵败被杀，车裂灭族。但秦惠文王杀了商鞅，却没有废商鞅的法。什伍连坐改变了基层治理，军功爵制改变了晋升通道，这些已嵌入秦国机器，拆不掉了。吴起人亡政息，商鞅人亡法存。
+⚖️ 法越深得罪人越多，得罪人越少法越浅
+司马光写"商君虽死，秦法未败"——六个字既是事实也是感慨。变法者很难善终：你动了太多人利益，靠山只有一个人，那人一死仇恨全找上门。法能不能活取决于法够不够深，人能不能活取决于得罪人够不够少。这两个目标，是矛盾的。
+💡今日启示：商鞅的悲剧揭示了一个改革者的悖论——法越彻底越能存活，但推行越彻底得罪人越多。人亡法存，到底是赢还是输？取决于你怎么定义"赢"。
+下期预告：战国最著名的纵横家——苏秦，从全家看不起的穷书生到佩六国相印，靠一张嘴完成逆袭。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈010-商鞅之死-作法自毙.mp3" length="3551861" type="audio/mpeg"/>
+      <ns0:duration>03:41</ns0:duration>
+      <pubDate>Sun, 10 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>10</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈011 - 苏秦：锥刺股佩六国相印</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈011-苏秦-锥刺股佩六国相印.mp3</link>
-      <description>📖 **落魄书生的逆袭**
+    <item>
+      <title>通鉴日谈通鉴日谈011：苏秦-锥刺股佩六国相印</title>
+      <description># 通鉴日谈011 - 苏秦：锥刺股佩六国相印
+📖 **落魄书生的逆袭**
 一个人穷困潦倒回到家中，妻子不织布、嫂子不做饭、父母不说话——全家人都当他不存在。他受此刺激，日夜苦读，困了就拿锥子扎大腿，血流到脚。一年后重新出发，这一次，他要说服六个国家联合起来对抗最强的秦国。
 🗡️ **从碰壁到合纵**
 秦国不搭理他，他转而去燕国、赵国、韩国、魏国、齐国、楚国，一国一国地说。每到一个国家，他都有不同的说法——对燕国讲地缘，对韩国讲尊严，对齐国讲繁华，对楚国讲生死。六国全说动了。
@@ -211,31 +280,26 @@
 苏秦成为合纵联盟的纵约长，同时佩戴六国相印。从全家看不起的穷书生到六国首相，他用一张嘴完成了逆袭。但就在合纵刚成的时候，秦国动手了……
 💡今日启示：苏秦的逆袭告诉我们——低谷时最不该等的就是别人的认可。全家看不起他，他反而拿锥子扎自己逼自己苦读。说服六国时，他对每个国家说不同的话，不是油滑，是精准——真正的说服力不是一套话术打天下，而是针对每个听众的痛点定制方案。
 🔮 下期预告：苏秦想了一个办法牵制秦国——故意激怒师弟张仪，把他送进秦国。这是怎么回事？</description>
-      <ns1:encoded># 通鉴日谈011 - 苏秦：锥刺股佩六国相印
-
+      <ns0:summary># 通鉴日谈011 - 苏秦：锥刺股佩六国相印
 📖 **落魄书生的逆袭**
-
 一个人穷困潦倒回到家中，妻子不织布、嫂子不做饭、父母不说话——全家人都当他不存在。他受此刺激，日夜苦读，困了就拿锥子扎大腿，血流到脚。一年后重新出发，这一次，他要说服六个国家联合起来对抗最强的秦国。
-
 🗡️ **从碰壁到合纵**
-
 秦国不搭理他，他转而去燕国、赵国、韩国、魏国、齐国、楚国，一国一国地说。每到一个国家，他都有不同的说法——对燕国讲地缘，对韩国讲尊严，对齐国讲繁华，对楚国讲生死。六国全说动了。
-
 👑 **佩六国相印**
-
 苏秦成为合纵联盟的纵约长，同时佩戴六国相印。从全家看不起的穷书生到六国首相，他用一张嘴完成了逆袭。但就在合纵刚成的时候，秦国动手了……
-
-🔮 下期预告：苏秦想了一个办法牵制秦国——故意激怒师弟张仪，把他送进秦国。这是怎么回事？</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈011-苏秦-锥刺股佩六国相印.mp3" length="6009461" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈011-苏秦-锥刺股佩六国相印.mp3</guid>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：苏秦的逆袭告诉我们——低谷时最不该等的就是别人的认可。全家看不起他，他反而拿锥子扎自己逼自己苦读。说服六国时，他对每个国家说不同的话，不是油滑，是精准——真正的说服力不是一套话术打天下，而是针对每个听众的痛点定制方案。
+🔮 下期预告：苏秦想了一个办法牵制秦国——故意激怒师弟张仪，把他送进秦国。这是怎么回事？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈011-苏秦-锥刺股佩六国相印.mp3" length="6009461" type="audio/mpeg"/>
+      <ns0:duration>06:15</ns0:duration>
+      <pubDate>Mon, 11 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>11</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈012 - 张仪连横：一策破合纵</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈012-张仪连横-一策破合纵.mp3</link>
-      <description>🎭 **一出精心设计的戏**
+    <item>
+      <title>通鉴日谈通鉴日谈012：张仪连横-一策破合纵</title>
+      <description># 通鉴日谈012 - 张仪连横：一策破合纵
+🎭 **一出精心设计的戏**
 张仪是苏秦的师弟，困在楚国一事无成。苏秦故意把他叫来当面羞辱，张仪大怒，去了唯一能让赵国吃苦头的地方——秦国。但苏秦暗中派人资助他，让他能见到秦王。等张仪在秦国站稳脚跟，才知道自己从头到尾都在苏秦的算计之中。
 ⚡ **合纵崩塌**
 秦王只用了一招——让齐国和魏国一起出兵攻赵，合纵联盟立刻土崩瓦解。苏秦一年苦心搭建的六国同盟，一个突破口就散了。六国利益不一致，这是合纵的致命弱点。
@@ -245,35 +309,28 @@
 合纵像搭积木，抽掉一块就塌了；连横像拆积木，一块一块来就行。苏秦讲利，张仪讲害——人心更容易被害驱动。
 💡今日启示：合纵像搭积木，连横像拆积木——联盟最怕的就是内部利益不一致。苏秦花一年搭的六国同盟，一个突破口就散了。商业合作中，利益绑定比感情绑定靠谱得多；人心更容易被害驱动而不是利驱动，张仪深谙此道。
 🔮 下期预告：有个人养了三千门客名震天下，但司马光骂他是"奸人之雄"——孟尝君田文。</description>
-      <ns1:encoded># 通鉴日谈012 - 张仪连横：一策破合纵
-
+      <ns0:summary># 通鉴日谈012 - 张仪连横：一策破合纵
 🎭 **一出精心设计的戏**
-
 张仪是苏秦的师弟，困在楚国一事无成。苏秦故意把他叫来当面羞辱，张仪大怒，去了唯一能让赵国吃苦头的地方——秦国。但苏秦暗中派人资助他，让他能见到秦王。等张仪在秦国站稳脚跟，才知道自己从头到尾都在苏秦的算计之中。
-
 ⚡ **合纵崩塌**
-
 秦王只用了一招——让齐国和魏国一起出兵攻赵，合纵联盟立刻土崩瓦解。苏秦一年苦心搭建的六国同盟，一个突破口就散了。六国利益不一致，这是合纵的致命弱点。
-
 🪙 **张仪的连横**
-
 张仪在秦国站稳后，开始了一个国家的攻心战——先打你一顿，再给你个甜头，让你觉得欠了人情，最后拿走你的地。魏国、楚国，一个一个来。
-
 ⚖️ **合纵vs连横**
-
 合纵像搭积木，抽掉一块就塌了；连横像拆积木，一块一块来就行。苏秦讲利，张仪讲害——人心更容易被害驱动。
-
-🔮 下期预告：有个人养了三千门客名震天下，但司马光骂他是"奸人之雄"——孟尝君田文。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈012-张仪连横-一策破合纵.mp3" length="7343168" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈012-张仪连横-一策破合纵.mp3</guid>
-      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>7:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：合纵像搭积木，连横像拆积木——联盟最怕的就是内部利益不一致。苏秦花一年搭的六国同盟，一个突破口就散了。商业合作中，利益绑定比感情绑定靠谱得多；人心更容易被害驱动而不是利驱动，张仪深谙此道。
+🔮 下期预告：有个人养了三千门客名震天下，但司马光骂他是"奸人之雄"——孟尝君田文。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈012-张仪连横-一策破合纵.mp3" length="7343168" type="audio/mpeg"/>
+      <ns0:duration>07:38</ns0:duration>
+      <pubDate>Tue, 12 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>12</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈013 - 孟尝君：养士之道还是奸人之雄</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈013-孟尝君-养士之道还是奸人之雄.mp3</link>
-      <description>🏰 **从贱妾之子到薛公**
+    <item>
+      <title>通鉴日谈通鉴日谈013：孟尝君-养士之道还是奸人之雄</title>
+      <description># 通鉴日谈013 - 孟尝君：养士之道还是奸人之雄
+🏰 **从贱妾之子到薛公**
 田文是靖郭君四十个儿子中的一个，母亲是地位卑微的小妾，本不受重视。但他建议父亲散财养士，靠宾客的推荐成了继承人，号孟尝君。食客几千人，每个人都觉得孟尝君特别亲近自己——名声就这么传遍天下。
 💰 **花的是谁的钱？**
 养三千门客，花的是谁的钱？靖郭君当年劝齐王勤政，齐王烦了，把政务全交给他——齐国大权就这样落入田婴之手。有个门客说得好：齐国就是您的海水，离开海水，大鱼连蚂蚁都打不过。司马光写得很直白："盗其君之禄，以立私党"。
@@ -283,35 +340,28 @@
 司马光对孟尝君有一句极重的评价，把他比作商纣王。为什么？因为资治通鉴是写给皇帝看的——司马光最怕的就是大臣用公家的钱养自己的私党。
 💡今日启示：用公家的钱养自己的私党——孟尝君的故事是所有组织最该警惕的。员工拿着公司的资源经营自己的人脉和声望，短期看公司也受益，长期看核心资源全在个人手里。司马光把他比作商纣王，不是因为他残暴，而是因为他把公权私有化了。
 🔮 下期预告：赵武灵王要搞一场震动天下的改革——胡服骑射，把宽袍大袖换成短衣窄袖，把战车换成骑兵。</description>
-      <ns1:encoded># 通鉴日谈013 - 孟尝君：养士之道还是奸人之雄
-
+      <ns0:summary># 通鉴日谈013 - 孟尝君：养士之道还是奸人之雄
 🏰 **从贱妾之子到薛公**
-
 田文是靖郭君四十个儿子中的一个，母亲是地位卑微的小妾，本不受重视。但他建议父亲散财养士，靠宾客的推荐成了继承人，号孟尝君。食客几千人，每个人都觉得孟尝君特别亲近自己——名声就这么传遍天下。
-
 💰 **花的是谁的钱？**
-
 养三千门客，花的是谁的钱？靖郭君当年劝齐王勤政，齐王烦了，把政务全交给他——齐国大权就这样落入田婴之手。有个门客说得好：齐国就是您的海水，离开海水，大鱼连蚂蚁都打不过。司马光写得很直白："盗其君之禄，以立私党"。
-
 🐘 **象牙床事件**
-
 孟尝君出使楚国，楚王送了一张价值千金的象牙床。有人劝他拒绝，他听了。但劝他的人私下收了一把宝剑——孟尝君知道后反而贴了告示：意见是对的，就算怀着私心也该采纳。
-
 🔥 **奸人之雄**
-
 司马光对孟尝君有一句极重的评价，把他比作商纣王。为什么？因为资治通鉴是写给皇帝看的——司马光最怕的就是大臣用公家的钱养自己的私党。
-
-🔮 下期预告：赵武灵王要搞一场震动天下的改革——胡服骑射，把宽袍大袖换成短衣窄袖，把战车换成骑兵。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈013-孟尝君-养士之道还是奸人之雄.mp3" length="8126424" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈013-孟尝君-养士之道还是奸人之雄.mp3</guid>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>8:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：用公家的钱养自己的私党——孟尝君的故事是所有组织最该警惕的。员工拿着公司的资源经营自己的人脉和声望，短期看公司也受益，长期看核心资源全在个人手里。司马光把他比作商纣王，不是因为他残暴，而是因为他把公权私有化了。
+🔮 下期预告：赵武灵王要搞一场震动天下的改革——胡服骑射，把宽袍大袖换成短衣窄袖，把战车换成骑兵。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈013-孟尝君-养士之道还是奸人之雄.mp3" length="8126424" type="audio/mpeg"/>
+      <ns0:duration>08:27</ns0:duration>
+      <pubDate>Wed, 13 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>13</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈014 - 赵武灵王：胡服骑射</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈014-赵武灵王-胡服骑射.mp3</link>
-      <description>🏹 **中原第一人**
+    <item>
+      <title>通鉴日谈通鉴日谈014：赵武灵王-胡服骑射</title>
+      <description># 通鉴日谈014 - 赵武灵王：胡服骑射
+🏹 **中原第一人**
 让全国脱掉宽袍大袖，穿上胡人的短衣窄袖，学骑马射箭——赵武灵王做了整个中原没人敢做的事。他说："愚者所笑，贤者察焉。虽驱世以笑我，胡地、中山，吾必有之！"全国反对，叔父称病不朝，他亲自登门说服。
 ⚔️ **务实还是忘本？**
 反对派代表公子成说：中国是圣贤教化的地方，现在反而去学蛮夷的服装，变古之道、逆人之心！赵武灵王的回答很实际——四面强敌环伺，没有骑射之备，拿什么守？他还提了一段旧耻：中山国仗着齐国势力，引水围灌鄗城，差点没守住。
@@ -319,31 +369,26 @@
 胡服骑射后赵国军力大增，灭了中山国。赵武灵王传位给小儿子后自称"主父"，竟然化妆潜入秦国首都侦察地形——秦王事后才察觉，大惊失色。但他的致命弱点，将在下集沙丘之变中暴露无遗。
 💡今日启示：胡服骑射是古代最成功的组织变革案例——阻力来自内部的传统派，而不是外部敌人。赵武灵王的做法值得学习：先说服核心反对派（叔父公子成），再用实际效果说话。变革最怕的不是反对声大，而是领导者自己不敢坚持。"愚者所笑，贤者察焉"——被嘲笑的变革，可能恰恰是最需要的。
 🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</description>
-      <ns1:encoded># 通鉴日谈014 - 赵武灵王：胡服骑射
-
+      <ns0:summary># 通鉴日谈014 - 赵武灵王：胡服骑射
 🏹 **中原第一人**
-
 让全国脱掉宽袍大袖，穿上胡人的短衣窄袖，学骑马射箭——赵武灵王做了整个中原没人敢做的事。他说："愚者所笑，贤者察焉。虽驱世以笑我，胡地、中山，吾必有之！"全国反对，叔父称病不朝，他亲自登门说服。
-
 ⚔️ **务实还是忘本？**
-
 反对派代表公子成说：中国是圣贤教化的地方，现在反而去学蛮夷的服装，变古之道、逆人之心！赵武灵王的回答很实际——四面强敌环伺，没有骑射之备，拿什么守？他还提了一段旧耻：中山国仗着齐国势力，引水围灌鄗城，差点没守住。
-
 🗡️ **只身入秦**
-
 胡服骑射后赵国军力大增，灭了中山国。赵武灵王传位给小儿子后自称"主父"，竟然化妆潜入秦国首都侦察地形——秦王事后才察觉，大惊失色。但他的致命弱点，将在下集沙丘之变中暴露无遗。
-
-🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈014-赵武灵王-胡服骑射.mp3" length="5817199" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈014-赵武灵王-胡服骑射.mp3</guid>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：胡服骑射是古代最成功的组织变革案例——阻力来自内部的传统派，而不是外部敌人。赵武灵王的做法值得学习：先说服核心反对派（叔父公子成），再用实际效果说话。变革最怕的不是反对声大，而是领导者自己不敢坚持。"愚者所笑，贤者察焉"——被嘲笑的变革，可能恰恰是最需要的。
+🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈014-赵武灵王-胡服骑射.mp3" length="5817199" type="audio/mpeg"/>
+      <ns0:duration>06:03</ns0:duration>
+      <pubDate>Thu, 14 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>14</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈015 - 楚怀王：被骗入秦</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈015-楚怀王-被骗入秦.mp3</link>
-      <description>🎭 **六百里变成六里**
+    <item>
+      <title>通鉴日谈通鉴日谈015：楚怀王-被骗入秦</title>
+      <description># 通鉴日谈015 - 楚怀王：被骗入秦
+🎭 **六百里变成六里**
 张仪对楚王说：与齐国断交，我献商於之地六百里。楚王大喜，唯独陈轸表示哀痛。他看穿了——秦国重视楚国就是因为楚齐联盟，断交后秦国凭什么白送？楚王不听。结果张仪装摔伤三个月不上朝，等楚王主动辱骂齐王断交后，才说：六百里？六里。
 ⚔️ **一错再错**
 陈轸每次都对，楚王每次都不听。楚王怒而攻秦，丹阳大败八万甲士被杀，蓝田再败。更大的陷阱还在后面——秦王写信邀请楚怀王会武关结盟，昭睢一眼看穿"秦虎狼也不可信"，但楚王还是去了。
@@ -351,31 +396,26 @@
 武关设伏，楚王被劫持到咸阳以藩臣之礼接见。楚王坚决不割地，被扣留。后来逃跑到赵国借道被拒，又被秦军追回。最终发病薨于秦，楚人如丧至亲，诸侯由是不直秦——秦国得了地，失了天下人心。
 💡今日启示：楚怀王是"不听劝"的典型——陈轸每次都说对了，他每次都不听。贪六百里地的诱惑让他丧失判断力，怒而攻秦的冲动让他丧失军队，轻信武关之约让他丧失自由。决策中最大的陷阱不是看不到风险，而是利益当前时选择性忽视风险。
 🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</description>
-      <ns1:encoded># 通鉴日谈015 - 楚怀王：被骗入秦
-
+      <ns0:summary># 通鉴日谈015 - 楚怀王：被骗入秦
 🎭 **六百里变成六里**
-
 张仪对楚王说：与齐国断交，我献商於之地六百里。楚王大喜，唯独陈轸表示哀痛。他看穿了——秦国重视楚国就是因为楚齐联盟，断交后秦国凭什么白送？楚王不听。结果张仪装摔伤三个月不上朝，等楚王主动辱骂齐王断交后，才说：六百里？六里。
-
 ⚔️ **一错再错**
-
 陈轸每次都对，楚王每次都不听。楚王怒而攻秦，丹阳大败八万甲士被杀，蓝田再败。更大的陷阱还在后面——秦王写信邀请楚怀王会武关结盟，昭睢一眼看穿"秦虎狼也不可信"，但楚王还是去了。
-
 🔒 **客死秦国**
-
 武关设伏，楚王被劫持到咸阳以藩臣之礼接见。楚王坚决不割地，被扣留。后来逃跑到赵国借道被拒，又被秦军追回。最终发病薨于秦，楚人如丧至亲，诸侯由是不直秦——秦国得了地，失了天下人心。
-
-🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈015-楚怀王-被骗入秦.mp3" length="5712292" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈015-楚怀王-被骗入秦.mp3</guid>
-      <pubDate>Fri, 15 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：楚怀王是"不听劝"的典型——陈轸每次都说对了，他每次都不听。贪六百里地的诱惑让他丧失判断力，怒而攻秦的冲动让他丧失军队，轻信武关之约让他丧失自由。决策中最大的陷阱不是看不到风险，而是利益当前时选择性忽视风险。
+🔮 下期预告：赵武灵王废长立幼又心软摇摆，最终被活活饿死在沙丘宫中。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈015-楚怀王-被骗入秦.mp3" length="5712292" type="audio/mpeg"/>
+      <ns0:duration>05:56</ns0:duration>
+      <pubDate>Fri, 15 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>15</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈016 - 沙丘之变：饿死沙丘宫</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈016-沙丘之变-饿死沙丘宫.mp3</link>
-      <description>👑 **废长立幼**
+    <item>
+      <title>通鉴日谈通鉴日谈016：沙丘之变-饿死沙丘宫</title>
+      <description># 通鉴日谈016 - 沙丘之变：饿死沙丘宫
+👑 **废长立幼**
 赵武灵王宠幸吴娃，废太子公子章，改立幼子赵何，甚至活着就传位，自称"主父"。但看到长子向弟弟北面称臣，他心软了——想把赵国分成两半让两个儿子都称王。
 ⚔️ **肥义的选择**
 李兑预判动乱将起，劝肥义称病避祸。肥义说：主父托我"坚守一心以殁而世"，我怕祸难就忘誓言，还有比这更大的背叛吗？谚云"死者复生，生者不愧"——我要保全承诺，安能保全身命？李兑哭着说：我今年怕是见不到你了。
@@ -383,31 +423,26 @@
 公子章发动叛乱，肥义以身探路被杀。叛乱平定后，公子章跑去找父亲，主父开门收留。公子成和李兑围困主父——撤兵则全族被灭。于是下令宫中人后出者灭族，只剩主父一人。探雀而食之，三月馀，饿死沙丘宫。司马光一句话总结因果链：宠吴娃→废长立幼→吴娃死爱弛→怜长子→欲两王之→犹豫未决→故乱起。
 💡今日启示：沙丘之变是一条清晰的因果链——宠吴娃→废长立幼→爱弛怜长子→欲两王之→犹豫未决→故乱起。很多灾难不是突发事件，而是一连串小决策累积的结果。领导者最致命的不是做错决定，而是做了决定又摇摆——犹豫比错误更危险。
 🔮 下期预告：一个被破国的君主，用诚意招揽人才，苦等二十八年完成复仇——燕昭王与乐毅。</description>
-      <ns1:encoded># 通鉴日谈016 - 沙丘之变：饿死沙丘宫
-
+      <ns0:summary># 通鉴日谈016 - 沙丘之变：饿死沙丘宫
 👑 **废长立幼**
-
 赵武灵王宠幸吴娃，废太子公子章，改立幼子赵何，甚至活着就传位，自称"主父"。但看到长子向弟弟北面称臣，他心软了——想把赵国分成两半让两个儿子都称王。
-
 ⚔️ **肥义的选择**
-
 李兑预判动乱将起，劝肥义称病避祸。肥义说：主父托我"坚守一心以殁而世"，我怕祸难就忘誓言，还有比这更大的背叛吗？谚云"死者复生，生者不愧"——我要保全承诺，安能保全身命？李兑哭着说：我今年怕是见不到你了。
-
 🔥 **饿死沙丘宫**
-
 公子章发动叛乱，肥义以身探路被杀。叛乱平定后，公子章跑去找父亲，主父开门收留。公子成和李兑围困主父——撤兵则全族被灭。于是下令宫中人后出者灭族，只剩主父一人。探雀而食之，三月馀，饿死沙丘宫。司马光一句话总结因果链：宠吴娃→废长立幼→吴娃死爱弛→怜长子→欲两王之→犹豫未决→故乱起。
-
-🔮 下期预告：一个被破国的君主，用诚意招揽人才，苦等二十八年完成复仇——燕昭王与乐毅。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈016-沙丘之变-饿死沙丘宫.mp3" length="5310633" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈016-沙丘之变-饿死沙丘宫.mp3</guid>
-      <pubDate>Sat, 16 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：沙丘之变是一条清晰的因果链——宠吴娃→废长立幼→爱弛怜长子→欲两王之→犹豫未决→故乱起。很多灾难不是突发事件，而是一连串小决策累积的结果。领导者最致命的不是做错决定，而是做了决定又摇摆——犹豫比错误更危险。
+🔮 下期预告：一个被破国的君主，用诚意招揽人才，苦等二十八年完成复仇——燕昭王与乐毅。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈016-沙丘之变-饿死沙丘宫.mp3" length="5310633" type="audio/mpeg"/>
+      <ns0:duration>05:31</ns0:duration>
+      <pubDate>Sat, 16 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>16</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈017 - 燕昭王：千金买骨与乐毅破齐</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈017-燕昭王-千金买骨与乐毅破齐.mp3</link>
-      <description>🐎 **千金买骨**
+    <item>
+      <title>通鉴日谈通鉴日谈017：燕昭王-千金买骨与乐毅破齐</title>
+      <description># 通鉴日谈017 - 燕昭王：千金买骨与乐毅破齐
+🐎 **千金买骨**
 燕国被齐国攻破后，燕昭王在废墟上即位，放低身段重金招贤。郭隗讲了个故事：有人用五百金买千里马的马头，君主大怒，涓人说"死马都买，活的还远吗？"不到一年得三匹千里马。郭隗说：大王想招贤，先从我开始。于是士争趣燕，乐毅从魏国来。
 ⚔️ **等了二十八年**
 燕昭王用了近三十年休养生息，才与乐毅谋伐齐。乐毅率五国联军济西大败齐军，然后让联军撤回，只带燕军长驱直入。他想的不只是占地——而是收服人心：禁止侵掠、宽减赋敛、修整旧政，半年拿下七十城。
@@ -415,31 +450,26 @@
 有人进谗言说乐毅想称王，燕昭王当众斥责：乐君若能有齐，与燕并为列国，这是燕国的福气！然后处死进谗者，还派宰相送仪仗要立乐毅为齐王。乐毅惶恐不受，以死自誓。但燕昭王去世后，一切改变了。
 💡今日启示：燕昭王用二十八年复仇，靠的不是战术奇招，而是耐心和信任。他对乐毅的信任到了极致——有人说乐毅要称王，他反而要封乐毅为王。这种信任换来的是乐毅的死心塌地。但信任只存在于他活着的时候，制度没有把信任固化下来，人走茶凉是必然。
 🔮 下期预告：即墨城的田单，用反间计除掉乐毅，再用火牛阵绝地翻盘。</description>
-      <ns1:encoded># 通鉴日谈017 - 燕昭王：千金买骨与乐毅破齐
-
+      <ns0:summary># 通鉴日谈017 - 燕昭王：千金买骨与乐毅破齐
 🐎 **千金买骨**
-
 燕国被齐国攻破后，燕昭王在废墟上即位，放低身段重金招贤。郭隗讲了个故事：有人用五百金买千里马的马头，君主大怒，涓人说"死马都买，活的还远吗？"不到一年得三匹千里马。郭隗说：大王想招贤，先从我开始。于是士争趣燕，乐毅从魏国来。
-
 ⚔️ **等了二十八年**
-
 燕昭王用了近三十年休养生息，才与乐毅谋伐齐。乐毅率五国联军济西大败齐军，然后让联军撤回，只带燕军长驱直入。他想的不只是占地——而是收服人心：禁止侵掠、宽减赋敛、修整旧政，半年拿下七十城。
-
 👑 **燕昭王的胸襟**
-
 有人进谗言说乐毅想称王，燕昭王当众斥责：乐君若能有齐，与燕并为列国，这是燕国的福气！然后处死进谗者，还派宰相送仪仗要立乐毅为齐王。乐毅惶恐不受，以死自誓。但燕昭王去世后，一切改变了。
-
-🔮 下期预告：即墨城的田单，用反间计除掉乐毅，再用火牛阵绝地翻盘。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈017-燕昭王-千金买骨与乐毅破齐.mp3" length="6332125" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈017-燕昭王-千金买骨与乐毅破齐.mp3</guid>
-      <pubDate>Sun, 17 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：燕昭王用二十八年复仇，靠的不是战术奇招，而是耐心和信任。他对乐毅的信任到了极致——有人说乐毅要称王，他反而要封乐毅为王。这种信任换来的是乐毅的死心塌地。但信任只存在于他活着的时候，制度没有把信任固化下来，人走茶凉是必然。
+🔮 下期预告：即墨城的田单，用反间计除掉乐毅，再用火牛阵绝地翻盘。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈017-燕昭王-千金买骨与乐毅破齐.mp3" length="6332125" type="audio/mpeg"/>
+      <ns0:duration>06:35</ns0:duration>
+      <pubDate>Sun, 17 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>17</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈018 - 田单复齐：火牛阵</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈018-田单复齐-火牛阵.mp3</link>
-      <description>🕵️ **反间计除乐毅**
+    <item>
+      <title>通鉴日谈通鉴日谈018：田单复齐-火牛阵</title>
+      <description># 通鉴日谈018 - 田单复齐：火牛阵
+🕵️ **反间计除乐毅**
 田单是即墨城一个小官，因铁皮包车轴的远见被拥立为守将。他散布"乐毅想称王"的反间计，燕惠王果然中计，派骑劫替代乐毅。乐毅投奔赵国，燕军内部不和。
 🎭 **连环心理战**
 田单先造神师，让燕军心生疑惧；再诱导燕军割俘虏鼻子、挖齐国祖坟——每一步都在激怒守城将士、坚定死战决心；然后让老弱守城、派人假降送金，把燕军戒备彻底瓦解。
@@ -447,31 +477,26 @@
 一千头牛披红绸画龙纹，角绑尖刀尾绑油脂芦苇，夜色中点燃牛尾从城墙洞冲出，五千壮士紧随其后。燕军大败，齐军一路追杀，七十城全部收复。但田单后来攻狄族却三个月不下——鲁仲连说：在即墨你有死之心，现在有生之乐无死之心。处境不同，战斗力就不同。
 💡今日启示：田单复齐是心理战的教科书——反间计除掉对手主帅，造神师动摇敌军信心，诱导敌军暴行激怒己方士气，假投降瓦解戒备，最后火牛阵一击致命。但最深刻的启示来自鲁仲连：在即墨有死之心所以能赢，有了生之乐反而打不赢。绝境中的战斗力，安逸中永远不会有。
 🔮 下期预告：完璧归赵和渑池相会——蔺相如与廉颇的故事。</description>
-      <ns1:encoded># 通鉴日谈018 - 田单复齐：火牛阵
-
+      <ns0:summary># 通鉴日谈018 - 田单复齐：火牛阵
 🕵️ **反间计除乐毅**
-
 田单是即墨城一个小官，因铁皮包车轴的远见被拥立为守将。他散布"乐毅想称王"的反间计，燕惠王果然中计，派骑劫替代乐毅。乐毅投奔赵国，燕军内部不和。
-
 🎭 **连环心理战**
-
 田单先造神师，让燕军心生疑惧；再诱导燕军割俘虏鼻子、挖齐国祖坟——每一步都在激怒守城将士、坚定死战决心；然后让老弱守城、派人假降送金，把燕军戒备彻底瓦解。
-
 🔥 **火牛阵**
-
 一千头牛披红绸画龙纹，角绑尖刀尾绑油脂芦苇，夜色中点燃牛尾从城墙洞冲出，五千壮士紧随其后。燕军大败，齐军一路追杀，七十城全部收复。但田单后来攻狄族却三个月不下——鲁仲连说：在即墨你有死之心，现在有生之乐无死之心。处境不同，战斗力就不同。
-
-🔮 下期预告：完璧归赵和渑池相会——蔺相如与廉颇的故事。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈018-田单复齐-火牛阵.mp3" length="5832664" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈018-田单复齐-火牛阵.mp3</guid>
-      <pubDate>Mon, 18 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+💡今日启示：田单复齐是心理战的教科书——反间计除掉对手主帅，造神师动摇敌军信心，诱导敌军暴行激怒己方士气，假投降瓦解戒备，最后火牛阵一击致命。但最深刻的启示来自鲁仲连：在即墨有死之心所以能赢，有了生之乐反而打不赢。绝境中的战斗力，安逸中永远不会有。
+🔮 下期预告：完璧归赵和渑池相会——蔺相如与廉颇的故事。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈018-田单复齐-火牛阵.mp3" length="5832664" type="audio/mpeg"/>
+      <ns0:duration>06:04</ns0:duration>
+      <pubDate>Mon, 18 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>18</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈019 - 完璧归赵：蔺相如</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈019-完璧归赵-蔺相如.mp3</link>
-      <description>💎 **十五城换一块玉？**
+    <item>
+      <title>通鉴日谈通鉴日谈019：完璧归赵-蔺相如</title>
+      <description># 通鉴日谈019 - 完璧归赵：蔺相如
+💎 **十五城换一块玉？**
 秦昭王说要用十五座城换赵国的和氏璧，赵王进退两难——不给怕翻脸，给了怕被骗。蔺相如站出来说：我去，保证完璧归赵。
 🔥 **怒发冲冠**
 蔺相如在秦国朝堂上拿到璧后，靠着柱子、怒发冲冠，威胁要头和璧一起撞碎。秦王被逼斋戒五日，蔺相如趁机派人从小路把璧送回赵国，然后空手上殿说：我欺君之罪当死，请把我下油锅。
@@ -480,35 +505,27 @@
 💡 **今日启示**
 蔺相如的谈判策略至今有效：弱势方想赢，必须在道义制高点上站牢，同时做好最坏打算。商务谈判中，手里有筹码还不够，还得让对方相信你敢掀桌。那些只会退让的人，从来拿不到好条件。
 🔮 下期预告：渑池相会——蔺相如如何再挫秦王锐气，又如何与廉颇化解矛盾？</description>
-      <ns1:encoded># 通鉴日谈019 - 完璧归赵：蔺相如
-
+      <ns0:summary># 通鉴日谈019 - 完璧归赵：蔺相如
 💎 **十五城换一块玉？**
-
 秦昭王说要用十五座城换赵国的和氏璧，赵王进退两难——不给怕翻脸，给了怕被骗。蔺相如站出来说：我去，保证完璧归赵。
-
 🔥 **怒发冲冠**
-
 蔺相如在秦国朝堂上拿到璧后，靠着柱子、怒发冲冠，威胁要头和璧一起撞碎。秦王被逼斋戒五日，蔺相如趁机派人从小路把璧送回赵国，然后空手上殿说：我欺君之罪当死，请把我下油锅。
-
 🧠 **弱国外交的教科书**
-
 整场博弈的核心逻辑：军事上打不过，就在道义和谋略上碾压。每一步都有后手，每一次都以命相搏。
-
 💡 **今日启示**
-
 蔺相如的谈判策略至今有效：弱势方想赢，必须在道义制高点上站牢，同时做好最坏打算。商务谈判中，手里有筹码还不够，还得让对方相信你敢掀桌。那些只会退让的人，从来拿不到好条件。
-
-🔮 下期预告：渑池相会——蔺相如如何再挫秦王锐气，又如何与廉颇化解矛盾？</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈019-完璧归赵-蔺相如.mp3" length="5374581" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈019-完璧归赵-蔺相如.mp3</guid>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：渑池相会——蔺相如如何再挫秦王锐气，又如何与廉颇化解矛盾？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈019-完璧归赵-蔺相如.mp3" length="5374581" type="audio/mpeg"/>
+      <ns0:duration>05:35</ns0:duration>
+      <pubDate>Tue, 19 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>19</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈020 - 渑池相会：负荆请罪</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈020-渑池相会-负荆请罪.mp3</link>
-      <description>⚔️ **秦国请赵王鼓瑟**
+    <item>
+      <title>通鉴日谈通鉴日谈020：渑池相会-负荆请罪</title>
+      <description># 通鉴日谈020 - 渑池相会：负荆请罪
+⚔️ **秦国请赵王鼓瑟**
 渑池宴会上，秦王让赵王表演鼓瑟——这是赤裸裸的侮辱。蔺相如当场反击：请秦王敲瓦盆。秦王不肯，蔺相如厉色——五步之内，我血溅大王！秦王被逼敲了一下瓦盆。
 🤝 **将相和**
 蔺相如封上卿，位在廉颇之上。廉颇不服，扬言要羞辱他。蔺相如处处避让，门客觉得窝囊。蔺相如说出核心逻辑——秦国不敢打赵国，就是因为有我们两个在。两虎相争必有一伤，我避让是先国家后个人。
@@ -517,35 +534,27 @@
 💡 **今日启示**
 职场上最忌讳的不是有矛盾，而是有矛盾还装作没有。蔺相如不回避廉颇的敌意，而是用行动证明自己的格局；廉颇不嘴硬到底，认错够快够狠。能吵架不可怕，吵完能合作才叫成熟。团队内部最大的内耗，从来不是能力不够，而是互不服气。
 🔮 下期预告：长平之战——赵括纸上谈兵，四十万人被坑杀。</description>
-      <ns1:encoded># 通鉴日谈020 - 渑池相会：负荆请罪
-
+      <ns0:summary># 通鉴日谈020 - 渑池相会：负荆请罪
 ⚔️ **秦国请赵王鼓瑟**
-
 渑池宴会上，秦王让赵王表演鼓瑟——这是赤裸裸的侮辱。蔺相如当场反击：请秦王敲瓦盆。秦王不肯，蔺相如厉色——五步之内，我血溅大王！秦王被逼敲了一下瓦盆。
-
 🤝 **将相和**
-
 蔺相如封上卿，位在廉颇之上。廉颇不服，扬言要羞辱他。蔺相如处处避让，门客觉得窝囊。蔺相如说出核心逻辑——秦国不敢打赵国，就是因为有我们两个在。两虎相争必有一伤，我避让是先国家后个人。
-
 🙏 **负荆请罪**
-
 廉颇听后赤膊背荆条上门请罪。一个身经百战的老将，能放下身段认错，格局比面子大。
-
 💡 **今日启示**
-
 职场上最忌讳的不是有矛盾，而是有矛盾还装作没有。蔺相如不回避廉颇的敌意，而是用行动证明自己的格局；廉颇不嘴硬到底，认错够快够狠。能吵架不可怕，吵完能合作才叫成熟。团队内部最大的内耗，从来不是能力不够，而是互不服气。
-
-🔮 下期预告：长平之战——赵括纸上谈兵，四十万人被坑杀。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈020-渑池相会-负荆请罪.mp3" length="5420556" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈020-渑池相会-负荆请罪.mp3</guid>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：长平之战——赵括纸上谈兵，四十万人被坑杀。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈020-渑池相会-负荆请罪.mp3" length="5420556" type="audio/mpeg"/>
+      <ns0:duration>05:38</ns0:duration>
+      <pubDate>Wed, 20 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>20</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈021 - 长平之战：纸上谈兵</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈021-长平之战-纸上谈兵.mp3</link>
-      <description>🏚️ **上党嫁祸**
+    <item>
+      <title>通鉴日谈通鉴日谈021：长平之战-纸上谈兵</title>
+      <description># 通鉴日谈021 - 长平之战：纸上谈兵
+🏚️ **上党嫁祸**
 秦国切断上党与韩国的联系，郡守冯亭把上党献给赵国——明为联合抗秦，实为嫁祸于人。平阳君劝赵王不要接这块烫手山芋，平原君却说应该拿。赵王听了平原君的。
 🗡️ **廉颇坚壁不出**
 秦军来攻，廉颇坚守不出，消耗战对赵国有利。但赵王嫌廉颇怯战，秦国又施反间计——秦国只怕赵括！赵王中计，用赵括替换廉颇。
@@ -556,39 +565,29 @@
 💡 **今日启示**
 长平之败不是赵括一个人的错。从赵王贪心上党、中反间计换将，到齐国坐视不救、白起残忍屠降，每个环节都在把悲剧推向深渊。现实中很多灾难也是如此——不是单一决策失误，而是一连串判断失误叠加。做决策时，最大的风险往往不是看得见的敌人，而是自己人的贪婪和短视。
 🔮 下期预告：邯郸之围，信陵君窃符救赵——赵国如何在亡国边缘被拉回来。</description>
-      <ns1:encoded># 通鉴日谈021 - 长平之战：纸上谈兵
-
+      <ns0:summary># 通鉴日谈021 - 长平之战：纸上谈兵
 🏚️ **上党嫁祸**
-
 秦国切断上党与韩国的联系，郡守冯亭把上党献给赵国——明为联合抗秦，实为嫁祸于人。平阳君劝赵王不要接这块烫手山芋，平原君却说应该拿。赵王听了平原君的。
-
 🗡️ **廉颇坚壁不出**
-
 秦军来攻，廉颇坚守不出，消耗战对赵国有利。但赵王嫌廉颇怯战，秦国又施反间计——秦国只怕赵括！赵王中计，用赵括替换廉颇。
-
 📖 **纸上谈兵**
-
 赵括父亲赵奢早有预言：兵者死地，括言之太易，破赵军者必括也。赵括母亲更具体——他父亲赏赐全分给将士，赵括却忙着买田置地。赵王不听，赵括母只求免于连坐。
-
 ⚰️ **四十五万人坑杀**
-
 赵括被白起围困四十六天，断粮至人相食，突围时被射杀。四十万人投降，白起全部活埋。赵国脊梁被打断。
-
 💡 **今日启示**
-
 长平之败不是赵括一个人的错。从赵王贪心上党、中反间计换将，到齐国坐视不救、白起残忍屠降，每个环节都在把悲剧推向深渊。现实中很多灾难也是如此——不是单一决策失误，而是一连串判断失误叠加。做决策时，最大的风险往往不是看得见的敌人，而是自己人的贪婪和短视。
-
-🔮 下期预告：邯郸之围，信陵君窃符救赵——赵国如何在亡国边缘被拉回来。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈021-长平之战-纸上谈兵.mp3" length="6908073" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈021-长平之战-纸上谈兵.mp3</guid>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>7:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：邯郸之围，信陵君窃符救赵——赵国如何在亡国边缘被拉回来。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈021-长平之战-纸上谈兵.mp3" length="6908073" type="audio/mpeg"/>
+      <ns0:duration>07:11</ns0:duration>
+      <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>21</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈022 - 信陵君：窃符救赵</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈022-信陵君-窃符救赵.mp3</link>
-      <description>🎯 **毛遂自荐**
+    <item>
+      <title>通鉴日谈通鉴日谈022：信陵君-窃符救赵</title>
+      <description># 通鉴日谈022 - 信陵君：窃符救赵
+🎯 **毛遂自荐**
 平原君赴楚求救，三千食客只挑出十九人。毛遂自荐，平原君嫌他三年无建树。毛遂说：你从来没把我放进口袋，我怎么脱颖而出？到了楚国，毛遂按剑上殿，一番话逼楚王当场歃血为盟。
 🛡️ **魏国脚踩两条船**
 魏王派十万大军救赵，又怕秦国威胁，命令晋鄙停步不前。鲁仲连痛斥劝赵国尊秦为帝的提议——秦若称帝，你魏王还能安坐？
@@ -597,35 +596,27 @@
 💡 **今日启示**
 信陵君的故事本质是一个选择题：遵守规则还是做正确的事？他偷兵符、杀本国大将、违抗君命，每一条都是死罪，但他救了一国百姓。现实中也有这样的时刻——制度和道义冲突时，你的选择定义了你是谁。当然，前提是你得承担选择的后果。信陵君此后十年不敢回魏国。
 🔮 下期预告：吕不韦奇货可居——一个商人如何用投资思维押中秦国的未来。</description>
-      <ns1:encoded># 通鉴日谈022 - 信陵君：窃符救赵
-
+      <ns0:summary># 通鉴日谈022 - 信陵君：窃符救赵
 🎯 **毛遂自荐**
-
 平原君赴楚求救，三千食客只挑出十九人。毛遂自荐，平原君嫌他三年无建树。毛遂说：你从来没把我放进口袋，我怎么脱颖而出？到了楚国，毛遂按剑上殿，一番话逼楚王当场歃血为盟。
-
 🛡️ **魏国脚踩两条船**
-
 魏王派十万大军救赵，又怕秦国威胁，命令晋鄙停步不前。鲁仲连痛斥劝赵国尊秦为帝的提议——秦若称帝，你魏王还能安坐？
-
 🔑 **窃符救赵**
-
 信陵君走投无路，侯嬴献计：如姬能偷魏王卧内的兵符。信陵君拿到虎符，朱亥袖藏四十斤铁锤随行。晋鄙合符后起疑，朱亥一锤砸死。信陵君精简得八万精兵，解了邯郸之围。
-
 💡 **今日启示**
-
 信陵君的故事本质是一个选择题：遵守规则还是做正确的事？他偷兵符、杀本国大将、违抗君命，每一条都是死罪，但他救了一国百姓。现实中也有这样的时刻——制度和道义冲突时，你的选择定义了你是谁。当然，前提是你得承担选择的后果。信陵君此后十年不敢回魏国。
-
-🔮 下期预告：吕不韦奇货可居——一个商人如何用投资思维押中秦国的未来。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈022-信陵君-窃符救赵.mp3" length="7550476" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈022-信陵君-窃符救赵.mp3</guid>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>7:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：吕不韦奇货可居——一个商人如何用投资思维押中秦国的未来。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈022-信陵君-窃符救赵.mp3" length="7550476" type="audio/mpeg"/>
+      <ns0:duration>07:51</ns0:duration>
+      <pubDate>Fri, 22 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>22</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈023 - 吕不韦：奇货可居</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈023-吕不韦-奇货可居.mp3</link>
-      <description>💰 **此奇货可居**
+    <item>
+      <title>通鉴日谈通鉴日谈023：吕不韦-奇货可居</title>
+      <description># 通鉴日谈023 - 吕不韦：奇货可居
+💰 **此奇货可居**
 商人吕不韦在邯郸见到落魄质子异人，一眼看出投资价值。五百金包装异人广交宾客，五百金打点华阳夫人姐姐的关系链——标准的双轨投资。
 👑 **色衰爱弛，无子无靠**
 吕不韦说服华阳夫人的话术核心：你靠容貌得宠，但没有儿子，一旦色衰爱弛怎么办？认异人为子，异人从无国变有国，你从无子变有子。华阳夫人刻玉符立异人为继承人。
@@ -634,35 +625,27 @@
 💡 **今日启示**
 吕不韦是古代最成功的风险投资人——在所有人不看好的项目上重仓下注，还自己做了FA和PR。但他最终的结局是被自己扶持的对象赐死，这也是风险投资的终极风险：你选中的创始人，可能不会永远需要你。投资人最大的错觉，就是以为自己是操盘手，其实你只是早期股东。
 🔮 下期预告：进入秦纪——嬴政如何从质子之子一步步吞并天下。</description>
-      <ns1:encoded># 通鉴日谈023 - 吕不韦：奇货可居
-
+      <ns0:summary># 通鉴日谈023 - 吕不韦：奇货可居
 💰 **此奇货可居**
-
 商人吕不韦在邯郸见到落魄质子异人，一眼看出投资价值。五百金包装异人广交宾客，五百金打点华阳夫人姐姐的关系链——标准的双轨投资。
-
 👑 **色衰爱弛，无子无靠**
-
 吕不韦说服华阳夫人的话术核心：你靠容貌得宠，但没有儿子，一旦色衰爱弛怎么办？认异人为子，异人从无国变有国，你从无子变有子。华阳夫人刻玉符立异人为继承人。
-
 👶 **嬴政的身世之谜**
-
 吕不韦娶邯郸美女，知其有孕，异人看上了，吕不韦佯怒后献出。孕期足年生嬴政——秦始皇。嬴政到底是异人的儿子还是吕不韦的儿子？这是中国历史上最大的悬案之一。
-
 💡 **今日启示**
-
 吕不韦是古代最成功的风险投资人——在所有人不看好的项目上重仓下注，还自己做了FA和PR。但他最终的结局是被自己扶持的对象赐死，这也是风险投资的终极风险：你选中的创始人，可能不会永远需要你。投资人最大的错觉，就是以为自己是操盘手，其实你只是早期股东。
-
-🔮 下期预告：进入秦纪——嬴政如何从质子之子一步步吞并天下。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈023-吕不韦-奇货可居.mp3" length="6283224" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈023-吕不韦-奇货可居.mp3</guid>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：进入秦纪——嬴政如何从质子之子一步步吞并天下。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈023-吕不韦-奇货可居.mp3" length="6283224" type="audio/mpeg"/>
+      <ns0:duration>06:32</ns0:duration>
+      <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>23</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈024 - 嬴政亲政：嫪毐之乱</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈024-嬴政亲政-嫪毐之乱.mp3</link>
-      <description>⚡ **从傀儡到真王**
+    <item>
+      <title>通鉴日谈通鉴日谈024：嬴政亲政-嫪毐之乱</title>
+      <description># 通鉴日谈024 - 嬴政亲政：嫪毐之乱
+⚡ **从傀儡到真王**
 十三岁的嬴政继位，一切大事由仲父吕不韦决定。但这个少年绝不是傀儡——太后宠臣嫪毐假充宦官，与太后生二子，封长信侯，权倾朝野。事情败露后嫪毐矫诏发兵叛乱，嬴政冷静派兵镇压，夷三族、车裂党羽、流放四千余家。
 🗡️ **二十七具尸骨与第二十八人**
 嬴政下令——敢为太后进谏者，戮而断肢！二十七人死于阙下。齐国客卿茅焦来了，说：天有二十八宿，我来凑满这个数。他当面指出嬴政的狂悖之行，嬴政竟然听进去了。
@@ -671,35 +654,27 @@
 💡 **今日启示**
 嬴政亲政的手段，是教科书级的"借力打力"——先让敌人自己暴露，再以最小代价清算。职场中也一样：最高明的反击不是正面对抗，而是等对方犯错后一击致命。急着翻脸的人，往往把一手好牌打成烂牌。
 🔮 下期预告：法家双星——李斯的谏逐客书与韩非的惨死。</description>
-      <ns1:encoded># 通鉴日谈024 - 嬴政亲政：嫪毐之乱
-
+      <ns0:summary># 通鉴日谈024 - 嬴政亲政：嫪毐之乱
 ⚡ **从傀儡到真王**
-
 十三岁的嬴政继位，一切大事由仲父吕不韦决定。但这个少年绝不是傀儡——太后宠臣嫪毐假充宦官，与太后生二子，封长信侯，权倾朝野。事情败露后嫪毐矫诏发兵叛乱，嬴政冷静派兵镇压，夷三族、车裂党羽、流放四千余家。
-
 🗡️ **二十七具尸骨与第二十八人**
-
 嬴政下令——敢为太后进谏者，戮而断肢！二十七人死于阙下。齐国客卿茅焦来了，说：天有二十八宿，我来凑满这个数。他当面指出嬴政的狂悖之行，嬴政竟然听进去了。
-
 📜 **三问吕不韦**
-
 "君何功于秦？何亲于秦？号称仲父？"一封书信，字字诛心。吕不韦最终饮鸩自尽。嬴政用三步完成亲政——除嫪毐、逼吕不韦、行逐客令。
-
 💡 **今日启示**
-
 嬴政亲政的手段，是教科书级的"借力打力"——先让敌人自己暴露，再以最小代价清算。职场中也一样：最高明的反击不是正面对抗，而是等对方犯错后一击致命。急着翻脸的人，往往把一手好牌打成烂牌。
-
-🔮 下期预告：法家双星——李斯的谏逐客书与韩非的惨死。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈024-嬴政亲政-嫪毐之乱.mp3" length="5128821" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈024-嬴政亲政-嫪毐之乱.mp3</guid>
-      <pubDate>Sun, 24 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：法家双星——李斯的谏逐客书与韩非的惨死。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈024-嬴政亲政-嫪毐之乱.mp3" length="5128821" type="audio/mpeg"/>
+      <ns0:duration>05:20</ns0:duration>
+      <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>24</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈025 - 法家双星：李斯与韩非</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈025-法家双星-李斯与韩非.mp3</link>
-      <description>📝 **一封信扭转乾坤**
+    <item>
+      <title>通鉴日谈通鉴日谈025：法家双星-李斯与韩非</title>
+      <description># 通鉴日谈025 - 法家双星：李斯与韩非
+📝 **一封信扭转乾坤**
 逐客令下，所有外来官员被驱逐。楚人李斯在被逐途中写下谏逐客书——太山不让土壤，故能成其大；河海不择细流，故能就其深。嬴政看完立刻收回成命，李斯官复原职。
 ⚔️ **同门相残**
 韩非出使秦国，上书献策。嬴政大悦，但还没任用。李斯一句话判了韩非死刑——韩非韩之诸公子也，终为韩不为秦，不如以法诛之。毒药送入狱中，韩非求见自辩不得，死于非命。
@@ -708,35 +683,27 @@
 💡 **今日启示**
 李斯和韩非的悲剧，至今在职场反复上演——才华相当的人，一个懂得向上管理、适时自保，一个只顾展示能力、忽视人心之险。职场最大的风险从来不是能力不足，而是低估了同行的嫉妒。你的上司认可你，不代表同事容得下你。
 🔮 下期预告：荆轲刺秦王——图穷匕见，壮士一去不复还。</description>
-      <ns1:encoded># 通鉴日谈025 - 法家双星：李斯与韩非
-
+      <ns0:summary># 通鉴日谈025 - 法家双星：李斯与韩非
 📝 **一封信扭转乾坤**
-
 逐客令下，所有外来官员被驱逐。楚人李斯在被逐途中写下谏逐客书——太山不让土壤，故能成其大；河海不择细流，故能就其深。嬴政看完立刻收回成命，李斯官复原职。
-
 ⚔️ **同门相残**
-
 韩非出使秦国，上书献策。嬴政大悦，但还没任用。李斯一句话判了韩非死刑——韩非韩之诸公子也，终为韩不为秦，不如以法诛之。毒药送入狱中，韩非求见自辩不得，死于非命。
-
 📖 **说难之难**
-
 韩非写了《说难》，论说服之难，自己却死在了说服之难上。司马光说——为秦画谋而首欲覆其宗国，罪固不容于死矣。扬雄说得更深——说人而忧其不合，则亦无所不至矣。
-
 💡 **今日启示**
-
 李斯和韩非的悲剧，至今在职场反复上演——才华相当的人，一个懂得向上管理、适时自保，一个只顾展示能力、忽视人心之险。职场最大的风险从来不是能力不足，而是低估了同行的嫉妒。你的上司认可你，不代表同事容得下你。
-
-🔮 下期预告：荆轲刺秦王——图穷匕见，壮士一去不复还。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈025-法家双星-李斯与韩非.mp3" length="5676765" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈025-法家双星-李斯与韩非.mp3</guid>
-      <pubDate>Mon, 25 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：荆轲刺秦王——图穷匕见，壮士一去不复还。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈025-法家双星-李斯与韩非.mp3" length="5676765" type="audio/mpeg"/>
+      <ns0:duration>05:54</ns0:duration>
+      <pubDate>Mon, 25 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>25</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈026 - 荆轲刺秦王：图穷匕见</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈026-荆轲刺秦王-图穷匕见.mp3</link>
-      <description>🗡️ **不可能的任务**
+    <item>
+      <title>通鉴日谈通鉴日谈026：荆轲刺秦王-图穷匕见</title>
+      <description># 通鉴日谈026 - 荆轲刺秦王：图穷匕见
+🗡️ **不可能的任务**
 秦已灭韩、兵临赵国，燕国岌岌可危。太子丹找来荆轲——诚得天下之勇士使于秦，劫秦王使悉反诸侯侵地；则不可，因而刺杀之。两手准备：逼签退地协议，或直接刺杀。
 💎 **两个代价**
 荆轲要两样东西：樊於期的人头和督亢地图。樊於期听说后自刎献首。太子丹找来天下最锋利的匕首，淬以剧毒。
@@ -745,35 +712,27 @@
 💡 **今日启示**
 荆轲失败的根源不是勇气不够，而是目标自相矛盾——既想活捉签协议，又想一击致命，结果两头落空。现实中很多失败也是这样：既要又要，关键时刻犹豫不决。真正的决断力，不是什么都想要，而是放弃次要目标、全力击穿核心目标。
 🔮 下期预告：王翦灭楚——六十万人的赌注，一个老将的耐心。</description>
-      <ns1:encoded># 通鉴日谈026 - 荆轲刺秦王：图穷匕见
-
+      <ns0:summary># 通鉴日谈026 - 荆轲刺秦王：图穷匕见
 🗡️ **不可能的任务**
-
 秦已灭韩、兵临赵国，燕国岌岌可危。太子丹找来荆轲——诚得天下之勇士使于秦，劫秦王使悉反诸侯侵地；则不可，因而刺杀之。两手准备：逼签退地协议，或直接刺杀。
-
 💎 **两个代价**
-
 荆轲要两样东西：樊於期的人头和督亢地图。樊於期听说后自刎献首。太子丹找来天下最锋利的匕首，淬以剧毒。
-
 📜 **图穷匕见**
-
 咸阳宫中，九宾大典。荆轲捧地图上前——图穷而匕首见！抓住秦王袖子刺去，未中。秦王绕柱而走，群臣空手搏斗，喊"王负剑"。秦王终于拔出长剑，砍断荆轲左腿。荆轲掷匕首中铜柱，骂道——事所以不成者，以欲生劫之！
-
 💡 **今日启示**
-
 荆轲失败的根源不是勇气不够，而是目标自相矛盾——既想活捉签协议，又想一击致命，结果两头落空。现实中很多失败也是这样：既要又要，关键时刻犹豫不决。真正的决断力，不是什么都想要，而是放弃次要目标、全力击穿核心目标。
-
-🔮 下期预告：王翦灭楚——六十万人的赌注，一个老将的耐心。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈026-荆轲刺秦王-图穷匕见.mp3" length="5182319" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈026-荆轲刺秦王-图穷匕见.mp3</guid>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：王翦灭楚——六十万人的赌注，一个老将的耐心。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈026-荆轲刺秦王-图穷匕见.mp3" length="5182319" type="audio/mpeg"/>
+      <ns0:duration>05:23</ns0:duration>
+      <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>26</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈027 - 王翦灭楚：六十万人的赌注</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈027-王翦灭楚-六十万人的赌注.mp3</link>
-      <description>🎲 **二十万还是六十万？**
+    <item>
+      <title>通鉴日谈通鉴日谈027：王翦灭楚-六十万人的赌注</title>
+      <description># 通鉴日谈027 - 王翦灭楚：六十万人的赌注
+🎲 **二十万还是六十万？**
 秦王问将军李信灭楚要多少人，李信说二十万。问老将王翦，王翦说非六十万不可。秦王说王将军老了胆子小了，派李信出征。结果楚军三天三夜不停追击，大败李信，杀七都尉，二十万秦军溃败。
 🙏 **亲自登门**
 秦王亲自去频阳请王翦出山——寡人不用将军谋，李信果辱秦军。王翦坚持六十万，秦王同意了。但王翦出征前反复索要良田美宅，连要五次——不是贪财，是因为秦王多疑，空国之兵专委一人，不自污就会被猜忌。
@@ -782,35 +741,27 @@
 💡 **今日启示**
 王翦灭楚的核心策略是"等得起"——你有六十万人的后勤，对方耗不过你，时间就是最大的武器。商业竞争也一样：很多胜利不是打赢的，而是对手先撑不住。但前提是你自己要活得到那一天——所以融资储备、控制节奏、不急于决战，才是长期主义的真谛。
 🔮 下期预告：六王毕四海一——秦始皇统一天下，发明"皇帝"这个称号。</description>
-      <ns1:encoded># 通鉴日谈027 - 王翦灭楚：六十万人的赌注
-
+      <ns0:summary># 通鉴日谈027 - 王翦灭楚：六十万人的赌注
 🎲 **二十万还是六十万？**
-
 秦王问将军李信灭楚要多少人，李信说二十万。问老将王翦，王翦说非六十万不可。秦王说王将军老了胆子小了，派李信出征。结果楚军三天三夜不停追击，大败李信，杀七都尉，二十万秦军溃败。
-
 🙏 **亲自登门**
-
 秦王亲自去频阳请王翦出山——寡人不用将军谋，李信果辱秦军。王翦坚持六十万，秦王同意了。但王翦出征前反复索要良田美宅，连要五次——不是贪财，是因为秦王多疑，空国之兵专委一人，不自污就会被猜忌。
-
 🏔️ **不战而胜**
-
 六十万大军到了前线，王翦坚壁不出。楚军挑战不应，日日休整。等到士兵开始玩投石跳远的游戏，王翦说"可用矣"。楚军等不起东撤，王翦追击大破楚师，杀项燕，楚国灭亡。
-
 💡 **今日启示**
-
 王翦灭楚的核心策略是"等得起"——你有六十万人的后勤，对方耗不过你，时间就是最大的武器。商业竞争也一样：很多胜利不是打赢的，而是对手先撑不住。但前提是你自己要活得到那一天——所以融资储备、控制节奏、不急于决战，才是长期主义的真谛。
-
-🔮 下期预告：六王毕四海一——秦始皇统一天下，发明"皇帝"这个称号。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈027-王翦灭楚-六十万人的赌注.mp3" length="5136344" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈027-王翦灭楚-六十万人的赌注.mp3</guid>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：六王毕四海一——秦始皇统一天下，发明"皇帝"这个称号。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈027-王翦灭楚-六十万人的赌注.mp3" length="5136344" type="audio/mpeg"/>
+      <ns0:duration>05:20</ns0:duration>
+      <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>27</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈028 - 六王毕四海一：秦始皇统一天下</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈028-六王毕四海一-秦始皇统一天下.mp3</link>
-      <description>🏰 **最后一个旁观者**
+    <item>
+      <title>通鉴日谈通鉴日谈028：六王毕四海一-秦始皇统一天下</title>
+      <description># 通鉴日谈028 - 六王毕四海一：秦始皇统一天下
+🏰 **最后一个旁观者**
 韩赵楚魏已灭，燕国残破，只剩齐国。齐王建坐视五国灭亡，以为不惹秦国就安全。秦将王贲猝入临淄，无人抵抗。秦国许诺封五百里地，齐王投降——然后被迁到松柏之间活活饿死。
 👑 **皇帝的诞生**
 六国皆灭，嬴政自认德兼三皇功过五帝，发明"皇帝"这个称号。命为制，令为诏，自称朕。废除谥号——子议父臣议君，甚无谓。朕为始皇帝，后世以计数，二世三世至于万世。
@@ -819,1031 +770,467 @@
 💡 **今日启示**
 嬴政的统一和覆灭，揭示了一个永恒的组织悖论：打天下靠的是强力和集中，治天下需要的是弹性和容错。秦国把战争时期的高压模式直接搬到了和平时期，制度越统一、控制越严密，系统的韧性反而越差。管理也是一样——过度优化的组织，往往是最脆弱的组织。
 🔮 下期预告：从三家分晋到六国统一，周纪秦纪前半段完结。后续将进入秦朝崩塌与楚汉争霸。</description>
-      <ns1:encoded># 通鉴日谈028 - 六王毕四海一：秦始皇统一天下
-
+      <ns0:summary># 通鉴日谈028 - 六王毕四海一：秦始皇统一天下
 🏰 **最后一个旁观者**
-
 韩赵楚魏已灭，燕国残破，只剩齐国。齐王建坐视五国灭亡，以为不惹秦国就安全。秦将王贲猝入临淄，无人抵抗。秦国许诺封五百里地，齐王投降——然后被迁到松柏之间活活饿死。
-
 👑 **皇帝的诞生**
-
 六国皆灭，嬴政自认德兼三皇功过五帝，发明"皇帝"这个称号。命为制，令为诏，自称朕。废除谥号——子议父臣议君，甚无谓。朕为始皇帝，后世以计数，二世三世至于万世。
-
 ⚖️ **郡县还是分封？**
-
 丞相王绾建议分封皇子镇守远方。李斯反对——周朝分封导致同姓相攻如仇。嬴政拍板——天下共苦战斗不休以有侯王，又复立国是树兵也。全国三十六郡，同一套法律、同一套行政。
-
 💡 **今日启示**
-
 嬴政的统一和覆灭，揭示了一个永恒的组织悖论：打天下靠的是强力和集中，治天下需要的是弹性和容错。秦国把战争时期的高压模式直接搬到了和平时期，制度越统一、控制越严密，系统的韧性反而越差。管理也是一样——过度优化的组织，往往是最脆弱的组织。
-
-🔮 下期预告：从三家分晋到六国统一，周纪秦纪前半段完结。后续将进入秦朝崩塌与楚汉争霸。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈028-六王毕四海一-秦始皇统一天下.mp3" length="5456501" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈028-六王毕四海一-秦始皇统一天下.mp3</guid>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+🔮 下期预告：从三家分晋到六国统一，周纪秦纪前半段完结。后续将进入秦朝崩塌与楚汉争霸。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈028-六王毕四海一-秦始皇统一天下.mp3" length="5456501" type="audio/mpeg"/>
+      <ns0:duration>05:41</ns0:duration>
+      <pubDate>Thu, 28 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>28</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈029 - 始皇晚年：焚书坑儒与求仙迷梦</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈029-始皇晚年-焚书坑儒与求仙迷梦.mp3</link>
-      <description>🔮 一个想让时间停下来的帝王，最终被时间吞噬
+    <item>
+      <title>通鉴日谈通鉴日谈029：始皇晚年-焚书坑儒与求仙迷梦</title>
+      <description># 通鉴日谈029 - 始皇晚年：焚书坑儒与求仙迷梦
+🔮 一个想让时间停下来的帝王，最终被时间吞噬
 嬴政统一天下后，不是停下来治理，而是加速奔跑——修仙、焚书、坑儒。他自封"真人"，躲进宫殿迷宫，杀掉知道自己行踪的人。李斯一纸焚书令，以古非今者族灭；四百六十余人被活埋于咸阳，"使天下知之，以惩后"。
 而那块陨石上的六个字——"始皇死而地分"——成了帝国最不祥的预言……
 💡今日启示：焚书坑儒的本质是"知识垄断+思想管控"，当代企业或组织中，用信息壁垒压制不同声音，短期维稳，长期必崩。
 下期预告：沙丘之变——秦始皇驾崩，赵高篡改遗诏，帝国命运在一间密室中被改写。</description>
-      <ns1:encoded># 通鉴日谈029 - 始皇晚年：焚书坑儒与求仙迷梦
-
+      <ns0:summary># 通鉴日谈029 - 始皇晚年：焚书坑儒与求仙迷梦
 🔮 一个想让时间停下来的帝王，最终被时间吞噬
-
 嬴政统一天下后，不是停下来治理，而是加速奔跑——修仙、焚书、坑儒。他自封"真人"，躲进宫殿迷宫，杀掉知道自己行踪的人。李斯一纸焚书令，以古非今者族灭；四百六十余人被活埋于咸阳，"使天下知之，以惩后"。
-
 而那块陨石上的六个字——"始皇死而地分"——成了帝国最不祥的预言……
-
 💡今日启示：焚书坑儒的本质是"知识垄断+思想管控"，当代企业或组织中，用信息壁垒压制不同声音，短期维稳，长期必崩。
-
----
-
-下期预告：沙丘之变——秦始皇驾崩，赵高篡改遗诏，帝国命运在一间密室中被改写。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈029-始皇晚年-焚书坑儒与求仙迷梦.mp3" length="5492445" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈029-始皇晚年-焚书坑儒与求仙迷梦.mp3</guid>
-      <pubDate>Fri, 29 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：沙丘之变——秦始皇驾崩，赵高篡改遗诏，帝国命运在一间密室中被改写。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈029-始皇晚年-焚书坑儒与求仙迷梦.mp3" length="5492445" type="audio/mpeg"/>
+      <ns0:duration>05:43</ns0:duration>
+      <pubDate>Fri, 29 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>29</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈030 - 沙丘之变：赵高篡诏与胡亥即位</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈030-沙丘之变-赵高篡诏与胡亥即位.mp3</link>
-      <description>🐍 一封未发出的遗诏，三个人的一场密谋
+    <item>
+      <title>通鉴日谈通鉴日谈030：沙丘之变-赵高篡诏与胡亥即位</title>
+      <description># 通鉴日谈030 - 沙丘之变：赵高篡诏与胡亥即位
+🐍 一封未发出的遗诏，三个人的一场密谋
 秦始皇病逝沙丘，遗诏召扶苏主持葬礼——等于指定继承人。但诏书落在赵高手中，未付使者。赵高说服胡亥、胁迫李斯，伪造赐死扶苏的诏书。扶苏含冤自尽，蒙恬守义赴死，一代帝王身后竟以鲍鱼掩臭。
 胡亥即位，大杀宗室，蒙氏兄弟被灭——秦朝最后的忠臣，死于新帝的恐惧和奸臣的算计……
 💡今日启示：沙丘之变的教训——组织交接时，权力真空是最大的风险。制度不能依赖个人忠诚，否则一次密室交易就能颠覆一切。
 下期预告：大泽乡起义——"王侯将相宁有种乎！"九百人的呐喊，点燃了灭秦的烈火。</description>
-      <ns1:encoded># 通鉴日谈030 - 沙丘之变：赵高篡诏与胡亥即位
-
+      <ns0:summary># 通鉴日谈030 - 沙丘之变：赵高篡诏与胡亥即位
 🐍 一封未发出的遗诏，三个人的一场密谋
-
 秦始皇病逝沙丘，遗诏召扶苏主持葬礼——等于指定继承人。但诏书落在赵高手中，未付使者。赵高说服胡亥、胁迫李斯，伪造赐死扶苏的诏书。扶苏含冤自尽，蒙恬守义赴死，一代帝王身后竟以鲍鱼掩臭。
-
 胡亥即位，大杀宗室，蒙氏兄弟被灭——秦朝最后的忠臣，死于新帝的恐惧和奸臣的算计……
-
 💡今日启示：沙丘之变的教训——组织交接时，权力真空是最大的风险。制度不能依赖个人忠诚，否则一次密室交易就能颠覆一切。
-
----
-
-下期预告：大泽乡起义——"王侯将相宁有种乎！"九百人的呐喊，点燃了灭秦的烈火。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈030-沙丘之变-赵高篡诏与胡亥即位.mp3" length="5243759" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈030-沙丘之变-赵高篡诏与胡亥即位.mp3</guid>
-      <pubDate>Sat, 30 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：大泽乡起义——"王侯将相宁有种乎！"九百人的呐喊，点燃了灭秦的烈火。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈030-沙丘之变-赵高篡诏与胡亥即位.mp3" length="5243759" type="audio/mpeg"/>
+      <ns0:duration>05:27</ns0:duration>
+      <pubDate>Sat, 30 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>30</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈031 - 大泽乡起义：王侯将相宁有种乎</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈031-大泽乡起义-王侯将相宁有种乎.mp3</link>
-      <description>🔥 九百人的呐喊，炸开了一个帝国的裂缝
+    <item>
+      <title>通鉴日谈通鉴日谈031：大泽乡起义-王侯将相宁有种乎</title>
+      <description># 通鉴日谈031 - 大泽乡起义：王侯将相宁有种乎
+🔥 九百人的呐喊，炸开了一个帝国的裂缝
 秦二世暴政之下，误期当斩的戍卒陈胜、吴广做了最简单的算术——逃跑是死，造反也是死，不如干票大的。"王侯将相宁有种乎"八个字，把贵族政治的合法性一锤打碎。九百人起事，数日间滚雪球到数万人。
 但陈胜称王后迅速骄傲，不设防、杀忠言，六个月就覆灭了。同月，两个真正改变历史的人登场——刘邦起兵于沛，项梁起兵于吴……
 💡今日启示：陈胜是火柴不是火炬——创业中，先行者未必是最终赢家，但"第一声呐喊"的价值无法被替代。破局者需要的不只是勇气，还有组织能力。
 下期预告：章邯反击、项梁之死——秦朝还有最后的余力，而项羽正在成长。</description>
-      <ns1:encoded># 通鉴日谈031 - 大泽乡起义：王侯将相宁有种乎
-
+      <ns0:summary># 通鉴日谈031 - 大泽乡起义：王侯将相宁有种乎
 🔥 九百人的呐喊，炸开了一个帝国的裂缝
-
 秦二世暴政之下，误期当斩的戍卒陈胜、吴广做了最简单的算术——逃跑是死，造反也是死，不如干票大的。"王侯将相宁有种乎"八个字，把贵族政治的合法性一锤打碎。九百人起事，数日间滚雪球到数万人。
-
 但陈胜称王后迅速骄傲，不设防、杀忠言，六个月就覆灭了。同月，两个真正改变历史的人登场——刘邦起兵于沛，项梁起兵于吴……
-
 💡今日启示：陈胜是火柴不是火炬——创业中，先行者未必是最终赢家，但"第一声呐喊"的价值无法被替代。破局者需要的不只是勇气，还有组织能力。
-
----
-
-下期预告：章邯反击、项梁之死——秦朝还有最后的余力，而项羽正在成长。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈031-大泽乡起义-王侯将相宁有种乎.mp3" length="5940079" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈031-大泽乡起义-王侯将相宁有种乎.mp3</guid>
-      <pubDate>Sun, 31 May 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：章邯反击、项梁之死——秦朝还有最后的余力，而项羽正在成长。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈031-大泽乡起义-王侯将相宁有种乎.mp3" length="5940079" type="audio/mpeg"/>
+      <ns0:duration>06:11</ns0:duration>
+      <pubDate>Sun, 31 May 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>31</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈032 - 章邯反击与项梁之死：群雄并起</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈032-章邯反击与项梁之死-群雄并起.mp3</link>
-      <description>⚔️ 秦朝最后的良将，和楚军最致命的骄傲
+    <item>
+      <title>通鉴日谈通鉴日谈032：章邯反击与项梁之死-群雄并起</title>
+      <description># 通鉴日谈032 - 章邯反击与项梁之死：群雄并起
+⚔️ 秦朝最后的良将，和楚军最致命的骄傲
 章邯率骊山刑徒军连战连捷，陈胜六个月覆灭。项梁叔侄起兵吴中，范增献策"楚虽三户，亡秦必楚"，立楚怀王孙心为王。刘邦也在沛县竖起旗帜——萧何、曹参从一开始就在他身边。
 项梁连战连胜后骄傲轻敌，宋义警告"战胜而将骄卒惰者败"，项梁不听。结果章邯夜袭定陶，项梁战死——骄傲，是将帅最致命的弱点……
 💡今日启示：创业中的"初胜即骄"陷阱——早期成功最容易让人放松警惕。越是顺境，越要回头看。
 下期预告：巨鹿之战——项羽破釜沉舟，九战九胜，一战封神。</description>
-      <ns1:encoded># 通鉴日谈032 - 章邯反击与项梁之死：群雄并起
-
+      <ns0:summary># 通鉴日谈032 - 章邯反击与项梁之死：群雄并起
 ⚔️ 秦朝最后的良将，和楚军最致命的骄傲
-
 章邯率骊山刑徒军连战连捷，陈胜六个月覆灭。项梁叔侄起兵吴中，范增献策"楚虽三户，亡秦必楚"，立楚怀王孙心为王。刘邦也在沛县竖起旗帜——萧何、曹参从一开始就在他身边。
-
 项梁连战连胜后骄傲轻敌，宋义警告"战胜而将骄卒惰者败"，项梁不听。结果章邯夜袭定陶，项梁战死——骄傲，是将帅最致命的弱点……
-
 💡今日启示：创业中的"初胜即骄"陷阱——早期成功最容易让人放松警惕。越是顺境，越要回头看。
-
----
-
-下期预告：巨鹿之战——项羽破釜沉舟，九战九胜，一战封神。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈032-章邯反击与项梁之死-群雄并起.mp3" length="5943005" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈032-章邯反击与项梁之死-群雄并起.mp3</guid>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：巨鹿之战——项羽破釜沉舟，九战九胜，一战封神。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈032-章邯反击与项梁之死-群雄并起.mp3" length="5943005" type="audio/mpeg"/>
+      <ns0:duration>06:11</ns0:duration>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>32</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈033 - 巨鹿之战：破釜沉舟</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈033-巨鹿之战-破釜沉舟.mp3</link>
-      <description>🪓 沉船、砸锅、烧帐篷——项羽把自己逼到绝路
+    <item>
+      <title>通鉴日谈通鉴日谈033：巨鹿之战-破釜沉舟</title>
+      <description># 通鉴日谈033 - 巨鹿之战：破釜沉舟
+🪓 沉船、砸锅、烧帐篷——项羽把自己逼到绝路
 宋义四十六天不进兵，项羽晨入帐中斩其首。夺取兵权后，他做了中国军事史上最极端的决策——全军渡河，沉船破釜，烧庐舍，只带三天口粮。"以示士卒必死，无一还心。"
 楚军九战九胜，大破秦军主力。十几路诸侯军在营壁上观望，无人敢战。战后诸侯将领入辕门，"无不膝行而前，莫敢仰视。"项羽一战封神，成为天下共主……
 💡今日启示：破釜沉舟的底层逻辑是"置之死地而后生"——但在现代职场中，真正的勇气不是all-in一把，而是知道什么时候该all-in，什么时候该保留退路。
 下期预告：刘邦西入关中，兵不血刃——约法三章，两种征服方式的碰撞。</description>
-      <ns1:encoded># 通鉴日谈033 - 巨鹿之战：破釜沉舟
-
+      <ns0:summary># 通鉴日谈033 - 巨鹿之战：破釜沉舟
 🪓 沉船、砸锅、烧帐篷——项羽把自己逼到绝路
-
 宋义四十六天不进兵，项羽晨入帐中斩其首。夺取兵权后，他做了中国军事史上最极端的决策——全军渡河，沉船破釜，烧庐舍，只带三天口粮。"以示士卒必死，无一还心。"
-
 楚军九战九胜，大破秦军主力。十几路诸侯军在营壁上观望，无人敢战。战后诸侯将领入辕门，"无不膝行而前，莫敢仰视。"项羽一战封神，成为天下共主……
-
 💡今日启示：破釜沉舟的底层逻辑是"置之死地而后生"——但在现代职场中，真正的勇气不是all-in一把，而是知道什么时候该all-in，什么时候该保留退路。
-
----
-
-下期预告：刘邦西入关中，兵不血刃——约法三章，两种征服方式的碰撞。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈033-巨鹿之战-破釜沉舟.mp3" length="5410525" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈033-巨鹿之战-破釜沉舟.mp3</guid>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：刘邦西入关中，兵不血刃——约法三章，两种征服方式的碰撞。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈033-巨鹿之战-破釜沉舟.mp3" length="5410525" type="audio/mpeg"/>
+      <ns0:duration>05:23</ns0:duration>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>33</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈034 - 刘邦入关：约法三章</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈034-刘邦入关-约法三章.mp3</link>
-      <description>🤝 兵不血刃的征服——把秦法砍成三条
+    <item>
+      <title>通鉴日谈通鉴日谈034：刘邦入关-约法三章</title>
+      <description># 通鉴日谈034 - 刘邦入关：约法三章
+🤝 兵不血刃的征服——把秦法砍成三条
 项羽在巨鹿浴血厮杀，刘邦却用另一条路进了关中。他听郦食其的计谋、用张良的奇策、听萧何的忠言。萧何抢先收走秦的地图和户口册——别人抢金银，他抢信息。
 刘邦入咸阳，面对金银美女不为所动，还军霸上。然后召集关中父老，宣布约法三章："杀人者死，伤人及盗抵罪，余悉除秦法。"秦民大喜，唯恐刘邦不为秦王……
 💡今日启示：约法三章的本质是"降低用户的迁移成本"——把复杂系统简化到三条规则，瞬间赢得人心。产品和服务中，越简单的承诺越有说服力。
 下期预告：鸿门宴——中国历史上最危险的一顿饭。项庄舞剑，意在沛公。</description>
-      <ns1:encoded># 通鉴日谈034 - 刘邦入关：约法三章
-
+      <ns0:summary># 通鉴日谈034 - 刘邦入关：约法三章
 🤝 兵不血刃的征服——把秦法砍成三条
-
 项羽在巨鹿浴血厮杀，刘邦却用另一条路进了关中。他听郦食其的计谋、用张良的奇策、听萧何的忠言。萧何抢先收走秦的地图和户口册——别人抢金银，他抢信息。
-
 刘邦入咸阳，面对金银美女不为所动，还军霸上。然后召集关中父老，宣布约法三章："杀人者死，伤人及盗抵罪，余悉除秦法。"秦民大喜，唯恐刘邦不为秦王……
-
 💡今日启示：约法三章的本质是"降低用户的迁移成本"——把复杂系统简化到三条规则，瞬间赢得人心。产品和服务中，越简单的承诺越有说服力。
-
----
-
-下期预告：鸿门宴——中国历史上最危险的一顿饭。项庄舞剑，意在沛公。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈034-刘邦入关-约法三章.mp3" length="5218264" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈034-刘邦入关-约法三章.mp3</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：鸿门宴——中国历史上最危险的一顿饭。项庄舞剑，意在沛公。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈034-刘邦入关-约法三章.mp3" length="5218264" type="audio/mpeg"/>
+      <ns0:duration>05:11</ns0:duration>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>34</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈035 - 鸿门宴：项庄舞剑意在沛公</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈035-鸿门宴-项庄舞剑意在沛公.mp3</link>
-      <description>🗡️ 四十万对十万，一顿饭定生死
+    <item>
+      <title>通鉴日谈通鉴日谈035：鸿门宴-项庄舞剑意在沛公</title>
+      <description># 通鉴日谈035 - 鸿门宴：项庄舞剑意在沛公
+🗡️ 四十万对十万，一顿饭定生死
 刘邦先入关中，项羽怒欲击之。项伯夜告张良，刘邦亲赴鸿门谢罪。宴席上范增举玦三次，项羽不应；项庄舞剑意在沛公，项伯拔剑对舞保护刘邦。樊哙闯入，头发上指目眦尽裂，一番忠义之词让项羽哑口无言。
 刘邦借口如厕脱身，留张良献璧善后。范增碎玉斗叹曰："竖子不足与谋！夺项王天下者必沛公也！"——一语成谶……
 💡今日启示：鸿门宴是"谈判桌上见真章"的经典案例——实力不对等时，示弱、拖延、借人缓冲都是有效策略。政治不是比谁更硬，而是比谁更灵活。
 下期预告：项羽分封十八路诸侯，韩信登坛拜将——楚汉棋局正式摆开。</description>
-      <ns1:encoded># 通鉴日谈035 - 鸿门宴：项庄舞剑意在沛公
-
+      <ns0:summary># 通鉴日谈035 - 鸿门宴：项庄舞剑意在沛公
 🗡️ 四十万对十万，一顿饭定生死
-
 刘邦先入关中，项羽怒欲击之。项伯夜告张良，刘邦亲赴鸿门谢罪。宴席上范增举玦三次，项羽不应；项庄舞剑意在沛公，项伯拔剑对舞保护刘邦。樊哙闯入，头发上指目眦尽裂，一番忠义之词让项羽哑口无言。
-
 刘邦借口如厕脱身，留张良献璧善后。范增碎玉斗叹曰："竖子不足与谋！夺项王天下者必沛公也！"——一语成谶……
-
 💡今日启示：鸿门宴是"谈判桌上见真章"的经典案例——实力不对等时，示弱、拖延、借人缓冲都是有效策略。政治不是比谁更硬，而是比谁更灵活。
-
----
-
-下期预告：项羽分封十八路诸侯，韩信登坛拜将——楚汉棋局正式摆开。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈035-鸿门宴-项庄舞剑意在沛公.mp3" length="5689304" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈035-鸿门宴-项庄舞剑意在沛公.mp3</guid>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：项羽分封十八路诸侯，韩信登坛拜将——楚汉棋局正式摆开。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈035-鸿门宴-项庄舞剑意在沛公.mp3" length="5689304" type="audio/mpeg"/>
+      <ns0:duration>05:55</ns0:duration>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>35</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈036 - 项羽分封与韩信拜将：楚汉棋局初开</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈036-项羽分封与韩信拜将-楚汉棋局初开.mp3</link>
-      <description>♟️ 一个在分蛋糕，一个在找刀
+    <item>
+      <title>通鉴日谈通鉴日谈036：项羽分封与韩信拜将-楚汉棋局初开</title>
+      <description># 通鉴日谈036 - 项羽分封与韩信拜将：楚汉棋局初开
+♟️ 一个在分蛋糕，一个在找刀
 项羽火烧咸阳，"富贵不归故乡如衣绣夜行"——沐猴而冠。他分封十八路诸侯，把刘邦赶到巴蜀，用三秦降将堵死东归之路。张良临别一计：烧栈道，示项羽无东意。
 而韩信——从胯下之辱到登坛拜将——在萧何"月下追韩信"后被拜为大将。他对刘邦说项羽"匹夫之勇、妇人之仁"：力能扛鼎却不舍得放权，嘘寒问暖却不舍得封赏。八个字，判了项羽的死刑……
 💡今日启示：韩信对项羽的分析是"人才评估"的典范——看人不看表面能力，看核心缺陷。一个不舍得分利益的人，做不了大蛋糕。
 下期预告：明修栈道暗度陈仓——韩信出奇兵，刘邦还定三秦。</description>
-      <ns1:encoded># 通鉴日谈036 - 项羽分封与韩信拜将：楚汉棋局初开
-
+      <ns0:summary># 通鉴日谈036 - 项羽分封与韩信拜将：楚汉棋局初开
 ♟️ 一个在分蛋糕，一个在找刀
-
 项羽火烧咸阳，"富贵不归故乡如衣绣夜行"——沐猴而冠。他分封十八路诸侯，把刘邦赶到巴蜀，用三秦降将堵死东归之路。张良临别一计：烧栈道，示项羽无东意。
-
 而韩信——从胯下之辱到登坛拜将——在萧何"月下追韩信"后被拜为大将。他对刘邦说项羽"匹夫之勇、妇人之仁"：力能扛鼎却不舍得放权，嘘寒问暖却不舍得封赏。八个字，判了项羽的死刑……
-
 💡今日启示：韩信对项羽的分析是"人才评估"的典范——看人不看表面能力，看核心缺陷。一个不舍得分利益的人，做不了大蛋糕。
-
----
-
-下期预告：明修栈道暗度陈仓——韩信出奇兵，刘邦还定三秦。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈036-项羽分封与韩信拜将-楚汉棋局初开.mp3" length="7420073" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈036-项羽分封与韩信拜将-楚汉棋局初开.mp3</guid>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>7:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：明修栈道暗度陈仓——韩信出奇兵，刘邦还定三秦。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈036-项羽分封与韩信拜将-楚汉棋局初开.mp3" length="7420073" type="audio/mpeg"/>
+      <ns0:duration>07:43</ns0:duration>
+      <pubDate>Fri, 05 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>36</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈037 - 明修栈道暗度陈仓：还定三秦</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈037-明修栈道暗度陈仓-还定三秦.mp3</link>
-      <description>🛤️ 你盯着我的左手，我的右手已经出拳
+    <item>
+      <title>通鉴日谈通鉴日谈037：明修栈道暗度陈仓-还定三秦</title>
+      <description># 通鉴日谈037 - 明修栈道暗度陈仓：还定三秦
+🛤️ 你盯着我的左手，我的右手已经出拳
 韩信拜将后制定东出战略。他派人修栈道做掩护，三秦守将笑他"修栈道要几年"。但汉军从故道奇袭陈仓，章邯措手不及，连败退守废丘。塞王、翟王望风而降，三秦之地两月而定。
 张良写信给项羽"汉王如约即止，不敢东"，同时把齐梁反叛消息送去——项羽信了，先去打齐。赵高指鹿为马，二世被杀，子婴诛赵高，但秦朝已名存实亡……
 💡今日启示：明修栈道暗度陈仓是"信息差博弈"的教科书——在商业竞争中，你展示的意图和真实的意图越不一致，对手越容易误判。关键在于让对手"自以为看懂了"。
 下期预告：彭城之战——项羽三万精兵击溃刘邦五十六万联军，刘邦推子下车，命悬一线。</description>
-      <ns1:encoded># 通鉴日谈037 - 明修栈道暗度陈仓：还定三秦
-
+      <ns0:summary># 通鉴日谈037 - 明修栈道暗度陈仓：还定三秦
 🛤️ 你盯着我的左手，我的右手已经出拳
-
 韩信拜将后制定东出战略。他派人修栈道做掩护，三秦守将笑他"修栈道要几年"。但汉军从故道奇袭陈仓，章邯措手不及，连败退守废丘。塞王、翟王望风而降，三秦之地两月而定。
-
 张良写信给项羽"汉王如约即止，不敢东"，同时把齐梁反叛消息送去——项羽信了，先去打齐。赵高指鹿为马，二世被杀，子婴诛赵高，但秦朝已名存实亡……
-
 💡今日启示：明修栈道暗度陈仓是"信息差博弈"的教科书——在商业竞争中，你展示的意图和真实的意图越不一致，对手越容易误判。关键在于让对手"自以为看懂了"。
-
----
-
-下期预告：彭城之战——项羽三万精兵击溃刘邦五十六万联军，刘邦推子下车，命悬一线。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈037-明修栈道暗度陈仓-还定三秦.mp3" length="5325679" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈037-明修栈道暗度陈仓-还定三秦.mp3</guid>
-      <pubDate>Sat, 06 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：彭城之战——项羽三万精兵击溃刘邦五十六万联军，刘邦推子下车，命悬一线。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈037-明修栈道暗度陈仓-还定三秦.mp3" length="5325679" type="audio/mpeg"/>
+      <ns0:duration>05:32</ns0:duration>
+      <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>37</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈038 - 彭城之战：刘邦的至暗时刻</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈038-彭城之战-刘邦的至暗时刻.mp3</link>
-      <description>🌪️ 五十六万人灰飞烟灭，一场沙尘暴救了他的命
+    <item>
+      <title>通鉴日谈通鉴日谈038：彭城之战-刘邦的至暗时刻</title>
+      <description># 通鉴日谈038 - 彭城之战：刘邦的至暗时刻
+🌪️ 五十六万人灰飞烟灭，一场沙尘暴救了他的命
 刘邦趁项羽平齐之际，率五十六万联军攻占彭城，日置酒高会。项羽仅率三万精骑长途奔袭，半日击溃联军——十余万人溺死睢水，"水为之不流"。刘邦被围三匝，一场沙尘暴突然袭来，他才与数十骑逃脱。
 逃亡途中他推亲生儿女下车，夏侯婴三次抱回。太公吕后被俘，诸侯尽叛。张良指出破楚关键：英布可拉拢、彭越可利用、韩信可独当一面。萧何征发关中老弱，汉军在荥阳重整旗鼓……
 💡今日启示：彭城之战是"规模不等于实力"的残酷例证——五十六万乌合之众打不过三万精锐。在团队管理中，人多但没有统一指挥和纪律，反而是负担。
 下期预告：楚汉荥阳对峙——最漫长的消耗战，韩信北伐，霸王末路的序幕缓缓拉开。</description>
-      <ns1:encoded># 通鉴日谈038 - 彭城之战：刘邦的至暗时刻
-
+      <ns0:summary># 通鉴日谈038 - 彭城之战：刘邦的至暗时刻
 🌪️ 五十六万人灰飞烟灭，一场沙尘暴救了他的命
-
 刘邦趁项羽平齐之际，率五十六万联军攻占彭城，日置酒高会。项羽仅率三万精骑长途奔袭，半日击溃联军——十余万人溺死睢水，"水为之不流"。刘邦被围三匝，一场沙尘暴突然袭来，他才与数十骑逃脱。
-
 逃亡途中他推亲生儿女下车，夏侯婴三次抱回。太公吕后被俘，诸侯尽叛。张良指出破楚关键：英布可拉拢、彭越可利用、韩信可独当一面。萧何征发关中老弱，汉军在荥阳重整旗鼓……
-
 💡今日启示：彭城之战是"规模不等于实力"的残酷例证——五十六万乌合之众打不过三万精锐。在团队管理中，人多但没有统一指挥和纪律，反而是负担。
-
----
-
-下期预告：楚汉荥阳对峙——最漫长的消耗战，韩信北伐，霸王末路的序幕缓缓拉开。</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈038-彭城之战-刘邦的至暗时刻.mp3" length="5041885" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈038-彭城之战-刘邦的至暗时刻.mp3</guid>
-      <pubDate>Sun, 07 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+下期预告：楚汉荥阳对峙——最漫长的消耗战，韩信北伐，霸王末路的序幕缓缓拉开。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈038-彭城之战-刘邦的至暗时刻.mp3" length="5041885" type="audio/mpeg"/>
+      <ns0:duration>05:15</ns0:duration>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>38</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈039 - 荥阳对峙：刘邦最漫长的煎熬</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈039-荥阳对峙-刘邦最漫长的煎熬.mp3</link>
-      <description>⚔️ 守住这条线，还是亡国
+    <item>
+      <title>通鉴日谈通鉴日谈039：荥阳对峙-刘邦最漫长的煎熬</title>
+      <description># 通鉴日谈039 - 荥阳对峙：刘邦最漫长的煎熬
+⚔️ 守住这条线，还是亡国
 彭城大败后刘邦退到荥阳，卡在关中和中原之间。兵不够，萧何从关中征发老弱残兵送到前线；粮不够，萧何持续不断运粮草到前线。没有萧何这条生命线，刘邦根本撑不过荥阳。后来论功行赏萧何排第一，刘邦说你们是猎犬，萧何是猎人，方向是猎人定的。
 💰 四万斤黄金的反间计
 陈平用黄金收买楚军散布谣言，说钟离昧等人跟刘邦暗通款曲。项羽果然开始怀疑，重要的事不再找他们商量。反间计第一步成功——项羽不是被陈平骗了，而是被陈平说出了他心中不敢说的话。
 💡今日启示：持久战不是比谁赢得多，而是比谁输得起。萧何的后方保障比前线的胜仗更重要——没有稳固的后方，前线打再多胜仗也没有意义。
 下期预告：陈平反间的终极目标——范增。一代谋臣如何被离间计气死？</description>
-      <ns1:encoded># 通鉴日谈039 - 荥阳对峙：刘邦最漫长的煎熬
-
-## 荥阳：楚汉之争的生命线
-
-📍**地点**：荥阳（今河南郑州荥阳）
-
-荥阳不只是一座城，它是刘邦的命门——守得住，关中就稳；守不住，项羽的铁骑会直接踏进刘邦的腹地。
-
-## 彭城大败后的绝境
-
-👉刘邦从彭城逃出来时，身边只剩残兵败将。项羽的骑兵日夜追击，粮道被切断，城里粮食见底。
-
-👉萧何从关中源源不断送来老弱残兵和粮草——这是刘邦最关键的生命线。
-
-## 陈平的四万斤黄金
-
-💰陈平开口要四万斤黄金搞反间计，刘邦二话不说直接给。
-
-💰钱花在刀刃上——离间项羽和他的核心将领。
-
-## 离间范增的妙计
-
-🎭陈平设了一个局，专门给范增挖坑。
-
-🎭项羽派使者去汉营，陈平先以"亚父使者"规格接待，一听是"项王使者"，立刻撤走好酒好菜，换上粗茶淡饭。
-
-🎭这一招直接让项羽对范增起了疑心——范增竟然背着我跟刘邦勾结？
-
-## 范增之死
-
-😤范增察觉到项羽的态度变了，主动提出告老还乡。项羽竟然答应了！
-
-😤范增在回彭城的路上，背上毒疮发作，活活气死。
-
-😤一代谋臣，被几桌酒席就给废了。
-
-## 纪信代死
-
-🔥荥阳城破在即，纪信站了出来——让我穿汉王的衣服从东门假降，大王从西门突围。
-
-🔥纪信带着两千女子从东门出来，楚军以为刘邦投降了，全都涌去看热闹。
-
-🔥真正的刘邦从西门逃出生天。纪信被项羽活活烧死。
-
-## 刘邦的生存能力
-
-🧠刘邦逃到成皋，又被项羽追上。他凌晨潜入韩信营中，自称使者，拿了印信兵符，直接把军队调走了。
-
-🧠韩信醒来发现自己成了光杆司令——刘邦这招又狠又快。
-
-## 刘邦父亲的命运
-
-😱项羽俘虏了刘邦的父亲太公和妻子吕后，威胁要煮了他爹。
-
-😱刘邦的回答绝了："我们约为兄弟，我爹就是你爹，你要煮，别忘了分我一碗肉汤。"
-
-## 💡今日启示
-
-**职场启示**：荥阳对峙的本质是持久战。刘邦输了无数场仗，但永远能重整旗鼓；项羽赢了很多场，但始终无法一锤定音。在职场中，比的是谁更耐操、谁的后台更稳。萧何这样的后勤保障型人才，往往比前线将领更不可或缺。
-
-**商务谈判**：陈平的反间计告诉我们，最厉害的不是你能骗对方，而是你能让对方自己骗自己。项羽心里本来就有疑虑，陈平只是把这个疑虑说出来，让他自己去脑补。
-
-**风险投资**：刘邦就像那个永远有备选方案的创业者。这条路不通就走那条，荥阳丢了就守成皋，永远给自己留后手。
-
-## 🎙️下期预告
-
-韩信北伐第一战——**木罂渡河**。
-
-📖通鉴日谈040：韩信破魏——木罂渡河
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈039-荥阳对峙-刘邦最漫长的煎熬.mp3" length="7381621" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈039-荥阳对峙-刘邦最漫长的煎熬.mp3</guid>
-      <pubDate>Mon, 08 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>7:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈039 - 荥阳对峙：刘邦最漫长的煎熬
+⚔️ 守住这条线，还是亡国
+彭城大败后刘邦退到荥阳，卡在关中和中原之间。兵不够，萧何从关中征发老弱残兵送到前线；粮不够，萧何持续不断运粮草到前线。没有萧何这条生命线，刘邦根本撑不过荥阳。后来论功行赏萧何排第一，刘邦说你们是猎犬，萧何是猎人，方向是猎人定的。
+💰 四万斤黄金的反间计
+陈平用黄金收买楚军散布谣言，说钟离昧等人跟刘邦暗通款曲。项羽果然开始怀疑，重要的事不再找他们商量。反间计第一步成功——项羽不是被陈平骗了，而是被陈平说出了他心中不敢说的话。
+💡今日启示：持久战不是比谁赢得多，而是比谁输得起。萧何的后方保障比前线的胜仗更重要——没有稳固的后方，前线打再多胜仗也没有意义。
+下期预告：陈平反间的终极目标——范增。一代谋臣如何被离间计气死？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈039-荥阳对峙-刘邦最漫长的煎熬.mp3" length="7381621" type="audio/mpeg"/>
+      <ns0:duration>07:41</ns0:duration>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>39</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈040 - 陈平反间：范增之死</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈040-陈平反间-范增之死.mp3</link>
-      <description>🎭 一顿饭的离间计
+    <item>
+      <title>通鉴日谈通鉴日谈040：陈平反间-范增之死</title>
+      <description># 通鉴日谈040 - 陈平反间：范增之死
+🎭 一顿饭的离间计
 项羽派使者到汉营，陈平先摆山珍海味，问"亚父派你来的？"使者说是项王派来的，陈平立刻变脸撤走酒菜换上粗茶淡饭。消息传回，项羽开始怀疑范增私通刘邦。
 💀 范增之死
 范增怒而请辞，项羽居然答应了。范增在回彭城路上背上毒疮发作而死，临终说"项王不信任我，我活着还有什么意思"。七十多岁出山辅佐项梁，鸿门宴上举玉玦劝杀刘邦，最后死于自己人的猜疑。
 💡今日启示：高明的离间计不是骗人，而是说出对方心中想说却不敢说的话。项羽不是被陈平骗了，是被自己的多疑打败。跟对领导也很重要——范增跟了项羽，再有才华也白搭。
 下期预告：荥阳突围中最悲壮的一幕——纪信假扮刘邦出城投降，被项羽活活烧死。</description>
-      <ns1:encoded># 通鉴日谈040 - 陈平反间：范增之死
-
-## 一个谋臣的最后结局
-
-范增，项羽手下唯一的顶级谋士，鸿门宴上差点杀掉刘邦的人，被几桌酒席就给废了。
-
-他走的时候，项羽甚至没有挽留。
-
-## 范增之死的历史意义
-
-💀范增的死是楚汉战争的转折点——项羽失去了最重要的智囊。
-
-💀从此项羽在战略层面再无人能与张良、陈平抗衡。
-
-## 范增为什么会死？
-
-❌**太直**：鸿门宴上骂项羽"竖子不足与谋"，当面羞辱领导。
-
-❌**不懂项羽心理**：项羽是个极度自尊的人，需要顺毛捋，不是当头棒喝。
-
-❌**没有势力网**：范增一个人干，没有培养亲信，一旦失宠就什么都没有。
-
-## 陈平的高明之处
-
-🎯陈平的反间计不是骗项羽，而是**说出了项羽心中想说却不敢说的话**。
-
-🎯项羽本来就怀疑钟离昧、龙且功劳太大却没得到应有的封赏。陈平只是让人散布谣言，把这层窗户纸捅破。
-
-## 离间范增的精心设计
-
-🎭使者来汉营，陈平先以"亚父使者"规格接待。
-
-🎭使者说是项王派来的，陈平立刻换脸，撤走好酒好菜。
-
-🎭使者回去一汇报，项羽自己脑补——范增是不是背着我跟刘邦勾结？
-
-## 💡今日启示
-
-**职场启示**：范增的失败是职场中"忠臣"失败的典型——你有能力、有忠心，但说话方式不对，照样被踢出局。职场中"做对事"和"说对话"同样重要。
-
-**管理心理学**：项羽的多疑不是天生，而是后天形成的领导病。权力越大，越容易怀疑别人。这是所有一把手的通病。聪明的下属懂得如何"管理"领导的预期，而不是一味直言进谏。
-
-**谈判技巧**：陈平用的不是欺骗术，而是"借势术"。他借的是项羽自己的疑虑，然后放大这个疑虑。高明的谈判者不是把自己的想法塞进对方脑袋，而是引导对方自己得出你想要的结论。
-
-## 🎙️下期预告
-
-荥阳突围中最悲壮的一幕——**纪信代死**。
-
-📖通鉴日谈041：纪信代死——荥阳突围
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈040-陈平反间-范增之死.mp3" length="6262744" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈040-陈平反间-范增之死.mp3</guid>
-      <pubDate>Tue, 09 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈040 - 陈平反间：范增之死
+🎭 一顿饭的离间计
+项羽派使者到汉营，陈平先摆山珍海味，问"亚父派你来的？"使者说是项王派来的，陈平立刻变脸撤走酒菜换上粗茶淡饭。消息传回，项羽开始怀疑范增私通刘邦。
+💀 范增之死
+范增怒而请辞，项羽居然答应了。范增在回彭城路上背上毒疮发作而死，临终说"项王不信任我，我活着还有什么意思"。七十多岁出山辅佐项梁，鸿门宴上举玉玦劝杀刘邦，最后死于自己人的猜疑。
+💡今日启示：高明的离间计不是骗人，而是说出对方心中想说却不敢说的话。项羽不是被陈平骗了，是被自己的多疑打败。跟对领导也很重要——范增跟了项羽，再有才华也白搭。
+下期预告：荥阳突围中最悲壮的一幕——纪信假扮刘邦出城投降，被项羽活活烧死。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈040-陈平反间-范增之死.mp3" length="6262744" type="audio/mpeg"/>
+      <ns0:duration>06:31</ns0:duration>
+      <pubDate>Tue, 09 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>40</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈041 - 纪信代死：荥阳突围</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈041-纪信代死-荥阳突围.mp3</link>
-      <description>🔥 假扮汉王出城投降
+    <item>
+      <title>通鉴日谈通鉴日谈041：纪信代死-荥阳突围</title>
+      <description># 通鉴日谈041 - 纪信代死：荥阳突围
+🔥 假扮汉王出城投降
 荥阳城破在即，陈平出主意——让纪信穿刘邦衣服坐刘邦车驾，从东门假降吸引楚军。纪信站出来说"事已至此，让我去吧"，史书没有记载他犹豫过。楚军涌向东门看热闹，刘邦趁机从西门溜走。
 💀 被活活烧死
 项羽发现被骗，怒问纪信"刘邦在哪？"纪信笑着说"汉王已经走了"。项羽下令把纪信活活烧死。刘邦后来在纪信的家乡立祠祭祀，但一条命换一条命，这笔账怎么算？
 💡今日启示：真正的忠义不是嘴上说说，是用行动定义的。纪信没有任何犹豫，因为他觉得值得。但职场中也要记住——付出忠诚之前，先确认对方值得你这样付出。
 下期预告：韩信北伐第一战——木罂渡河灭魏国，用瓦罐渡过黄河的奇策。</description>
-      <ns1:encoded># 通鉴日谈041 - 纪信代死：荥阳突围
-
-## 荥阳最后的夜晚
-
-荥阳城破在即，粮食吃完了，援军没有，刘邦几乎陷入绝境。
-
-这时，一个将军站了出来。
-
-## 纪信的决定
-
-🔥"让我穿上大王的衣服，从东门假降。"
-
-🔥纪信穿上汉王的车驾，带着两千手持兵器的女子，从东门缓缓驶出。
-
-🔥楚军看见"刘邦投降"，全都涌来看热闹，围城阵型彻底松散。
-
-🔥真正的刘邦带着几十个亲信从西门逃出生天。
-
-## 纪信的结局
-
-💀项羽发现上当后，把纪信活活烧死。
-
-💀史书上没有记载纪信犹豫过——这就是真正的忠义。
-
-💀刘邦后来专门建庙追封他，成都纪信祠至今香火不断。
-
-## 还有两个硬骨头
-
-⚔️周苛、枞公继续守城。周苛认为魏豹不可靠，直接把他杀了。
-
-⚔️城破后，项羽劝降周苛，周苛破口大骂，被项羽活活烹死。
-
-## 刘邦的生存法则
-
-🧠刘邦逃出荥阳后，又跑到成皋，又被追上。
-
-🧠他凌晨潜入韩信营中，自称使者，直接把韩信的军队调走了。
-
-🧠韩信醒来发现自己成了光杆司令。
-
-🧠这就是刘邦的生存能力——永远能从绝境中找到出路。
-
-## 💡今日启示
-
-**领导力启示**：纪信的选择告诉我们什么叫"为组织牺牲"。这不是愚蠢的忠诚，而是对整体战略的深刻理解。有时候，个人的牺牲是整个团队活下来的唯一办法。
-
-**危机管理**：刘邦的脱身术堪称危机管理的教科书——永远有备选方案，永远不把鸡蛋放在一个篮子里。就算主力被围，他也能想出办法脱身。
-
-**职场选择**：周苛和魏豹的故事告诉我们——在团队危难时刻，不是所有人都会跟你共患难。总有人会在关键时刻动摇，甚至叛变。识别这种人比什么都重要。
-
-## 🎙️下期预告
-
-韩信北伐第一战——**木罂渡河**。
-
-📖通鉴日谈042：韩信破魏——木罂渡河
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈041-纪信代死-荥阳突围.mp3" length="6088873" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈041-纪信代死-荥阳突围.mp3</guid>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈041 - 纪信代死：荥阳突围
+🔥 假扮汉王出城投降
+荥阳城破在即，陈平出主意——让纪信穿刘邦衣服坐刘邦车驾，从东门假降吸引楚军。纪信站出来说"事已至此，让我去吧"，史书没有记载他犹豫过。楚军涌向东门看热闹，刘邦趁机从西门溜走。
+💀 被活活烧死
+项羽发现被骗，怒问纪信"刘邦在哪？"纪信笑着说"汉王已经走了"。项羽下令把纪信活活烧死。刘邦后来在纪信的家乡立祠祭祀，但一条命换一条命，这笔账怎么算？
+💡今日启示：真正的忠义不是嘴上说说，是用行动定义的。纪信没有任何犹豫，因为他觉得值得。但职场中也要记住——付出忠诚之前，先确认对方值得你这样付出。
+下期预告：韩信北伐第一战——木罂渡河灭魏国，用瓦罐渡过黄河的奇策。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈041-纪信代死-荥阳突围.mp3" length="6088873" type="audio/mpeg"/>
+      <ns0:duration>06:20</ns0:duration>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>41</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈042 - 韩信破魏：木罂渡河</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈042-韩信破魏-木罂渡河.mp3</link>
-      <description>🏺 用瓦罐渡黄河
+    <item>
+      <title>通鉴日谈通鉴日谈042：韩信破魏-木罂渡河</title>
+      <description># 通鉴日谈042 - 韩信破魏：木罂渡河
+🏺 用瓦罐渡黄河
 魏豹守住黄河渡口蒲坂严阵以待，韩信让人搜集大量"木罂"——用木头做的容器装满士兵横渡黄河。先在蒲坂对岸大张旗鼓佯装渡河，等魏军注意力全被吸引，连夜从上游夏阳用木罂偷渡，包抄魏军后路活捉魏豹。
 🎯 出其不意的核心
 魏豹判断没错——韩信确实在黄河边；他的错误是判断错了渡河地点。从博弈论看，集中兵力守主渡口是理性选择，但面对不按常理出牌的对手，理性本身就是弱点。
 💡今日启示：对手的理性判断就是你的突破口。魏豹做了"正确"的决策却输了，因为韩信根本不按套路出牌。商业竞争中，最大的风险往往来自你看不到的方向。
 下期预告：军事史上的奇迹——韩信三万新兵背水一战，击败赵军二十万。</description>
-      <ns1:encoded># 通鉴日谈042 - 韩信破魏：木罂渡河
-
-## 韩信的第一次独立作战
-
-魏豹叛汉投楚，刘邦让韩信去收拾他。
-
-这是韩信第一次独立领兵——他需要一个机会证明自己。
-
-## 魏豹的判断
-
-🛡️魏豹把黄河渡口蒲坂牢牢守住，严阵以待。
-
-🛡️他的判断没错——韩信确实在黄河边。
-
-🛡️但他判断错了渡河地点。
-
-## 木罂是什么？
-
-🚣木罂是用木头做的容器，里面装满士兵，可以横渡黄河。
-
-🚣稳定性极差，一个浪打过来就可能翻。
-
-🚣韩信偏偏用这个东西渡河。
-
-## 韩信的战术
-
-🎯第一步：在蒲坂对岸大张旗鼓，吸引魏军主力。
-
-🎯第二步：趁魏军注意力被吸引，连夜从夏阳用木罂渡河。
-
-🎯第三步：渡河后包抄魏军后路，魏豹措手不及被活捉。
-
-## 一战成名
-
-🏆魏军十几万人马全部覆灭。
-
-🏆魏豹被押送到荥阳。
-
-🏆韩信第一次独立领兵，一战成名。
-
-## 💡今日启示
-
-**博弈论启示**：魏豹面临的是经典的"两难困境"——分兵把守每个渡口，每个点都守不住；集中兵力守主要渡口，就给敌人留下可乘之机。韩信赢的不是正面硬拼，而是利用信息不对称。
-
-**商业竞争**：韩信故意在蒲坂大张旗鼓，让对手以为他要正面进攻。商业竞争中也是如此——放出假消息让对手布局，等对手反应过来，你已经在另一个赛道上了。
-
-**创新思维**：木罂这种东西稳定性差，但韩信偏偏用。关键不是工具本身好不好用，而是用在什么场景、怎么用。有时候最土的办法反而最有效。
-
-## 🎙️下期预告
-
-军事史上的奇迹——**背水一战**。
-
-📖通鉴日谈043：韩信破赵——背水一战
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈042-韩信破魏-木罂渡河.mp3" length="6137356" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈042-韩信破魏-木罂渡河.mp3</guid>
-      <pubDate>Thu, 11 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈042 - 韩信破魏：木罂渡河
+🏺 用瓦罐渡黄河
+魏豹守住黄河渡口蒲坂严阵以待，韩信让人搜集大量"木罂"——用木头做的容器装满士兵横渡黄河。先在蒲坂对岸大张旗鼓佯装渡河，等魏军注意力全被吸引，连夜从上游夏阳用木罂偷渡，包抄魏军后路活捉魏豹。
+🎯 出其不意的核心
+魏豹判断没错——韩信确实在黄河边；他的错误是判断错了渡河地点。从博弈论看，集中兵力守主渡口是理性选择，但面对不按常理出牌的对手，理性本身就是弱点。
+💡今日启示：对手的理性判断就是你的突破口。魏豹做了"正确"的决策却输了，因为韩信根本不按套路出牌。商业竞争中，最大的风险往往来自你看不到的方向。
+下期预告：军事史上的奇迹——韩信三万新兵背水一战，击败赵军二十万。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈042-韩信破魏-木罂渡河.mp3" length="6137356" type="audio/mpeg"/>
+      <ns0:duration>06:23</ns0:duration>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>42</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈043 - 韩信破赵：背水一战</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈043-韩信破赵-背水一战.mp3</link>
-      <description>⚔️ 三万新兵对二十万精锐
+    <item>
+      <title>通鉴日谈通鉴日谈043：韩信破赵-背水一战</title>
+      <description># 通鉴日谈043 - 韩信破赵：背水一战
+⚔️ 三万新兵对二十万精锐
 韩信只有三万刚招募的农民，赵军二十万全是精锐老兵。李左车给陈余出绝妙计策：截断韩信粮道，前后夹击必擒韩信。陈余不听——"义兵不用诈谋奇计"。韩信听说后大喜过望。
 🌊 背水布阵的疯狂
 韩信用兵家大忌——背靠河水布阵。没有退路，打不过就是全军覆没。但韩信说："陷之死地而后生，置之亡地而后存。"这些新兵没纪律没斗志，只有放在死地才会拼命。同时派两千骑兵带汉旗潜入赵营后方，赵军出击后营中插满汉旗，赵军回头一看以为大本营丢了，瞬间崩溃。
 💡今日启示：背水一战的本质不是勇敢，而是管理——把劣势转化为动力。绝境能激发潜能，安逸只会消磨斗志。陈余输在太讲规矩，战争从来不讲究堂堂正正。
 下期预告：外交战——随何策反英布九江叛楚，为刘邦拉来一个强大盟友。</description>
-      <ns1:encoded># 通鉴日谈043 - 韩信破赵：背水一战
-
-## 三万新兵 vs 二十万精锐
-
-韩信带三万没打过仗的新兵，对阵赵国二十万精锐老兵。
-
-所有人都觉得韩信疯了。
-
-## 陈余的致命错误
-
-❌李左车献计：给我三万人马截断韩信粮道，你深沟高垒不跟他战，前后夹击必擒韩信。
-
-❌陈余不听。他说："义兵不用诈谋奇计。"
-
-❌陈余是个读书人，讲究堂堂正正作战。
-
-## 韩信的绝招
-
-💧背水布阵——把军队放在河边，没有退路。
-
-💧"陷之死地而后生，置之亡地而后存。"
-
-💧士兵没有退路，只能死战。
-
-## 真正的杀招
-
-🔪韩信还有两千轻骑，绕到赵军营地后面。
-
-🔪等赵军倾巢而出进攻时，两千骑兵冲进空营，把所有旗帜换成汉军红旗。
-
-🔪赵军回头一看，大营里全是汉军旗帜，以为营地被占领了。
-
-## 结局
-
-💀赵军全军崩溃，踩踏而死的不计其数。
-
-💀陈余被斩杀，赵王歇被活捉。
-
-💀韩信以三万新兵击败二十万精锐，创造了军事史上的奇迹。
-
-## 💡今日启示
-
-**管理学启示**：韩信用的就是"鲶鱼效应"——把员工逼到绝境，他们才会爆发惊人的潜能。但这个方法不能滥用，用多了会适得其反。
-
-**战术思维**：背水布阵只是前戏，两千骑兵换旗才是真正的杀招。成功需要多步布局，而不是一招致胜。
-
-**心态决定成败**：陈余的失败不是实力不够，而是心态太正。战争中"堂堂正正"是最愚蠢的想法，胜利才是唯一的标准。
-
-## 🎙️下期预告
-
-外交战场的大戏——**随何说英布**。
-
-📖通鉴日谈044：随何说英布——九江叛楚
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈043-韩信破赵-背水一战.mp3" length="5768716" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈043-韩信破赵-背水一战.mp3</guid>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>6:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈043 - 韩信破赵：背水一战
+⚔️ 三万新兵对二十万精锐
+韩信只有三万刚招募的农民，赵军二十万全是精锐老兵。李左车给陈余出绝妙计策：截断韩信粮道，前后夹击必擒韩信。陈余不听——"义兵不用诈谋奇计"。韩信听说后大喜过望。
+🌊 背水布阵的疯狂
+韩信用兵家大忌——背靠河水布阵。没有退路，打不过就是全军覆没。但韩信说："陷之死地而后生，置之亡地而后存。"这些新兵没纪律没斗志，只有放在死地才会拼命。同时派两千骑兵带汉旗潜入赵营后方，赵军出击后营中插满汉旗，赵军回头一看以为大本营丢了，瞬间崩溃。
+💡今日启示：背水一战的本质不是勇敢，而是管理——把劣势转化为动力。绝境能激发潜能，安逸只会消磨斗志。陈余输在太讲规矩，战争从来不讲究堂堂正正。
+下期预告：外交战——随何策反英布九江叛楚，为刘邦拉来一个强大盟友。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈043-韩信破赵-背水一战.mp3" length="5768716" type="audio/mpeg"/>
+      <ns0:duration>06:00</ns0:duration>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>43</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈044 - 随何说英布：九江叛楚</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈044-随何说英布-九江叛楚.mp3</link>
-      <description>🗣️ 一个人策反一个王
+    <item>
+      <title>通鉴日谈通鉴日谈044：随何说英布-九江叛楚</title>
+      <description># 通鉴日谈044 - 随何说英布：九江叛楚
+🗣️ 一个人策反一个王
 英布是九江王，原本是项羽的人，但拥兵自重不肯出力。刘邦派随何带二十人去策反，随何用自杀威胁逼英布见面，然后直戳痛处——项羽翻脸不认人，你功成名就哪天被废？英布还没答应，随何直接把楚军使者叫来当面宣布英布叛楚，逼他上船。
 🎯 高明说服术的四个要素
 第一，找到对方最核心的顾虑；第二，用事实说话不用空话；第三，给出清晰的行动指南；第四，用极大的诚意表态。不是把观点强加给别人，而是帮对方做出最有利的决定。
 💡今日启示：英布的犹豫是很多人的常态——知道该变但不敢变。随何的高明在于不只是说服，而是帮英布把退路切断，让"想叛"变成"不得不叛"。职场中，推人一把比劝人千句更有效。
 下期预告：楚汉战争最冤的故事——郦食其说降齐国七十城，却被韩信抢功害死。</description>
-      <ns1:encoded># 通鉴日谈044 - 随何说英布：九江叛楚
-
-## 英布是谁？
-
-九江王英布，项羽的心腹爱将，巨鹿之战立过大功。
-
-但他拥兵自重，项羽让他出兵，他就找借口推脱。
-
-## 刘邦的困境
-
-😰荥阳被围，刘邦急需外援。
-
-😰英布手握重兵，是个关键变量。
-
-😰刘邦派随何去策反英布。
-
-## 随何的谈判术
-
-🎤第一步：制造危机感。"项王伐齐时你只派四千人，汉王攻彭城你又不出兵——你到底站哪边？"
-
-🎤第二步：挑拨离间。"田荣、彭越、陈余——跟着项王的人哪个有好下场？"
-
-🎤第三步：给出出路。"汉王虽然现在被困，但他的实力你还看不清吗？"
-
-## 刘邦的用人之道
-
-😎刘邦接见英布时很傲慢，蹲在床边洗脚。
-
-😎英布当场想自杀——这态度也太差了！
-
-😎但等他到了自己的住处，发现待遇极其丰厚，金银财宝、府邸美女一样不少。
-
-😎这是"先抑后扬"——用反差让英布感受到自己被重视。
-
-## 英布的选择
-
-📌英布暗中答应跟汉军联合。
-
-📌项羽知道后派兵攻打，英布被迫逃到刘邦那里。
-
-📌楚汉战争的格局从此改变。
-
-## 💡今日启示
-
-**谈判技巧**：随何的策反术是教科书级别的谈判——先了解对方的需求和痛点，然后建立共同利益，最后给出具体行动方案。好的谈判不是把自己的想法塞给对方，而是引导对方自己得出结论。
-
-**领导艺术**：刘邦"先抑后扬"的用人术值得学习。给员工超出预期的待遇，比一开始就给高待遇更能激发忠诚度。
-
-**职场选择**：英布的悲剧在于他始终在摇摆。在职场中，站队很重要，摇摆不定的人往往两边都不讨好。
-
-## 🎙️下期预告
-
-最冤的说客——**郦食其**。
-
-📖通鉴日谈045：郦生说齐与韩信袭齐
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈044-随何说英布-九江叛楚.mp3" length="5333621" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈044-随何说英布-九江叛楚.mp3</guid>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈044 - 随何说英布：九江叛楚
+🗣️ 一个人策反一个王
+英布是九江王，原本是项羽的人，但拥兵自重不肯出力。刘邦派随何带二十人去策反，随何用自杀威胁逼英布见面，然后直戳痛处——项羽翻脸不认人，你功成名就哪天被废？英布还没答应，随何直接把楚军使者叫来当面宣布英布叛楚，逼他上船。
+🎯 高明说服术的四个要素
+第一，找到对方最核心的顾虑；第二，用事实说话不用空话；第三，给出清晰的行动指南；第四，用极大的诚意表态。不是把观点强加给别人，而是帮对方做出最有利的决定。
+💡今日启示：英布的犹豫是很多人的常态——知道该变但不敢变。随何的高明在于不只是说服，而是帮英布把退路切断，让"想叛"变成"不得不叛"。职场中，推人一把比劝人千句更有效。
+下期预告：楚汉战争最冤的故事——郦食其说降齐国七十城，却被韩信抢功害死。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈044-随何说英布-九江叛楚.mp3" length="5333621" type="audio/mpeg"/>
+      <ns0:duration>05:33</ns0:duration>
+      <pubDate>Sat, 13 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>44</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈045 - 郦生说齐与韩信袭齐</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈045-郦生说齐与韩信袭齐.mp3</link>
-      <description>🗣️ 一张嘴拿下七十城
+    <item>
+      <title>通鉴日谈通鉴日谈045：郦生说齐与韩信袭齐</title>
+      <description># 通鉴日谈045 - 郦生说齐与韩信袭齐
+🗣️ 一张嘴拿下七十城
 六十多岁的郦食其一个人去说齐王田广，分析天下大势后田广撤掉历下军备归附汉朝。七十多座城池兵不血刃归汉，这是多大的功劳？
 ⚔️ 韩信继续进攻，郦食其被煮
 韩信听说后很不爽——我费多大劲才打几座城，你一张嘴拿七十城？手下劝他"将军不眼红吗"，韩信被说动继续进攻齐国。田广以为被郦食其骗了，把他扔进油锅煮死。刘邦没下命令让韩信停军，这是疏忽还是故意？后世争论不休。
 💡今日启示：功劳簿上的名字不代表最终收益。郦食其立了大功却死于非命，因为他没意识到自己身处别人的利益博弈中。在复杂的利益关系里，做好分内事还不够，还要保护好自己。
 下期预告：潍水之战——韩信用沙袋决堤，消灭项羽最得力的大将龙且。</description>
-      <ns1:encoded># 通鉴日谈045 - 郦生说齐与韩信袭齐
-
-## 郦食其的本事
-
-郦食其，六七十岁的老儒生，靠三寸不烂之舌拿下齐国七十多座城。
-
-一个人，一张嘴，不费一兵一卒。
-
-## 郦食其的谈判
-
-🗣️"大王知道天下将归谁吗？"
-
-🗣️"汉王和项王加起来，大王能打过谁？不如两边都不帮，坐收渔利。"
-
-🗣️齐王田广被说动了，撤掉历下军备防备。
-
-## 韩信的嫉妒
-
-😠韩信听说郦食其用一张嘴拿下七十城，心里很不爽。
-
-😠"郦食其一介儒生，凭什么立这么大功？"
-
-😠韩信决定继续进攻齐国——他手下也煽风点火。
-
-## 悲剧的发生
-
-💀韩信渡过黄河，齐军毫无防备，被杀得大败。
-
-💀田广怒了——不是说好不打了？你刘邦背后捅刀子？
-
-💀齐国把郦食其扔进大锅煮了。
-
-💀郦食其死前说了一句话——"事无具不成"。
-
-## 刘邦的反应
-
-🤷‍♂️刘邦没有追究韩信——因为韩信拿下了齐国全境。
-
-🤷‍♂️功劳太大，盖过了道德问题。
-
-🤷‍♂️郦食其成了楚汉战争中最冤的牺牲品。
-
-## 💡今日启示
-
-**职场伦理**：韩信的行为是典型的"抢功"。郦食其谈下的客户，韩信直接去签单。现代职场中这种事并不少见——问题是老板会怎么处理？刘邦的选择告诉我们：业绩说话，道德让步。
-
-**个人保护**：郦食其的悲剧提醒我们——在职场中，光有能力不够，还要有保护成果的能力。如果你谈下的项目，最好自己跟进到底，不要给别人抢功的机会。
-
-**组织协调**：这个悲剧本可以避免。刘邦派郦食其去的同时，应该通知韩信停止进攻。这是领导的协调失误——也可能是故意为之。
-
-## 🎙️下期预告
-
-水攻战术的巅峰——**潍水之战**。
-
-📖通鉴日谈046：潍水之战——韩信灭龙且
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈045-郦生说齐与韩信袭齐.mp3" length="5272181" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈045-郦生说齐与韩信袭齐.mp3</guid>
-      <pubDate>Sun, 14 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈045 - 郦生说齐与韩信袭齐
+🗣️ 一张嘴拿下七十城
+六十多岁的郦食其一个人去说齐王田广，分析天下大势后田广撤掉历下军备归附汉朝。七十多座城池兵不血刃归汉，这是多大的功劳？
+⚔️ 韩信继续进攻，郦食其被煮
+韩信听说后很不爽——我费多大劲才打几座城，你一张嘴拿七十城？手下劝他"将军不眼红吗"，韩信被说动继续进攻齐国。田广以为被郦食其骗了，把他扔进油锅煮死。刘邦没下命令让韩信停军，这是疏忽还是故意？后世争论不休。
+💡今日启示：功劳簿上的名字不代表最终收益。郦食其立了大功却死于非命，因为他没意识到自己身处别人的利益博弈中。在复杂的利益关系里，做好分内事还不够，还要保护好自己。
+下期预告：潍水之战——韩信用沙袋决堤，消灭项羽最得力的大将龙且。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈045-郦生说齐与韩信袭齐.mp3" length="5272181" type="audio/mpeg"/>
+      <ns0:duration>05:29</ns0:duration>
+      <pubDate>Sun, 14 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>45</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈046 - 潍水之战：韩信灭龙且</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈046-潍水之战-韩信灭龙且.mp3</link>
-      <description>🌊 一万多个沙袋决堤
+    <item>
+      <title>通鉴日谈通鉴日谈046：潍水之战-韩信灭龙且</title>
+      <description># 通鉴日谈046 - 潍水之战：韩信灭龙且
+🌊 一万多个沙袋决堤
 龙且带二十万大军救齐，副将劝他深沟高垒等汉军粮尽。龙且不屑——"韩信以前在我手下站岗，有什么好怕？"韩信连夜做一万多个沙袋堵住潍水上游，半夜带主力涉水过河假装败退，等龙且全军进入河道下令放水，二十万大军被洪水冲散，龙且被斩杀。
 🎯 时间差的精妙
 韩信用的是时间差——堵住水让龙且以为正面渡河，假装败退引龙且追击入河道，然后放水。每一步都算好了对手的反应，龙且从头到尾都在韩信的棋盘上。
 💡今日启示：龙且输在轻敌——他对韩信的印象还停留在"站岗小兵"时期。此一时彼一时，用旧眼光看对手是最致命的误判。真正的高手不正面硬拼，而是创造性地解决问题。
 下期预告：蒯通劝韩信三分天下——手握重兵的韩信，为何拒绝了称王的机会？</description>
-      <ns1:encoded># 通鉴日谈046 - 潍水之战：韩信灭龙且
-
-## 龙且是谁？
-
-项羽手下最能打的大将，从小一起长大的铁哥们。
-
-巨鹿之战立过大功，是楚军的顶梁柱。
-
-## 项羽的最后王牌
-
-⚔️齐国被韩信灭了，项羽派龙且带二十万大军去救齐。
-
-⚔️这是项羽最大的一次外援行动——他把最后的精锐都派去了。
-
-⚔️龙且轻敌了——"韩信？以前在项王手下当小兵的人，有什么好怕的？"
-
-## 韩信的天才计策
-
-🌊韩信让人连夜做了一万多个沙袋，堵住潍水上游。
-
-🌊沙袋堵住水后，下游水位急剧下降，河床都快露出来了。
-
-🌊半夜，韩信带主力涉水过河。龙且下令迎战。
-
-🌊韩信假装败退，把龙且的军队引进河道。
-
-🌊然后——上游放水！
-
-## 决战时刻
-
-💀洪水汹涌而下，龙且的二十万大军被冲散。
-
-💀龙且本人被韩信追上斩杀。
-
-💀项羽损失了最得力的大将和最精锐的部队。
-
-## 项羽的反应
-
-😱项羽听说龙且死了，大惊失色。
-
-😱这是他第一次真正感受到韩信的威胁。
-
-😱项羽意识到，如果再让韩信打下去，整个北方都会落入刘邦手中。
-
-## 💡今日启示
-
-**领导力警示**：龙且的失败是"经验主义"的典型案例。他用过去的眼光看韩信，殊不知此一时彼一时。领导者最怕的就是用老眼光看新问题。
-
-**危机处理**：项羽分身乏术，无法同时对付荥阳的刘邦和北方的韩信。这就是战略布局失误的后果——被动挨打，两头跑。
-
-**创新思维**：韩信的水攻战术告诉我们，最好的办法往往不是正面硬拼，而是找到意想不到的突破口。一万多个沙袋能打赢二十万大军，靠的是智慧而不是蛮力。
-
-## 🎙️下期预告
-
-楚汉战争中最关键的政治博弈——**蒯通劝韩信**。
-
-📖通鉴日谈047：蒯通劝韩信——三分天下
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈046-潍水之战-韩信灭龙且.mp3" length="5377088" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈046-潍水之战-韩信灭龙且.mp3</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈046 - 潍水之战：韩信灭龙且
+🌊 一万多个沙袋决堤
+龙且带二十万大军救齐，副将劝他深沟高垒等汉军粮尽。龙且不屑——"韩信以前在我手下站岗，有什么好怕？"韩信连夜做一万多个沙袋堵住潍水上游，半夜带主力涉水过河假装败退，等龙且全军进入河道下令放水，二十万大军被洪水冲散，龙且被斩杀。
+🎯 时间差的精妙
+韩信用的是时间差——堵住水让龙且以为正面渡河，假装败退引龙且追击入河道，然后放水。每一步都算好了对手的反应，龙且从头到尾都在韩信的棋盘上。
+💡今日启示：龙且输在轻敌——他对韩信的印象还停留在"站岗小兵"时期。此一时彼一时，用旧眼光看对手是最致命的误判。真正的高手不正面硬拼，而是创造性地解决问题。
+下期预告：蒯通劝韩信三分天下——手握重兵的韩信，为何拒绝了称王的机会？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈046-潍水之战-韩信灭龙且.mp3" length="5377088" type="audio/mpeg"/>
+      <ns0:duration>05:36</ns0:duration>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>46</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈047 - 蒯通劝韩信：三分天下</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈047-蒯通劝韩信-三分天下.mp3</link>
-      <description>⚖️ 天下命运捏在你手里
+    <item>
+      <title>通鉴日谈通鉴日谈047：蒯通劝韩信-三分天下</title>
+      <description># 通鉴日谈047 - 蒯通劝韩信：三分天下
+⚖️ 天下命运捏在你手里
 韩信灭齐后手握几十万人马，成为决定楚汉归属的关键力量。蒯通说"当今两主之命悬于足下"——你帮谁谁赢，不如三分天下割据一方。韩信拒绝："汉王遇我甚厚，我怎么能见利忘义？"
 💀 蒯通的预言
 蒯通警告：张耳陈余曾经生死之交最后刀兵相向，你跟刘邦只是利益关系不是真感情。韩信犹豫良久还是拒绝了，蒯通叹气后装疯逃命。后来的事验证了蒯通的预言——韩信被吕后和萧何骗进宫杀害，临死说"吾悔不用蒯通之计"。
 💡今日启示：韩信的悲剧在于把感恩当成了安全保障。职场中，对领导的忠诚不能替代对自身利益的理性判断。功高震主不是你做得太多，而是你的存在让别人不安。
 下期预告：鸿沟和约——项羽打不动了，刘邦也打不动了，楚河汉界就此划定。</description>
-      <ns1:encoded># 通鉴日谈047 - 蒯通劝韩信：三分天下
-
-## 韩信的巅峰时刻
-
-潍水之战后，韩信手握齐国几十万人马，成为决定天下归属的关键力量。
-
-蒯通来了——他要劝韩信自立门户。
-
-## 蒯通的分析
-
-📊"当今两主之命悬于足下。"
-
-📊刘邦和项羽的命运，都捏在韩信手里。
-
-📊你帮谁，谁就赢；你不帮谁，谁就输。
-
-📊不如三分天下，你占齐国，赵国、燕国也都听你的。
-
-## 蒯通的计划
-
-📋第一步：假装生病。
-
-📋第二步：派使者去见项羽，说你不打了。
-
-📋第三步：派使者去见刘邦，说你中立了。
-
-📋第四步：趁机占据有利地形，割据一方。
-
-## 韩信的回答
-
-💬"汉王遇我甚厚，我怎么能见利忘义呢？"
-
-💬韩信选择了忠诚。
-
-## 蒯通的警告
-
-⚠️"你以为你跟刘邦关系很好？你的兵是刘邦的兵，你的将是刘邦的将。"
-
-⚠️"张耳和陈余，曾经是生死之交，最后还不是刀兵相向？"
-
-⚠️"大夫种、范蠡帮助勾践灭吴，一个被杀一个逃走——这就是前车之鉴。"
-
-## 韩信的选择
-
-❌韩信犹豫了很久，最终还是拒绝了。
-
-❌他觉得自己劳苦功高，刘邦不会对不起他。
-
-❌蒯通装疯当巫师，躲过一劫。
-
-## 💡今日启示
-
-**战略决策**：韩信的选择是楚汉战争中最关键的分水岭。如果他选择三分天下，历史会如何？也许会形成类似三国的局面。关键时刻的选择，决定了一生的命运。
-
-**利益分析**：蒯通的逻辑非常清晰——利益关系比感情关系更可靠。韩信却选择相信感情，忽略了潜在的风险。
-
-**功高震主**：韩信悲剧的根源在于他太强了，强到让老板睡不着觉。在职场中，有时候能力太强反而是负担——你得学会藏拙，或者及时转型。
-
-## 🎙️下期预告
-
-楚汉战争的关键转折——**鸿沟和约**。
-
-📖通鉴日谈048：鸿沟和约——楚河汉界
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈047-蒯通劝韩信-三分天下.mp3" length="5545944" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈047-蒯通劝韩信-三分天下.mp3</guid>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈047 - 蒯通劝韩信：三分天下
+⚖️ 天下命运捏在你手里
+韩信灭齐后手握几十万人马，成为决定楚汉归属的关键力量。蒯通说"当今两主之命悬于足下"——你帮谁谁赢，不如三分天下割据一方。韩信拒绝："汉王遇我甚厚，我怎么能见利忘义？"
+💀 蒯通的预言
+蒯通警告：张耳陈余曾经生死之交最后刀兵相向，你跟刘邦只是利益关系不是真感情。韩信犹豫良久还是拒绝了，蒯通叹气后装疯逃命。后来的事验证了蒯通的预言——韩信被吕后和萧何骗进宫杀害，临死说"吾悔不用蒯通之计"。
+💡今日启示：韩信的悲剧在于把感恩当成了安全保障。职场中，对领导的忠诚不能替代对自身利益的理性判断。功高震主不是你做得太多，而是你的存在让别人不安。
+下期预告：鸿沟和约——项羽打不动了，刘邦也打不动了，楚河汉界就此划定。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈047-蒯通劝韩信-三分天下.mp3" length="5545944" type="audio/mpeg"/>
+      <ns0:duration>05:46</ns0:duration>
+      <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>47</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈048 - 鸿沟和约：楚河汉界</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈048-鸿沟和约-楚河汉界.mp3</link>
-      <description>🕊️ 以鸿沟为界平分天下
+    <item>
+      <title>通鉴日谈通鉴日谈048：鸿沟和约-楚河汉界</title>
+      <description># 通鉴日谈048 - 鸿沟和约：楚河汉界
+🕊️ 以鸿沟为界平分天下
 项羽被韩信打得节节败退，主动提出谈判。以鸿沟为界，东归项羽西归刘邦，这就是象棋里"楚河汉界"的由来。项羽带着财物和刘邦家人满意东撤。
 ⚔️ 张良陈平劝刘邦撕约
 刘邦也想撤，但张良陈平反对——"汉拥有天下大半，楚兵疲惫粮草断绝，这是上天灭楚的时候。"刘邦被说动，单方面撕毁和约发动突袭。从道义上不光彩，从战略上极其正确。
 💡今日启示：鸿沟和约的撕毁揭示了一个残酷现实——弱者才守规矩，强者随时可以改规则。但撕约的底气来自实力：韩信灭了魏赵齐，彭越在后方骚扰，刘邦已经构建了包围项羽的战略网络。没有实力，撕约就是找死。
 下期预告：垓下之围——四面楚歌，霸王别姬，楚汉战争最悲壮的一夜。</description>
-      <ns1:encoded># 通鉴日谈048 - 鸿沟和约：楚河汉界
-
-## 项羽求和
-
-项羽被韩信打得节节败退，终于撑不住了。
-
-他主动提出谈判——以鸿沟为界，平分天下。
-
-## 和约内容
-
-📜鸿沟以东归项羽。
-
-📜鸿沟以西归刘邦。
-
-📜这就是后来象棋里的"楚河汉界"。
-
-📜项羽很满意，带着战利品和俘虏的刘邦家人，得意洋洋地往东撤军。
-
-## 张良、陈平的反对
-
-⚡"现在汉拥有天下的大半，诸侯都归附我们。"
-
-⚡"楚兵疲惫，粮草断绝，这是上天灭亡楚国的时候。"
-
-⚡"撕毁和约，发动突袭！"
-
-## 刘邦的选择
-
-😤刘邦决定撕毁和约，趁项羽撤退时发动突袭。
-
-😤这就是历史上著名的"背盟之战"。
-
-😤刘邦联合韩信、彭越、英布，组成六十万联军。
-
-😤把项羽包围在垓下。
-
-## 战局逆转
-
-🔄项羽从攻势转为守势。
-
-🔄刘邦从被动挨打转为主动进攻。
-
-🔄荥阳对峙的僵局终于打破。
-
-## 💡今日启示
-
-**商业道德 vs 商业利益**：刘邦的行为从道义上说不光彩，但从战略上说是正确的。现实中很多商业决策也是这样——道德和利益往往不能两全。
-
-**时机把握**：张良和陈平的建议之所以被采纳，是因为他们精准地判断了时机——楚兵疲惫，粮草断绝，再不动手就错过窗口期了。好的战略家知道什么时候该出手。
-
-**联盟策略**：刘邦许诺给韩信、彭越封地，换来他们的支持。没有永远的朋友，只有永远的利益——这句话在楚汉战争中体现得淋漓尽致。
-
-## 🎙️下期预告
-
-楚汉战争最悲壮的一夜——**垓下之围**。
-
-📖通鉴日谈049：垓下之围——四面楚歌
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈048-鸿沟和约-楚河汉界.mp3" length="4703756" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈048-鸿沟和约-楚河汉界.mp3</guid>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>4:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈048 - 鸿沟和约：楚河汉界
+🕊️ 以鸿沟为界平分天下
+项羽被韩信打得节节败退，主动提出谈判。以鸿沟为界，东归项羽西归刘邦，这就是象棋里"楚河汉界"的由来。项羽带着财物和刘邦家人满意东撤。
+⚔️ 张良陈平劝刘邦撕约
+刘邦也想撤，但张良陈平反对——"汉拥有天下大半，楚兵疲惫粮草断绝，这是上天灭楚的时候。"刘邦被说动，单方面撕毁和约发动突袭。从道义上不光彩，从战略上极其正确。
+💡今日启示：鸿沟和约的撕毁揭示了一个残酷现实——弱者才守规矩，强者随时可以改规则。但撕约的底气来自实力：韩信灭了魏赵齐，彭越在后方骚扰，刘邦已经构建了包围项羽的战略网络。没有实力，撕约就是找死。
+下期预告：垓下之围——四面楚歌，霸王别姬，楚汉战争最悲壮的一夜。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈048-鸿沟和约-楚河汉界.mp3" length="4703756" type="audio/mpeg"/>
+      <ns0:duration>04:53</ns0:duration>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>48</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈049 - 垓下之围：四面楚歌</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈049-垓下之围-四面楚歌.mp3</link>
-      <description>🎵 四面楚歌瓦解军心
+    <item>
+      <title>通鉴日谈通鉴日谈049：垓下之围-四面楚歌</title>
+      <description># 通鉴日谈049 - 垓下之围：四面楚歌
+🎵 四面楚歌瓦解军心
 韩信在垓下布下十面埋伏，让汉军夜间唱楚歌。项羽听到大惊——"汉军已经占领楚地了？"军心瞬间崩溃，楚兵纷纷逃散。打败一支军队的不是刀剑，而是瓦解他们的意志。
 💔 霸王别姬
 项羽在营帐中与虞姬对饮，唱起《垓下歌》："力拔山兮气盖世，时不利兮骓不逝。"虞姬和唱泪如雨下，拔剑起舞后自刎而死。楚汉战争中最凄美的一幕。
@@ -1851,78 +1238,26 @@
 项羽埋葬虞姬后带八百骑趁夜突围，天亮时汉军发现，灌婴带五千骑兵追击。一路边打边退，到东城时只剩二十八骑。项羽说"这不是我打不过他们，是老天要亡我"。
 💡今日启示：四面楚歌是心理战的巅峰——先瓦解意志再军事攻击，事半功倍。很多失败不是能力不够，而是信念先崩了。士气一旦散了，再强的战斗力也归零。
 下期预告：乌江自刎——项羽的最后选择，是渡江东山再起，还是宁死不辱？</description>
-      <ns1:encoded># 通鉴日谈049 - 垓下之围：四面楚歌
-
-## 最后的夜晚
-
-垓下，六十万汉军包围十万楚军。
-
-项羽在营帐中摆下酒宴，与虞姬对饮。
-
-## 霸王别姬
-
-🍶项羽一边喝酒一边唱起歌来：
-
-🍶"力拔山兮气盖世，时不利兮骓不逝。"
-
-🍶骓不逝兮可奈何，虞兮虞兮奈若何？
-
-🍶虞姬在旁和唱，泪如雨下。
-
-## 虞姬之死
-
-💔虞姬拔剑起舞，以剑和歌。
-
-💔然后突然转身，自刎而死。
-
-💔"大王意气尽，贱妾何聊生。"
-
-💔这是楚汉战争中最凄美的一幕。
-
-## 四面楚歌
-
-🎵夜晚，汉军营地传来阵阵楚歌声。
-
-🎵项羽大惊——楚国的歌怎么在汉军营地里响起？
-
-🎵项羽的第一反应：难道楚地已经被汉军全部占领了？
-
-🎵这是张良的计策——用楚歌瓦解楚军的士气。
-
-## 最后的突围
-
-🐎项羽带着八百骑兵趁夜突围。
-
-🐎天亮时汉军才发现，派灌婴带五千骑兵追击。
-
-🐎项羽一路狂奔，边打边退。
-
-🐎到了乌江边，只剩二十八骑。
-
-## 💡今日启示
-
-**心理战的力量**：四面楚歌不是武力攻击，而是心理攻击。有时候，打败一支军队的不是刀剑，而是瓦解他们的意志。
-
-**领导者的困境**：项羽在绝境中依然保持尊严，与虞姬诀别，与将士共饮。这种领导者的风范，值得尊敬。
-
-**个人 vs 时代**：项羽的个人能力无可挑剔，但他对抗的是整个时代的趋势。一个人再强，也拗不过历史的大潮。
-
-## 🎙️下期预告
-
-楚汉战争的最后一幕——**乌江自刎**。
-
-📖通鉴日谈050：乌江自刎——霸王末路
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈049-垓下之围-四面楚歌.mp3" length="5612399" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈049-垓下之围-四面楚歌.mp3</guid>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈049 - 垓下之围：四面楚歌
+🎵 四面楚歌瓦解军心
+韩信在垓下布下十面埋伏，让汉军夜间唱楚歌。项羽听到大惊——"汉军已经占领楚地了？"军心瞬间崩溃，楚兵纷纷逃散。打败一支军队的不是刀剑，而是瓦解他们的意志。
+💔 霸王别姬
+项羽在营帐中与虞姬对饮，唱起《垓下歌》："力拔山兮气盖世，时不利兮骓不逝。"虞姬和唱泪如雨下，拔剑起舞后自刎而死。楚汉战争中最凄美的一幕。
+🐎 八百骑突围
+项羽埋葬虞姬后带八百骑趁夜突围，天亮时汉军发现，灌婴带五千骑兵追击。一路边打边退，到东城时只剩二十八骑。项羽说"这不是我打不过他们，是老天要亡我"。
+💡今日启示：四面楚歌是心理战的巅峰——先瓦解意志再军事攻击，事半功倍。很多失败不是能力不够，而是信念先崩了。士气一旦散了，再强的战斗力也归零。
+下期预告：乌江自刎——项羽的最后选择，是渡江东山再起，还是宁死不辱？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈049-垓下之围-四面楚歌.mp3" length="5612399" type="audio/mpeg"/>
+      <ns0:duration>05:50</ns0:duration>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>49</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-<item>
-      <title>通鉴日谈050 - 乌江自刎：霸王末路</title>
-      <link>https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈050-乌江自刎-霸王末路.mp3</link>
-      <description>⚔️ 二十八骑的最后冲锋
+    <item>
+      <title>通鉴日谈通鉴日谈050：乌江自刎-霸王末路</title>
+      <description># 通鉴日谈050 - 乌江自刎：霸王末路
+⚔️ 二十八骑的最后冲锋
 项羽到东城只剩二十八骑，分四队突围。他冲入汉军斩杀一将，灌婴骑兵追来转身又杀一人，汉军竟不敢靠近。一人杀死几百汉军，展现了惊人战斗力。
 🛶 乌江亭长的船
 亭长在江边等候："江东虽小，还有千里土地几十万人口，足够大王东山再起。"项羽苦笑——当年带八千子弟过江，没有一个回来，有什么脸面见江东父老？他把乌骓马推上船送走，这是最后的温柔。
@@ -1930,549 +1265,458 @@
 项羽下马步战，看见老部下吕马童，说："汉王用千金封万户侯买我人头，我就送你这个人情。"说完拔剑自刎，享年三十一岁。刘邦以鲁公之礼安葬项羽，给了老对手最后的尊重。
 💡今日启示：一个人的力量再强，也打不过一个团队。刘邦输了一百场仗最后赢了，项羽赢了一百场仗最后输了。历史告诉我们：比的是谁更耐操、谁的后台更稳、谁能笑到最后。杜牧说"卷土重来未可知"，王安石说"江东子弟今虽在，肯与君王卷土来"——两种观点都有道理，但项羽选择了宁死不辱，这是他的性格，也是他的宿命。
 下期预告：楚汉争霸终结，大汉帝国即将开启——通鉴日谈后续精彩继续！</description>
-      <ns1:encoded># 通鉴日谈050 - 乌江自刎：霸王末路
-
-## 东城最后一战
-
-项羽一路向东，边打边退，到了东城时，身边只剩二十八骑。
-
-他说了一句话："这不是我打不过他们，是老天要亡我啊。"
-
-## 最后的冲锋
-
-⚔️项羽把二十八骑分成四队，分别突围。
-
-⚔️他自己冲入汉军阵中，斩杀一员汉将。
-
-⚔️灌婴骑兵追来，项羽转身又杀一人。
-
-⚔️汉军被项羽的勇猛震慑，竟不敢靠近。
-
-## 乌江亭长
-
-🛶乌江亭长早已在江边等候。
-
-🛶"江东虽小，还有千里土地，几十万人口，足够大王东山再起。"
-
-🛶项羽苦笑——当年带八千子弟过江，现在没有一个人回来。
-
-🛶有什么脸面见江东父老？
-
-## 乌骓马的归宿
-
-🐴项羽把乌骓马推上船，让亭长带马过江。
-
-🐴乌骓马是项羽最心爱的战马，日行千里。
-
-🐴项羽把它送走，是因为知道自己活不了了。
-
-🐴这是项羽最后的温柔。
-
-## 最后的战斗
-
-⚔️项羽下马步战。
-
-⚔️一个人杀死汉军几百人，自己也受了十几处伤。
-
-⚔️他看见一个老熟人——吕马童，曾经的部下，现在在汉军中。
-
-⚔️项羽说："听说汉王用千金、封万户侯买我的人头，我就送你这个人情。"
-
-⚔️说完，拔剑自刎，享年三十一岁。
-
-## 项羽的安葬
-
-🕯️刘邦把项羽的尸体缝合起来，以鲁公之礼安葬在谷城。
-
-🕯️项羽的老对手给了他最后的尊重。
-
-🕯️刘邦还封了项伯为射阳侯——政治的手腕。
-
-## 💡今日启示
-
-**个人英雄主义的终点**：项羽一个人杀死几百人，展现了惊人的战斗力。但在现代战争中，个人的勇武已经无法决定胜负——系统性的力量才是关键。
-
-**选择与担当**：项羽选择不渡江，是因为他觉得没脸见江东父老。这种"面子"观念在今天依然存在——有时候，学会放下脸面，才能东山再起；有时候，坚持气节，才是真正的英雄。
-
-**历史的评判**：杜牧说"卷土重来未可知"，王安石说"江东子弟今虽在，肯与君王卷土来"。两种观点都有道理——但项羽选择了宁死不辱，这是他的性格，也是他的宿命。
-
-## 🎙️系列收官
-
-楚汉战争就此结束。刘邦统一天下，建立汉朝。
-
-从荥阳对峙到乌江自刎，四年血雨腥风，无数英雄豪杰登场谢幕。
-
-**通鉴日谈的楚汉系列到此结束，感谢大家的收听！**
-
----
-
-💡**核心启示**：一个人的力量再强，也打不过一个团队；一时的胜利不算胜利，笑到最后才是王者。刘邦输了一百场仗，但最后赢了；项羽赢了一百场仗，但最后输了。历史告诉我们：比的是谁更耐操、谁的后台更稳、谁能笑到最后。
-</ns1:encoded>
-      <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈050-乌江自刎-霸王末路.mp3" length="4906048" type="audio/mpeg" />
-      <guid isPermaLink="true">https://topsuper01.github.io/tongjian-podcast/audio/通鉴日谈050-乌江自刎-霸王末路.mp3</guid>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>5:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:summary># 通鉴日谈050 - 乌江自刎：霸王末路
+⚔️ 二十八骑的最后冲锋
+项羽到东城只剩二十八骑，分四队突围。他冲入汉军斩杀一将，灌婴骑兵追来转身又杀一人，汉军竟不敢靠近。一人杀死几百汉军，展现了惊人战斗力。
+🛶 乌江亭长的船
+亭长在江边等候："江东虽小，还有千里土地几十万人口，足够大王东山再起。"项羽苦笑——当年带八千子弟过江，没有一个回来，有什么脸面见江东父老？他把乌骓马推上船送走，这是最后的温柔。
+🗡️ "我就送你这个人情"
+项羽下马步战，看见老部下吕马童，说："汉王用千金封万户侯买我人头，我就送你这个人情。"说完拔剑自刎，享年三十一岁。刘邦以鲁公之礼安葬项羽，给了老对手最后的尊重。
+💡今日启示：一个人的力量再强，也打不过一个团队。刘邦输了一百场仗最后赢了，项羽赢了一百场仗最后输了。历史告诉我们：比的是谁更耐操、谁的后台更稳、谁能笑到最后。杜牧说"卷土重来未可知"，王安石说"江东子弟今虽在，肯与君王卷土来"——两种观点都有道理，但项羽选择了宁死不辱，这是他的性格，也是他的宿命。
+下期预告：楚汉争霸终结，大汉帝国即将开启——通鉴日谈后续精彩继续！</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈050-乌江自刎-霸王末路.mp3" length="4906048" type="audio/mpeg"/>
+      <ns0:duration>05:06</ns0:duration>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>50</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
     <item>
-  <title>通鉴日谈051 - 汉朝建立：刘邦称帝</title>
-  <description><![CDATA[📌 汉朝建立：为什么是泗水亭长得了天下
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈052]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88051-%E6%B1%89%E6%9C%9D%E5%BB%BA%E7%AB%8B-%E5%88%98%E9%82%A6%E7%A7%B0%E5%B8%9D.mp3" length="6042479" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-051</guid>
-  <pubDate>Mon, 15 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>6:17</itunes:duration>
-  <itunes:summary>📌 汉朝建立：为什么是泗水亭长得了天下
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈052</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈052 - 功高震主：韩信之死</title>
-  <description><![CDATA[📌 功高震主：兔死狗烹的千古第一悲剧
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈053]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88052-%E5%8A%9F%E9%AB%98%E9%9C%87%E4%B8%BB-%E9%9F%A9%E4%BF%A1%E4%B9%8B%E6%AD%BB.mp3" length="5761193" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-052</guid>
-  <pubDate>Tue, 16 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>6:00</itunes:duration>
-  <itunes:summary>📌 功高震主：兔死狗烹的千古第一悲剧
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈053</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈053 - 匈奴崛起：白登之围</title>
-  <description><![CDATA[📌 匈奴崛起：刘邦最屈辱的一战
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈054]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88053-%E5%8C%88%E5%A5%B4%E5%B4%9B%E8%B5%B7-%E7%99%BD%E7%99%BB%E4%B9%8B%E5%9B%B4.mp3" length="5290153" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-053</guid>
-  <pubDate>Wed, 17 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>5:30</itunes:duration>
-  <itunes:summary>📌 匈奴崛起：刘邦最屈辱的一战
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈054</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈054 - 和亲之策：汉匈博弈</title>
-  <description><![CDATA[📌 和亲之策：用女人换来的六十年和平
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈055]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88054-%E5%92%8C%E4%BA%B2%E4%B9%8B%E7%AD%96-%E6%B1%89%E5%8C%88%E5%8D%9A%E5%BC%88.mp3" length="5069888" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-054</guid>
-  <pubDate>Thu, 18 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>5:16</itunes:duration>
-  <itunes:summary>📌 和亲之策：用女人换来的六十年和平
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈055</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈055 - 兄弟阋墙：刘邦驾崩</title>
-  <description><![CDATA[📌 兄弟阋墙：帝王家的生死较量
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈056]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88055-%E5%85%84%E5%BC%9F%E9%98%8B%E5%A2%99-%E5%88%98%E9%82%A6%E9%A9%BE%E5%B4%A9.mp3" length="5051916" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-055</guid>
-  <pubDate>Fri, 19 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>5:15</itunes:duration>
-  <itunes:summary>📌 兄弟阋墙：帝王家的生死较量
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈056</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈056 - 吕后临朝：女主天下</title>
-  <description><![CDATA[📌 吕后临朝：中国第一位女性执政者
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈057]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88056-%E5%90%95%E5%90%8E%E4%B8%B4%E6%9C%9D-%E5%A5%B3%E4%B8%BB%E5%A4%A9%E4%B8%8B.mp3" length="3372556" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-056</guid>
-  <pubDate>Sat, 20 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>3:30</itunes:duration>
-  <itunes:summary>📌 吕后临朝：中国第一位女性执政者
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈057</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈057 - 诸吕之乱：外戚兴亡</title>
-  <description><![CDATA[📌 诸吕之乱：戚夫人人彘与吕氏灭门
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈058]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88057-%E8%AF%B8%E5%90%95%E4%B9%8B%E4%B9%B1-%E5%A4%96%E6%88%9A%E5%85%B4%E4%BA%A1.mp3" length="2481885" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-057</guid>
-  <pubDate>Sun, 21 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:35</itunes:duration>
-  <itunes:summary>📌 诸吕之乱：戚夫人人彘与吕氏灭门
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈058</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈058 - 文景之治：减赋轻刑</title>
-  <description><![CDATA[📌 文景之治：黄老之术的治国奇迹
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈059]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88058-%E6%96%87%E6%99%AF%E4%B9%8B%E6%B2%BB-%E5%87%8F%E8%B5%8B%E8%BD%BB%E5%88%91.mp3" length="2748125" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-058</guid>
-  <pubDate>Mon, 22 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:51</itunes:duration>
-  <itunes:summary>📌 文景之治：黄老之术的治国奇迹
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈059</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈059 - 缇萦救父：废除肉刑</title>
-  <description><![CDATA[📌 缇萦救父：一个小女孩改变了中国法律
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈060]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88059-%E7%BC%87%E8%90%A6%E6%95%91%E7%88%B6-%E5%BA%9F%E9%99%A4%E8%82%89%E5%88%91.mp3" length="2353572" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-059</guid>
-  <pubDate>Tue, 23 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:27</itunes:duration>
-  <itunes:summary>📌 缇萦救父：一个小女孩改变了中国法律
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈060</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈060 - 贾谊治安策：论太子</title>
-  <description><![CDATA[📌 贾谊治安策：天才少年给皇帝的万言书
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈061]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88060-%E8%B4%BE%E8%B0%8A%E6%B2%BB%E5%AE%89%E7%AD%96-%E8%AE%BA%E5%A4%AA%E5%AD%90.mp3" length="2225676" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-060</guid>
-  <pubDate>Wed, 24 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:19</itunes:duration>
-  <itunes:summary>📌 贾谊治安策：天才少年给皇帝的万言书
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈061</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈061 - 晁错削藩：七国之乱</title>
-  <description><![CDATA[📌 晁错削藩：帝国削藩的生死博弈
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈062]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88061-%E6%99%81%E9%94%99%E5%89%8A%E8%97%A9-%E4%B8%83%E5%9B%BD%E4%B9%8B%E4%B9%B1.mp3" length="2269144" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-061</guid>
-  <pubDate>Thu, 25 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:21</itunes:duration>
-  <itunes:summary>📌 晁错削藩：帝国削藩的生死博弈
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈062</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈062 - 周亚夫平叛：细柳阅兵</title>
-  <description><![CDATA[📌 周亚夫平叛：将军只认将军令不认天子诏
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈063]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88062-%E5%91%A8%E4%BA%9A%E5%A4%AB%E5%B9%B3%E5%8F%9B-%E7%BB%86%E6%9F%B3%E9%98%85%E5%85%B5.mp3" length="2082316" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-062</guid>
-  <pubDate>Fri, 26 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>2:10</itunes:duration>
-  <itunes:summary>📌 周亚夫平叛：将军只认将军令不认天子诏
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈063</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈063 - 晁错之死：削藩代价</title>
-  <description><![CDATA[📌 晁错之死：帝国决策者的悲剧宿命
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈064]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88063-%E6%99%81%E9%94%99%E4%B9%8B%E6%AD%BB-%E5%89%8A%E8%97%A9%E4%BB%A3%E4%BB%B7.mp3" length="1857036" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-063</guid>
-  <pubDate>Sat, 27 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:56</itunes:duration>
-  <itunes:summary>📌 晁错之死：帝国决策者的悲剧宿命
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈064</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈064 - 文景盛世：百姓富足</title>
-  <description><![CDATA[📌 文景盛世：中国历史上第一个盛世
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈065]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88064-%E6%96%87%E6%99%AF%E7%9B%9B%E4%B8%96-%E7%99%BE%E5%A7%93%E5%AF%8C%E8%B6%B3.mp3" length="1659759" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-064</guid>
-  <pubDate>Sun, 28 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:43</itunes:duration>
-  <itunes:summary>📌 文景盛世：中国历史上第一个盛世
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈065</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈065 - 汉武大帝：帝王雄心</title>
-  <description><![CDATA[📌 汉武大帝：千古一帝的野望与征途
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈066]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88065-%E6%B1%89%E6%AD%A6%E5%A4%A7%E5%B8%9D-%E5%B8%9D%E7%8E%8B%E9%9B%84%E5%BF%83.mp3" length="1309092" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-065</guid>
-  <pubDate>Mon, 29 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:21</itunes:duration>
-  <itunes:summary>📌 汉武大帝：千古一帝的野望与征途
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈066</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈066 - 独尊儒术：罢黜百家</title>
-  <description><![CDATA[📌 独尊儒术：董仲舒与帝国的思想大一统
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈067]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88066-%E7%8B%AC%E5%B0%8A%E5%84%92%E6%9C%AF-%E7%BD%A2%E9%BB%9C%E7%99%BE%E5%AE%B6.mp3" length="1519325" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-066</guid>
-  <pubDate>Tue, 30 Jun 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:34</itunes:duration>
-  <itunes:summary>📌 独尊儒术：董仲舒与帝国的思想大一统
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈067</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈067 - 张骞出塞：凿空西域</title>
-  <description><![CDATA[📌 张骞出塞：一个人打开两个世界
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈068]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88067-%E5%BC%A0%E9%AA%9E%E5%87%BA%E5%A1%9E-%E5%87%BF%E7%A9%BA%E8%A5%BF%E5%9F%9F.mp3" length="1355485" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-067</guid>
-  <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:24</itunes:duration>
-  <itunes:summary>📌 张骞出塞：一个人打开两个世界
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈068</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈068 - 漠北决战：封狼居胥</title>
-  <description><![CDATA[📌 漠北决战：霍去病的传奇与卫青的功勋
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈069]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88068-%E6%BC%A0%E5%8C%97%E5%86%B3%E6%88%98-%E5%B0%81%E7%8B%BC%E5%B1%85%E8%83%A5.mp3" length="1498845" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-068</guid>
-  <pubDate>Thu, 02 Jul 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:33</itunes:duration>
-  <itunes:summary>📌 漠北决战：霍去病的传奇与卫青的功勋
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈069</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈069 - 太子刘据：巫蛊之祸</title>
-  <description><![CDATA[📌 太子刘据：父子相残的皇室悲剧
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈070]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88069-%E5%A4%AA%E5%AD%90%E5%88%98%E6%8D%AE-%E5%B7%AB%E8%9B%8A%E4%B9%8B%E7%A5%B8.mp3" length="1434479" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-069</guid>
-  <pubDate>Fri, 03 Jul 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:29</itunes:duration>
-  <itunes:summary>📌 太子刘据：父子相残的皇室悲剧
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈070</itunes:summary>
-</item>
-<item>
-  <title>通鉴日谈070 - 轮台罪己：帝国反思</title>
-  <description><![CDATA[📌 轮台罪己：汉武帝的自我救赎与帝国转折
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈071]]></description>
-  <enclosure url="https://topsuper01.github.io/tongjian-podcast/audio/%E9%80%9A%E9%89%B4%E6%97%A5%E8%B0%88070-%E8%BD%AE%E5%8F%B0%E7%BD%AA%E5%B7%B1-%E5%B8%9D%E5%9B%BD%E5%8F%8D%E6%80%9D.mp3" length="1396445" type="audio/mpeg"/>
-  <guid isPermaLink="false">tongjian-ritan-070</guid>
-  <pubDate>Sat, 04 Jul 2026 12:00:00 +0800</pubDate>
-  <itunes:duration>1:27</itunes:duration>
-  <itunes:summary>📌 轮台罪己：汉武帝的自我救赎与帝国转折
-
-从资治通鉴看历史兴衰，用古人的故事讲今天的道理。
-
-💡今日启示
-历史是一面镜子，照见今天你我。
-
-👉 下期预告：通鉴日谈071</itunes:summary>
-</item>
-</item>
+      <title>通鉴日谈通鉴日谈051：汉朝建立-为什么是泗水亭长得了天下</title>
+      <description># 通鉴日谈051 - 汉朝建立：为什么是泗水亭长得了天下
+👑 最不像是皇帝的人当了皇帝
+四十八岁还在当亭长的刘邦，凭什么打败贵族出身的项羽？不是因为他更强，而是因为他更会用人。萧何管后勤、张良出计策、韩信打天下，刘邦自己什么都不行，但他做对了一件事——让比他强的人心甘情愿为他卖命。
+🗡️ 项羽输在哪
+鸿门宴放走刘邦是仁慈还是愚蠢？分封十八路诸侯是慷慨还是自毁根基？项羽的失败不是武力不够，而是他从始至终都没想明白：打天下和坐天下，需要的是完全不同的两种能力。
+💡今日启示：管理者最重要的能力不是自己能干，而是让能干的人愿意跟你干。刘邦的"三不如"恰恰是他最大的优势——承认自己不行，才能让行的人上位。
+下期预告：帮刘邦打下天下的韩信，最后却死于吕后之手。兔死狗烹、鸟尽弓藏，功臣为什么总是难逃一死？</description>
+      <ns0:summary># 通鉴日谈051 - 汉朝建立：为什么是泗水亭长得了天下
+👑 最不像是皇帝的人当了皇帝
+四十八岁还在当亭长的刘邦，凭什么打败贵族出身的项羽？不是因为他更强，而是因为他更会用人。萧何管后勤、张良出计策、韩信打天下，刘邦自己什么都不行，但他做对了一件事——让比他强的人心甘情愿为他卖命。
+🗡️ 项羽输在哪
+鸿门宴放走刘邦是仁慈还是愚蠢？分封十八路诸侯是慷慨还是自毁根基？项羽的失败不是武力不够，而是他从始至终都没想明白：打天下和坐天下，需要的是完全不同的两种能力。
+💡今日启示：管理者最重要的能力不是自己能干，而是让能干的人愿意跟你干。刘邦的"三不如"恰恰是他最大的优势——承认自己不行，才能让行的人上位。
+下期预告：帮刘邦打下天下的韩信，最后却死于吕后之手。兔死狗烹、鸟尽弓藏，功臣为什么总是难逃一死？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈051-汉朝建立-为什么是泗水亭长得了天下.mp3" length="13251022" type="audio/mpeg"/>
+      <ns0:duration>13:48</ns0:duration>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>51</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈052：功高震主-兔死狗烹的千古第一悲剧</title>
+      <description># 通鉴日谈052 - 功高震主：兔死狗烹的千古第一悲剧
+⚔️ 兵仙韩信的致命天真
+"狡兔死，走狗烹；飞鸟尽，良弓藏"——韩信临死前终于想明白了，但为时已晚。他能在战场上算无遗策，却在政治上犯了最致命的错误：以为自己不可替代。当刘邦问"我能带多少兵"，韩信说"陛下最多十万"，又说"我多多益善"。这句话说完，他的命运就定了。
+🗡️ 三种功臣，三种结局
+萧何自污名节求自保，张良功成身退修黄老，韩信居功自傲等封赏。同样是开国功臣，为什么结局天差地别？关键不在功劳大小，而在你让皇帝觉得"安全"还是"威胁"。
+💡今日启示：职场上能力越强，越要学会"示弱"。不是装蠢，而是让上级觉得你可控。你的不可替代性一旦变成威胁感，离出局就不远了。
+下期预告：刘邦称帝后最大的屈辱——白登之围，三十万大军被匈奴围困七天七夜，靠贿赂单于阏氏才逃出生天。</description>
+      <ns0:summary># 通鉴日谈052 - 功高震主：兔死狗烹的千古第一悲剧
+⚔️ 兵仙韩信的致命天真
+"狡兔死，走狗烹；飞鸟尽，良弓藏"——韩信临死前终于想明白了，但为时已晚。他能在战场上算无遗策，却在政治上犯了最致命的错误：以为自己不可替代。当刘邦问"我能带多少兵"，韩信说"陛下最多十万"，又说"我多多益善"。这句话说完，他的命运就定了。
+🗡️ 三种功臣，三种结局
+萧何自污名节求自保，张良功成身退修黄老，韩信居功自傲等封赏。同样是开国功臣，为什么结局天差地别？关键不在功劳大小，而在你让皇帝觉得"安全"还是"威胁"。
+💡今日启示：职场上能力越强，越要学会"示弱"。不是装蠢，而是让上级觉得你可控。你的不可替代性一旦变成威胁感，离出局就不远了。
+下期预告：刘邦称帝后最大的屈辱——白登之围，三十万大军被匈奴围困七天七夜，靠贿赂单于阏氏才逃出生天。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈052-功高震主-兔死狗烹的千古第一悲剧.mp3" length="12158058" type="audio/mpeg"/>
+      <ns0:duration>12:39</ns0:duration>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>52</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈053：匈奴崛起-刘邦最屈辱的一战</title>
+      <description># 通鉴日谈053 - 匈奴崛起：刘邦最屈辱的一战
+🏹 三十万大军被围七天七夜
+白登之围，刘邦亲率三十万大军北击匈奴，却被冒顿单于的四十万骑兵围困在白登山。七天断粮断水，最后靠陈平的"秘计"——重金贿赂单于的阏氏，才侥幸脱身。堂堂大汉开国皇帝，竟然要靠给敌人的老婆送钱才保住性命。
+🗡️ 冒顿单于：比刘邦更狠的人
+杀父自立、鸣镝射妻、东灭东胡、西逐月氏——冒顿单于是匈奴历史上最可怕的征服者。他统一草原的方式和刘邦统一中原一样：先忍后发，一击致命。白登之围不是偶然，而是两个狠人之间的巅峰对决。
+💡今日启示：在你以为稳赢的时候最危险。刘邦犯的错和所有创业者一样——用过去的经验打今天的仗。轻敌是失败之母，尤其当你的对手比你更狠、更耐得住的时候。
+下期预告：白登之围后，刘邦选择了一个屈辱但务实的策略——和亲。用女人换和平，这笔账到底划不划算？</description>
+      <ns0:summary># 通鉴日谈053 - 匈奴崛起：刘邦最屈辱的一战
+🏹 三十万大军被围七天七夜
+白登之围，刘邦亲率三十万大军北击匈奴，却被冒顿单于的四十万骑兵围困在白登山。七天断粮断水，最后靠陈平的"秘计"——重金贿赂单于的阏氏，才侥幸脱身。堂堂大汉开国皇帝，竟然要靠给敌人的老婆送钱才保住性命。
+🗡️ 冒顿单于：比刘邦更狠的人
+杀父自立、鸣镝射妻、东灭东胡、西逐月氏——冒顿单于是匈奴历史上最可怕的征服者。他统一草原的方式和刘邦统一中原一样：先忍后发，一击致命。白登之围不是偶然，而是两个狠人之间的巅峰对决。
+💡今日启示：在你以为稳赢的时候最危险。刘邦犯的错和所有创业者一样——用过去的经验打今天的仗。轻敌是失败之母，尤其当你的对手比你更狠、更耐得住的时候。
+下期预告：白登之围后，刘邦选择了一个屈辱但务实的策略——和亲。用女人换和平，这笔账到底划不划算？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈053-匈奴崛起-刘邦最屈辱的一战.mp3" length="10472429" type="audio/mpeg"/>
+      <ns0:duration>10:54</ns0:duration>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>53</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈054：和亲之策-用女人换来的六十年和平</title>
+      <description># 通鉴日谈054 - 和亲之策：用女人换来的六十年和平
+🌸 一纸婚书抵百万雄兵
+白登之围后，刘邦采纳刘敬的建议，开启了中国历史上延续最久的外交策略——和亲。把宗室女子嫁给匈奴单于，每年赠送丝绸粮食，用"嫁妆"换和平。这笔交易听起来屈辱，但它为汉朝赢得了六十年的休养生息。
+⚖️ 屈辱还是智慧
+和亲的本质是花钱买时间。六十年的和平让汉朝从战乱废墟恢复为天下强国，文景之治的繁荣正是建立在这个"屈辱"之上。但代价呢？那些远嫁草原的女子，没有人问过她们愿不愿意。
+💡今日启示：谈判桌上没有面子，只有利益。和亲告诉我们一个残酷的现实——弱者没有资格谈尊严，但有资格谈策略。先活下来，再站起来。
+下期预告：刘邦驾崩后，吕后临朝称制。一个被项羽俘虏过的女人，如何成为中国历史上第一位实际执政的女性？</description>
+      <ns0:summary># 通鉴日谈054 - 和亲之策：用女人换来的六十年和平
+🌸 一纸婚书抵百万雄兵
+白登之围后，刘邦采纳刘敬的建议，开启了中国历史上延续最久的外交策略——和亲。把宗室女子嫁给匈奴单于，每年赠送丝绸粮食，用"嫁妆"换和平。这笔交易听起来屈辱，但它为汉朝赢得了六十年的休养生息。
+⚖️ 屈辱还是智慧
+和亲的本质是花钱买时间。六十年的和平让汉朝从战乱废墟恢复为天下强国，文景之治的繁荣正是建立在这个"屈辱"之上。但代价呢？那些远嫁草原的女子，没有人问过她们愿不愿意。
+💡今日启示：谈判桌上没有面子，只有利益。和亲告诉我们一个残酷的现实——弱者没有资格谈尊严，但有资格谈策略。先活下来，再站起来。
+下期预告：刘邦驾崩后，吕后临朝称制。一个被项羽俘虏过的女人，如何成为中国历史上第一位实际执政的女性？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈054-和亲之策-用女人换来的六十年和平.mp3" length="9738493" type="audio/mpeg"/>
+      <ns0:duration>10:08</ns0:duration>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>54</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈056：吕后临朝-女主天下</title>
+      <description># 通鉴日谈056 - 吕后临朝：中国第一位女性执政者
+👑 从俘虏到执政者
+她曾被项羽俘虏为人质，在楚营忍辱数年；她亲眼看着情敌被自己做成"人彘"；她杀韩信、废少帝、封吕氏——吕雉用最残酷的方式证明：在这个男人制定规则的世界里，她比所有男人都更懂权力。
+⚖️ 十五年的功与过
+杀功臣、虐情敌、封诸吕——这些是吕后的暴。但另一方面，她沿袭黄老之术、轻徭薄赋、与民休息，十五年天下太平。司马迁评价："政不出房户，天下晏然。"暴君和明主，在她身上奇异地共存。
+💡今日启示：评价一个人不能只看手段，还要看结果。吕后的手段令人不寒而栗，但她治下的百姓确实过上了太平日子。管理者的核心价值不是让人喜欢，而是让组织活下去。
+下期预告：吕后一死，吕氏家族企图篡权，刘姓宗室与功臣联手反杀。诸吕之乱的血腥清洗背后，是权力的真空与恐惧。</description>
+      <ns0:summary># 通鉴日谈056 - 吕后临朝：中国第一位女性执政者
+👑 从俘虏到执政者
+她曾被项羽俘虏为人质，在楚营忍辱数年；她亲眼看着情敌被自己做成"人彘"；她杀韩信、废少帝、封吕氏——吕雉用最残酷的方式证明：在这个男人制定规则的世界里，她比所有男人都更懂权力。
+⚖️ 十五年的功与过
+杀功臣、虐情敌、封诸吕——这些是吕后的暴。但另一方面，她沿袭黄老之术、轻徭薄赋、与民休息，十五年天下太平。司马迁评价："政不出房户，天下晏然。"暴君和明主，在她身上奇异地共存。
+💡今日启示：评价一个人不能只看手段，还要看结果。吕后的手段令人不寒而栗，但她治下的百姓确实过上了太平日子。管理者的核心价值不是让人喜欢，而是让组织活下去。
+下期预告：吕后一死，吕氏家族企图篡权，刘姓宗室与功臣联手反杀。诸吕之乱的血腥清洗背后，是权力的真空与恐惧。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈056-吕后临朝-女主天下.mp3" length="14482747" type="audio/mpeg"/>
+      <ns0:duration>15:05</ns0:duration>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>56</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈057：诸吕之乱-外戚兴亡</title>
+      <description># 通鉴日谈057 - 诸吕之乱：戚夫人人彘与吕氏灭门
+🗡️ 人彘之后是灭门
+吕后死后不到两个月，吕氏家族就被周勃、陈平联手诛灭，不分老幼，满门抄斩。从人彘之刑到灭门之祸，暴力终将以暴力终结。吕后用恐怖维持的权力平衡，在她死后瞬间崩塌。
+⚔️ 周勃的一句话
+"为吕氏右袒，为刘氏左袒！"周勃在军营中一声号令，全军左袒——没有人选择站在吕氏一边。这不是忠诚，这是恐惧解除后的本能选择。吕氏靠恐怖维系统治，一旦恐怖之源消失，所有人都会反戈。
+💡今日启示：靠恐惧建立的管理是最脆弱的。恐惧只能让人服从，不能让人忠诚。一旦权力出现真空，积累的怨恨会瞬间爆发。真正的领导力是让人愿意跟你走，而不是不敢不走。
+下期预告：诸吕之乱后，代王刘恒被迎立为帝，开启了文景之治。黄老之术如何让一个凋敝的帝国重新站起来？</description>
+      <ns0:summary># 通鉴日谈057 - 诸吕之乱：戚夫人人彘与吕氏灭门
+🗡️ 人彘之后是灭门
+吕后死后不到两个月，吕氏家族就被周勃、陈平联手诛灭，不分老幼，满门抄斩。从人彘之刑到灭门之祸，暴力终将以暴力终结。吕后用恐怖维持的权力平衡，在她死后瞬间崩塌。
+⚔️ 周勃的一句话
+"为吕氏右袒，为刘氏左袒！"周勃在军营中一声号令，全军左袒——没有人选择站在吕氏一边。这不是忠诚，这是恐惧解除后的本能选择。吕氏靠恐怖维系统治，一旦恐怖之源消失，所有人都会反戈。
+💡今日启示：靠恐惧建立的管理是最脆弱的。恐惧只能让人服从，不能让人忠诚。一旦权力出现真空，积累的怨恨会瞬间爆发。真正的领导力是让人愿意跟你走，而不是不敢不走。
+下期预告：诸吕之乱后，代王刘恒被迎立为帝，开启了文景之治。黄老之术如何让一个凋敝的帝国重新站起来？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈057-诸吕之乱-外戚兴亡.mp3" length="14164680" type="audio/mpeg"/>
+      <ns0:duration>14:45</ns0:duration>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>57</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈058：文景之治-减赋轻刑</title>
+      <description># 通鉴日谈058 - 文景之治：黄老之术的治国奇迹
+🌿 不折腾就是最大的治国智慧
+汉文帝刘恒即位时，天下刚经历诸吕之乱，民生凋敝。他的治国方略极其简单——什么都不做。轻徭薄赋、与民休息、减少刑法、开放山泽。这个"什么都不做"的政策，反而创造了中国历史上第一个盛世。
+💰 从穷到富的奇迹
+文帝时国库钱串子烂了都没人数，粮仓的粮食堆到腐烂。这不是神话，而是"不折腾"的结果。汉初税率从十五税一降到三十税一，文帝甚至连续十二年免田租。政府少收钱，百姓反而更富——这是最早的供给侧经济学。
+💡今日启示：最好的管理往往是"不管理"。少开会、少折腾、少加制度，给团队空间自己生长。过度管理的危害远大于管理不足，因为每一条新规都在消耗执行力。
+下期预告：缇萦救父——一个十三岁的小女孩上书汉文帝，竟然废除了延续千年的肉刑。小人物如何改变大历史？</description>
+      <ns0:summary># 通鉴日谈058 - 文景之治：黄老之术的治国奇迹
+🌿 不折腾就是最大的治国智慧
+汉文帝刘恒即位时，天下刚经历诸吕之乱，民生凋敝。他的治国方略极其简单——什么都不做。轻徭薄赋、与民休息、减少刑法、开放山泽。这个"什么都不做"的政策，反而创造了中国历史上第一个盛世。
+💰 从穷到富的奇迹
+文帝时国库钱串子烂了都没人数，粮仓的粮食堆到腐烂。这不是神话，而是"不折腾"的结果。汉初税率从十五税一降到三十税一，文帝甚至连续十二年免田租。政府少收钱，百姓反而更富——这是最早的供给侧经济学。
+💡今日启示：最好的管理往往是"不管理"。少开会、少折腾、少加制度，给团队空间自己生长。过度管理的危害远大于管理不足，因为每一条新规都在消耗执行力。
+下期预告：缇萦救父——一个十三岁的小女孩上书汉文帝，竟然废除了延续千年的肉刑。小人物如何改变大历史？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈058-文景之治-减赋轻刑.mp3" length="13994153" type="audio/mpeg"/>
+      <ns0:duration>14:34</ns0:duration>
+      <pubDate>Sat, 27 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>58</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈059：缇萦救父-废除肉刑</title>
+      <description># 通鉴日谈059 - 缇萦救父：一个小女孩改变了中国法律
+✉️ 一封改变历史的信
+太仓令淳于意获罪当受肉刑，小女儿缇萦上书汉文帝："妾愿没入为官婢，以赎父刑。"文帝被感动，不仅赦免了淳于意，还废除了黥面、割鼻、断足三种肉刑。一个十三岁女孩的上书，终结了延续千年的酷刑制度。
+⚖️ 肉刑之废与人道之光
+肉刑的核心问题不是残忍，而是不可逆。砍了脚不能再生，割了鼻不能复原。犯人受刑后无法正常生活，反而更容易再次犯罪。缇萦的上书让文帝看到了这个逻辑漏洞——惩罚的目的应该是让人改过，不是让人废掉。
+💡今日启示：制度变革往往不需要宏大叙事，需要的只是有人站出来说一句真话。缇萦没有权力、没有资源，她有的是勇气和道理。任何不合理的东西，被看见就是被改变的开端。
+下期预告：文景之治的另一个天才——贾谊，二十岁出头就写出《治安策》，预见帝国危机。可惜天妒英才，三十三岁郁郁而终。</description>
+      <ns0:summary># 通鉴日谈059 - 缇萦救父：一个小女孩改变了中国法律
+✉️ 一封改变历史的信
+太仓令淳于意获罪当受肉刑，小女儿缇萦上书汉文帝："妾愿没入为官婢，以赎父刑。"文帝被感动，不仅赦免了淳于意，还废除了黥面、割鼻、断足三种肉刑。一个十三岁女孩的上书，终结了延续千年的酷刑制度。
+⚖️ 肉刑之废与人道之光
+肉刑的核心问题不是残忍，而是不可逆。砍了脚不能再生，割了鼻不能复原。犯人受刑后无法正常生活，反而更容易再次犯罪。缇萦的上书让文帝看到了这个逻辑漏洞——惩罚的目的应该是让人改过，不是让人废掉。
+💡今日启示：制度变革往往不需要宏大叙事，需要的只是有人站出来说一句真话。缇萦没有权力、没有资源，她有的是勇气和道理。任何不合理的东西，被看见就是被改变的开端。
+下期预告：文景之治的另一个天才——贾谊，二十岁出头就写出《治安策》，预见帝国危机。可惜天妒英才，三十三岁郁郁而终。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈059-缇萦救父-废除肉刑.mp3" length="13612138" type="audio/mpeg"/>
+      <ns0:duration>14:10</ns0:duration>
+      <pubDate>Sun, 28 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>59</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈060：贾谊治安策-论太子</title>
+      <description># 通鉴日谈060 - 贾谊治安策：天才少年给皇帝的万言书
+📝 二十岁的政治预言
+贾谊二十多岁就向汉文帝上了《治安策》，指出帝国最大的危机不是外敌，而是诸侯王的势力越来越大。他预言："疏者必危，亲者必乱。"意思是关系远的诸侯必定造反，关系近的也迟早出事。后来七国之乱完全应验了他的预言。
+🔥 预言为什么不被执行
+文帝看懂了贾谊的话，但没有执行。不是不想，是不能——当时诸侯王势力已成，强行削藩就是逼他们造反。贾谊看得太远，但现实不允许跑那么快。他最终被排挤出局，三十三岁郁郁而终，留下"可怜夜半虚前席，不问苍生问鬼神"的千古叹息。
+💡今日启示：正确的方案不等于可执行的方案。贾谊的悲剧不是他不够聪明，而是他只看到了问题，没看到解决问题的时机。战略眼光需要配合战术耐心，早一步是先知，早两步是先烈。
+下期预告：到了汉景帝时期，晁错再次提出削藩，这次皇帝决定动手了。代价是什么？七国同时叛乱，晁错自己被腰斩。</description>
+      <ns0:summary># 通鉴日谈060 - 贾谊治安策：天才少年给皇帝的万言书
+📝 二十岁的政治预言
+贾谊二十多岁就向汉文帝上了《治安策》，指出帝国最大的危机不是外敌，而是诸侯王的势力越来越大。他预言："疏者必危，亲者必乱。"意思是关系远的诸侯必定造反，关系近的也迟早出事。后来七国之乱完全应验了他的预言。
+🔥 预言为什么不被执行
+文帝看懂了贾谊的话，但没有执行。不是不想，是不能——当时诸侯王势力已成，强行削藩就是逼他们造反。贾谊看得太远，但现实不允许跑那么快。他最终被排挤出局，三十三岁郁郁而终，留下"可怜夜半虚前席，不问苍生问鬼神"的千古叹息。
+💡今日启示：正确的方案不等于可执行的方案。贾谊的悲剧不是他不够聪明，而是他只看到了问题，没看到解决问题的时机。战略眼光需要配合战术耐心，早一步是先知，早两步是先烈。
+下期预告：到了汉景帝时期，晁错再次提出削藩，这次皇帝决定动手了。代价是什么？七国同时叛乱，晁错自己被腰斩。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈060-贾谊治安策-论太子.mp3" length="13449970" type="audio/mpeg"/>
+      <ns0:duration>14:00</ns0:duration>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>60</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈061：晁错削藩-七国之乱</title>
+      <description># 通鉴日谈061 - 晁错削藩：帝国削藩的生死博弈
+⚔️ 削亦反，不削亦反
+晁错对汉景帝说："今削之亦反，不削亦反。削之，其反亟，祸小；不削，其反迟，祸大。"这是赤裸裸的博弈论——既然迟早要反，不如趁现在还弱的时候逼他们摊牌。景帝采纳了，结果七国同时以"清君侧诛晁错"为名叛乱。
+🗡️ 替罪羊的命运
+七国之乱爆发后，景帝的第一反应不是打仗，而是杀晁错。他以为杀了晁错七国就会退兵，结果七国根本不在乎晁错死活，他们要的是皇位。晁错穿着朝服被腰斩于东市，成了帝国最昂贵的替罪羊。
+💡今日启示：在组织变革中，提出方案的人往往最先被牺牲。晁错的悲剧告诉我们：推动变革必须确保自己有足够的话语权和保护伞。只有方案没有力量，你就是那个随时可以被扔出去安抚反对者的人。
+下期预告：七国来势汹汹，谁来救场？周亚夫——那个在细柳营连皇帝的仪仗都不让进的将军。</description>
+      <ns0:summary># 通鉴日谈061 - 晁错削藩：帝国削藩的生死博弈
+⚔️ 削亦反，不削亦反
+晁错对汉景帝说："今削之亦反，不削亦反。削之，其反亟，祸小；不削，其反迟，祸大。"这是赤裸裸的博弈论——既然迟早要反，不如趁现在还弱的时候逼他们摊牌。景帝采纳了，结果七国同时以"清君侧诛晁错"为名叛乱。
+🗡️ 替罪羊的命运
+七国之乱爆发后，景帝的第一反应不是打仗，而是杀晁错。他以为杀了晁错七国就会退兵，结果七国根本不在乎晁错死活，他们要的是皇位。晁错穿着朝服被腰斩于东市，成了帝国最昂贵的替罪羊。
+💡今日启示：在组织变革中，提出方案的人往往最先被牺牲。晁错的悲剧告诉我们：推动变革必须确保自己有足够的话语权和保护伞。只有方案没有力量，你就是那个随时可以被扔出去安抚反对者的人。
+下期预告：七国来势汹汹，谁来救场？周亚夫——那个在细柳营连皇帝的仪仗都不让进的将军。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈061-晁错削藩-七国之乱.mp3" length="13425311" type="audio/mpeg"/>
+      <ns0:duration>13:59</ns0:duration>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>61</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈062：周亚夫平叛-细柳阅兵</title>
+      <description># 通鉴日谈062 - 周亚夫平叛：将军只认将军令不认天子诏
+🏰 细柳营：连皇帝都进不去的军营
+汉文帝视察军队，其他军营车驾长驱直入，唯独细柳营——守门士兵说"将军令曰：军中闻将军令，不闻天子之诏"。文帝不但没生气，反而感叹："嗟乎，此真将军矣！"这个真将军就是周亚夫。
+⚔️ 三月平叛的教科书
+七国之乱来势汹汹，周亚夫的策略却出人意料——不打，拖。他让梁王顶在最前面吸引叛军主力，自己率军切断叛军粮道。三个月后，叛军粮尽崩溃，七王皆死。这场平叛堪称中国军事史上"不战而屈人之兵"的经典战例。
+💡今日启示：真正的实力不需要表演。周亚夫在细柳营不给皇帝面子，在战场上不急于出击，他始终按自己的节奏来。当你有真本事的时候，不需要迎合任何人；当你还没有真本事的时候，迎合也没用。
+下期预告：七国已平，但晁错已死。那个提出削藩的人，连平叛的功劳都没等到。</description>
+      <ns0:summary># 通鉴日谈062 - 周亚夫平叛：将军只认将军令不认天子诏
+🏰 细柳营：连皇帝都进不去的军营
+汉文帝视察军队，其他军营车驾长驱直入，唯独细柳营——守门士兵说"将军令曰：军中闻将军令，不闻天子之诏"。文帝不但没生气，反而感叹："嗟乎，此真将军矣！"这个真将军就是周亚夫。
+⚔️ 三月平叛的教科书
+七国之乱来势汹汹，周亚夫的策略却出人意料——不打，拖。他让梁王顶在最前面吸引叛军主力，自己率军切断叛军粮道。三个月后，叛军粮尽崩溃，七王皆死。这场平叛堪称中国军事史上"不战而屈人之兵"的经典战例。
+💡今日启示：真正的实力不需要表演。周亚夫在细柳营不给皇帝面子，在战场上不急于出击，他始终按自己的节奏来。当你有真本事的时候，不需要迎合任何人；当你还没有真本事的时候，迎合也没用。
+下期预告：七国已平，但晁错已死。那个提出削藩的人，连平叛的功劳都没等到。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈062-周亚夫平叛-细柳阅兵.mp3" length="14945010" type="audio/mpeg"/>
+      <ns0:duration>15:34</ns0:duration>
+      <pubDate>Wed, 01 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>62</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈063：晁错之死-削藩代价</title>
+      <description># 通鉴日谈063 - 晁错之死：帝国决策者的悲剧宿命
+⚰️ 朝服腰斩：最体面的处死
+晁错被杀时穿着朝服，这是皇帝给的最后体面。但这个体面本身就是讽刺——杀你的是你效忠的人，给你体面是因为心里有愧。晁错之死不是法治，而是政治交易：皇帝用一条命买七国退兵的幻想。
+🗡️ 杀了也白杀
+景帝杀晁错后派袁盎去七国谈判，七国回答："我已为东帝矣。"根本不提晁错。这场叛乱跟晁错无关，他们只是需要一个口号。景帝终于明白：妥协换不来和平，只能打。于是重用周亚夫，三月平叛。
+💡今日启示：不要为妥协而牺牲自己人。当你发现对方要的不是你的让步而是你的命时，妥协只会让对方更加嚣张。该打的时候必须打，犹豫和让步只会增加最终的成本。
+下期预告：七国之乱平定后，文景之治进入全盛期。国库充盈、百姓富足，中国历史上第一个盛世是如何炼成的？</description>
+      <ns0:summary># 通鉴日谈063 - 晁错之死：帝国决策者的悲剧宿命
+⚰️ 朝服腰斩：最体面的处死
+晁错被杀时穿着朝服，这是皇帝给的最后体面。但这个体面本身就是讽刺——杀你的是你效忠的人，给你体面是因为心里有愧。晁错之死不是法治，而是政治交易：皇帝用一条命买七国退兵的幻想。
+🗡️ 杀了也白杀
+景帝杀晁错后派袁盎去七国谈判，七国回答："我已为东帝矣。"根本不提晁错。这场叛乱跟晁错无关，他们只是需要一个口号。景帝终于明白：妥协换不来和平，只能打。于是重用周亚夫，三月平叛。
+💡今日启示：不要为妥协而牺牲自己人。当你发现对方要的不是你的让步而是你的命时，妥协只会让对方更加嚣张。该打的时候必须打，犹豫和让步只会增加最终的成本。
+下期预告：七国之乱平定后，文景之治进入全盛期。国库充盈、百姓富足，中国历史上第一个盛世是如何炼成的？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈063-晁错之死-削藩代价.mp3" length="14084014" type="audio/mpeg"/>
+      <ns0:duration>14:40</ns0:duration>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>63</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈064：文景盛世-百姓富足</title>
+      <description># 通鉴日谈064 - 文景盛世：中国历史上第一个盛世
+💰 钱串子烂了没人数
+《汉书》记载文景之治的盛况："京师之钱累巨万，贯朽而不可校；太仓之粟陈陈相因，充溢露积于外，至腐败不可食。"国库的钱串子朽烂了都数不清，粮仓的粮食堆到外面腐烂。这是中国历史上第一次出现"钱多到花不完"的景象。
+🌿 盛世的逻辑
+文景之治的秘诀就两条：轻税和不折腾。文帝十二年免田租，景帝三十税一，政府能少收就少收；能不管就不管，能不打仗就不打仗。看起来像偷懒，其实是最高明的治理——给百姓空间，他们自己就能创造繁荣。
+💡今日启示：最好的增长策略往往是最简单的——减少不必要的干预和成本。企业如此，团队亦然。过度管理和频繁战略调整消耗的精力，远超它们带来的收益。
+下期预告：文帝景帝攒下的家底，被一个人花了个精光——汉武帝刘彻。千古一帝的野望与代价，我们下期细说。</description>
+      <ns0:summary># 通鉴日谈064 - 文景盛世：中国历史上第一个盛世
+💰 钱串子烂了没人数
+《汉书》记载文景之治的盛况："京师之钱累巨万，贯朽而不可校；太仓之粟陈陈相因，充溢露积于外，至腐败不可食。"国库的钱串子朽烂了都数不清，粮仓的粮食堆到外面腐烂。这是中国历史上第一次出现"钱多到花不完"的景象。
+🌿 盛世的逻辑
+文景之治的秘诀就两条：轻税和不折腾。文帝十二年免田租，景帝三十税一，政府能少收就少收；能不管就不管，能不打仗就不打仗。看起来像偷懒，其实是最高明的治理——给百姓空间，他们自己就能创造繁荣。
+💡今日启示：最好的增长策略往往是最简单的——减少不必要的干预和成本。企业如此，团队亦然。过度管理和频繁战略调整消耗的精力，远超它们带来的收益。
+下期预告：文帝景帝攒下的家底，被一个人花了个精光——汉武帝刘彻。千古一帝的野望与代价，我们下期细说。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈064-文景盛世-百姓富足.mp3" length="13244752" type="audio/mpeg"/>
+      <ns0:duration>13:47</ns0:duration>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>64</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈065：汉武大帝-帝王雄心</title>
+      <description># 通鉴日谈065 - 汉武大帝：千古一帝的野望与征途
+👑 十六岁即位，五十四年在位
+刘彻十六岁登基，在位五十四年，打了四十四年仗。他北击匈奴、南平百越、西通西域、东设乐浪——把汉朝的版图扩大了一倍。但代价是什么？文景之治积累的财富全部打光，全国人口减半，海内虚耗。
+⚔️ 雄才大略还是穷兵黩武
+对汉武帝的评价两千年来从未统一。有人说他是千古一帝，开疆拓土、民族融合；有人说他是穷兵黩武，耗尽国力、民不聊生。他既是伟大的战略家，也是残酷的独裁者。一个人身上同时承载了一个帝国最辉煌和最黑暗的一面。
+💡今日启示：每一个"伟大"背后都有代价，问题是谁在承受这个代价。汉武帝的功业铸就了民族自信，但买单的是那减少的一半人口。做决策时永远问自己：目标值得这个代价吗？买单的人同意了吗？
+下期预告：汉武帝不只是打仗，他还做了一件影响中国两千年的事——罢黜百家、独尊儒术。思想的统一，比疆域的统一更深远。</description>
+      <ns0:summary># 通鉴日谈065 - 汉武大帝：千古一帝的野望与征途
+👑 十六岁即位，五十四年在位
+刘彻十六岁登基，在位五十四年，打了四十四年仗。他北击匈奴、南平百越、西通西域、东设乐浪——把汉朝的版图扩大了一倍。但代价是什么？文景之治积累的财富全部打光，全国人口减半，海内虚耗。
+⚔️ 雄才大略还是穷兵黩武
+对汉武帝的评价两千年来从未统一。有人说他是千古一帝，开疆拓土、民族融合；有人说他是穷兵黩武，耗尽国力、民不聊生。他既是伟大的战略家，也是残酷的独裁者。一个人身上同时承载了一个帝国最辉煌和最黑暗的一面。
+💡今日启示：每一个"伟大"背后都有代价，问题是谁在承受这个代价。汉武帝的功业铸就了民族自信，但买单的是那减少的一半人口。做决策时永远问自己：目标值得这个代价吗？买单的人同意了吗？
+下期预告：汉武帝不只是打仗，他还做了一件影响中国两千年的事——罢黜百家、独尊儒术。思想的统一，比疆域的统一更深远。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈065-汉武大帝-帝王雄心.mp3" length="17166045" type="audio/mpeg"/>
+      <ns0:duration>17:52</ns0:duration>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>65</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈066：独尊儒术-罢黜百家</title>
+      <description># 通鉴日谈066 - 独尊儒术：董仲舒与帝国的思想大一统
+📜 一个书生改变了中国的思想版图
+董仲舒向汉武帝提出"罢黜百家，独尊儒术"，从此儒家成为中国两千年官方意识形态。表面上是学术选择，实际上是政治需要——统一思想才能统一行动。诸子百家争鸣的时代，从此一去不返。
+⚖️ 思想统一的代价
+独尊儒术的好处是明确的：社会有共同的价值观，统治有合法性来源，教育有标准教材。但代价同样巨大：异端被压制，创新被扼杀，思想多样性消失。中国后来两千年的科技停滞，与思想的单一化脱不了干系。
+💡今日启示：任何组织都需要统一的价值观，但"统一"和"单一"是两回事。统一是方向一致、底线共识；单一是不允许不同声音。前者让团队有合力，后者让组织失去进化能力。
+下期预告：独尊儒术是思想上的开疆，张骞出塞则是地理上的拓土。一个人、十三年、两个世界，他是如何做到的？</description>
+      <ns0:summary># 通鉴日谈066 - 独尊儒术：董仲舒与帝国的思想大一统
+📜 一个书生改变了中国的思想版图
+董仲舒向汉武帝提出"罢黜百家，独尊儒术"，从此儒家成为中国两千年官方意识形态。表面上是学术选择，实际上是政治需要——统一思想才能统一行动。诸子百家争鸣的时代，从此一去不返。
+⚖️ 思想统一的代价
+独尊儒术的好处是明确的：社会有共同的价值观，统治有合法性来源，教育有标准教材。但代价同样巨大：异端被压制，创新被扼杀，思想多样性消失。中国后来两千年的科技停滞，与思想的单一化脱不了干系。
+💡今日启示：任何组织都需要统一的价值观，但"统一"和"单一"是两回事。统一是方向一致、底线共识；单一是不允许不同声音。前者让团队有合力，后者让组织失去进化能力。
+下期预告：独尊儒术是思想上的开疆，张骞出塞则是地理上的拓土。一个人、十三年、两个世界，他是如何做到的？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈066-独尊儒术-罢黜百家.mp3" length="15673095" type="audio/mpeg"/>
+      <ns0:duration>16:19</ns0:duration>
+      <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>66</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈067：张骞出塞-凿空西域</title>
+      <description># 通鉴日谈067 - 张骞出塞：一个人打开两个世界
+🐪 被俘十三年，从未忘记使命
+公元前138年，张骞奉命出使西域联络大月氏夹击匈奴。刚出陇西就被匈奴俘虏，一囚就是十年。他在匈奴娶妻生子，却始终保留着汉节——那根代表使命的使节杖。十年后他找到机会逃脱，不是往东回家，而是继续西行完成使命。
+🌍 凿空西域：地理大发现的中国版
+张骞最终到达了大月氏、大宛、康居等国，带回了西域的地理、物产和军事情报。虽然没有完成联合大月氏的军事目标，但他打开了一扇门——丝绸之路从此贯通东西方。中国第一次知道世界远比自己想象的大。
+💡今日启示：真正的使命感能让人在被俘十年后依然选择继续前行。张骞的伟大不在于他成功了，而在于他始终没有放弃。当你知道自己在做什么，任何障碍都只是绕路，不是终点。
+下期预告：丝路打通了，接下来就是决战。卫青、霍去病横扫漠北，封狼居胥——那是汉朝军功的巅峰时刻。</description>
+      <ns0:summary># 通鉴日谈067 - 张骞出塞：一个人打开两个世界
+🐪 被俘十三年，从未忘记使命
+公元前138年，张骞奉命出使西域联络大月氏夹击匈奴。刚出陇西就被匈奴俘虏，一囚就是十年。他在匈奴娶妻生子，却始终保留着汉节——那根代表使命的使节杖。十年后他找到机会逃脱，不是往东回家，而是继续西行完成使命。
+🌍 凿空西域：地理大发现的中国版
+张骞最终到达了大月氏、大宛、康居等国，带回了西域的地理、物产和军事情报。虽然没有完成联合大月氏的军事目标，但他打开了一扇门——丝绸之路从此贯通东西方。中国第一次知道世界远比自己想象的大。
+💡今日启示：真正的使命感能让人在被俘十年后依然选择继续前行。张骞的伟大不在于他成功了，而在于他始终没有放弃。当你知道自己在做什么，任何障碍都只是绕路，不是终点。
+下期预告：丝路打通了，接下来就是决战。卫青、霍去病横扫漠北，封狼居胥——那是汉朝军功的巅峰时刻。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈067-张骞出塞-凿空西域.mp3" length="15232984" type="audio/mpeg"/>
+      <ns0:duration>15:52</ns0:duration>
+      <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>67</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈068：漠北决战-封狼居胥</title>
+      <description># 通鉴日谈068 - 漠北决战：霍去病的传奇与卫青的功勋
+⚔️ 封狼居胥：武将最高荣耀
+公元前119年，卫青、霍去病各率五万骑兵北击匈奴。卫青击溃匈奴单于主力，霍去病更是一路追击到狼居胥山，祭天封礼——"封狼居胥"从此成为中国武将的最高荣耀。此战之后，匈奴远遁，漠南无王庭。
+🔥 天才与老将
+霍去病二十四岁就打出了封狼居胥的战绩，用兵神速、不拘兵法，是纯粹的军事天才。卫青则是稳健型统帅，步步为营、从不冒进。两种风格，两种人生——霍去病二十四岁暴毙，卫青善终但晚年谨小慎微。天才燃烧太快，老将懂得收敛。
+💡今日启示：团队既需要霍去病式的突破型人才，也需要卫青式的守成型人才。突破型打开局面，守成型巩固成果。最怕的是只有一种人——要么打天下后坐不住，要么守天下时打不开。
+下期预告：打完匈奴的汉武帝，晚年开始迷信方术。巫蛊之祸牵连数万人，连太子都未能幸免。</description>
+      <ns0:summary># 通鉴日谈068 - 漠北决战：霍去病的传奇与卫青的功勋
+⚔️ 封狼居胥：武将最高荣耀
+公元前119年，卫青、霍去病各率五万骑兵北击匈奴。卫青击溃匈奴单于主力，霍去病更是一路追击到狼居胥山，祭天封礼——"封狼居胥"从此成为中国武将的最高荣耀。此战之后，匈奴远遁，漠南无王庭。
+🔥 天才与老将
+霍去病二十四岁就打出了封狼居胥的战绩，用兵神速、不拘兵法，是纯粹的军事天才。卫青则是稳健型统帅，步步为营、从不冒进。两种风格，两种人生——霍去病二十四岁暴毙，卫青善终但晚年谨小慎微。天才燃烧太快，老将懂得收敛。
+💡今日启示：团队既需要霍去病式的突破型人才，也需要卫青式的守成型人才。突破型打开局面，守成型巩固成果。最怕的是只有一种人——要么打天下后坐不住，要么守天下时打不开。
+下期预告：打完匈奴的汉武帝，晚年开始迷信方术。巫蛊之祸牵连数万人，连太子都未能幸免。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈068-漠北决战-封狼居胥.mp3" length="13618408" type="audio/mpeg"/>
+      <ns0:duration>14:11</ns0:duration>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>68</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈069：太子刘据-巫蛊之祸</title>
+      <description># 通鉴日谈069 - 太子刘据：父子相残的皇室悲剧
+🗡️ 巫蛊之祸：一场谣言杀了几万人
+汉武帝晚年多疑，有人告发宫中有人用巫蛊之术诅咒皇帝。武帝命江充彻查，江充与太子刘据有私怨，借机栽赃。太子恐惧之下起兵诛杀江充，却被武帝视为谋反，派兵镇压。太子兵败逃亡，最终自缢身亡。
+⚔️ 父与子，君与臣
+这不是简单的奸臣陷害。武帝晚年确实多疑到病态，但太子的应对也有问题——他没有第一时间向父亲解释，而是选择了暴力。两个最亲近的人之间，隔着一个最善于挑拨的小人，和一堵无法沟通的高墙。
+💡今日启示：当信任崩塌，任何行为都会被曲解。太子起兵自保，在武帝眼里就是造反；武帝派兵平叛，在太子眼里就是追杀。沟通必须在信任消失之前完成，一旦进入猜疑链，每一步都是错。
+下期预告：巫蛊之祸后，汉武帝终于醒悟。轮台下诏罪己，停止征伐、与民休息。一个帝王的自我救赎，能否挽救一个帝国？</description>
+      <ns0:summary># 通鉴日谈069 - 太子刘据：父子相残的皇室悲剧
+🗡️ 巫蛊之祸：一场谣言杀了几万人
+汉武帝晚年多疑，有人告发宫中有人用巫蛊之术诅咒皇帝。武帝命江充彻查，江充与太子刘据有私怨，借机栽赃。太子恐惧之下起兵诛杀江充，却被武帝视为谋反，派兵镇压。太子兵败逃亡，最终自缢身亡。
+⚔️ 父与子，君与臣
+这不是简单的奸臣陷害。武帝晚年确实多疑到病态，但太子的应对也有问题——他没有第一时间向父亲解释，而是选择了暴力。两个最亲近的人之间，隔着一个最善于挑拨的小人，和一堵无法沟通的高墙。
+💡今日启示：当信任崩塌，任何行为都会被曲解。太子起兵自保，在武帝眼里就是造反；武帝派兵平叛，在太子眼里就是追杀。沟通必须在信任消失之前完成，一旦进入猜疑链，每一步都是错。
+下期预告：巫蛊之祸后，汉武帝终于醒悟。轮台下诏罪己，停止征伐、与民休息。一个帝王的自我救赎，能否挽救一个帝国？</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈069-太子刘据-巫蛊之祸.mp3" length="13102646" type="audio/mpeg"/>
+      <ns0:duration>13:38</ns0:duration>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>69</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
+      <title>通鉴日谈通鉴日谈070：轮台罪己-帝国反思</title>
+      <description># 通鉴日谈070 - 轮台罪己：汉武帝的自我救赎与帝国转折
+📜 中国历史上第一份帝王检讨书
+公元前89年，汉武帝下《轮台诏》，公开承认自己"朕即位以来，所为狂悖，使天下愁苦，不可追悔"。这是中国历史上第一次有皇帝公开认错。他宣布停止征伐匈奴、不再征发民力，转向与民休息。
+⚖️ 真忏悔还是政治策略
+有人说轮台罪己是真心悔过，有人说只是迫不得已——国库打空了、人口减半了、各地起义了，再不转向就要亡国了。但无论动机如何，这份诏书确实改变了帝国的方向。晚汉昭宣之治的繁荣，正是从轮台罪己开始的。
+💡今日启示：承认错误不丢人，死不认错才危险。无论个人还是组织，越早转向成本越低。汉武帝用五十四年打光家底，用一纸诏书救回帝国——不是因为他有多伟大，而是因为他在最后关头选择了面对现实。
+下期预告：通鉴日谈第一季到此结束。从三家分晋到轮台罪己，我们走过了战国到西汉近三百年的历史。下一季，我们将从王莽篡汉开始，继续用古人的故事讲今天的道理。</description>
+      <ns0:summary># 通鉴日谈070 - 轮台罪己：汉武帝的自我救赎与帝国转折
+📜 中国历史上第一份帝王检讨书
+公元前89年，汉武帝下《轮台诏》，公开承认自己"朕即位以来，所为狂悖，使天下愁苦，不可追悔"。这是中国历史上第一次有皇帝公开认错。他宣布停止征伐匈奴、不再征发民力，转向与民休息。
+⚖️ 真忏悔还是政治策略
+有人说轮台罪己是真心悔过，有人说只是迫不得已——国库打空了、人口减半了、各地起义了，再不转向就要亡国了。但无论动机如何，这份诏书确实改变了帝国的方向。晚汉昭宣之治的繁荣，正是从轮台罪己开始的。
+💡今日启示：承认错误不丢人，死不认错才危险。无论个人还是组织，越早转向成本越低。汉武帝用五十四年打光家底，用一纸诏书救回帝国——不是因为他有多伟大，而是因为他在最后关头选择了面对现实。
+下期预告：通鉴日谈第一季到此结束。从三家分晋到轮台罪己，我们走过了战国到西汉近三百年的历史。下一季，我们将从王莽篡汉开始，继续用古人的故事讲今天的道理。</ns0:summary>
+      <enclosure url="https://raw.githubusercontent.com/topsuper01/tongjian-podcast/main/audio/通鉴日谈070-轮台罪己-帝国反思.mp3" length="12416775" type="audio/mpeg"/>
+      <ns0:duration>12:56</ns0:duration>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 GMT</pubDate>
+      <ns0:episode>70</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
   </channel>
 </rss>
